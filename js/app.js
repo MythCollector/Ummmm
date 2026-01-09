@@ -1,15 +1,18 @@
+const root = document.documentElement;
+const toggleBtn = document.getElementById("theme-toggle");
+const thumb = toggleBtn.querySelector(".toggle-thumb");
 
-document.documentElement.dataset.theme =
-  localStorage.getItem("theme") || "light";
-
-function toggleTheme() {
-  const root = document.documentElement;
-  const next = root.dataset.theme === "dark" ? "light" : "dark";
-  root.dataset.theme = next;
-  localStorage.setItem("theme", next);
-}
+// read saved theme or system preference
+const savedTheme = localStorage.getItem("theme");
 const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-const saved = localStorage.getItem("theme");
+let theme = savedTheme || (prefersDark ? "dark" : "light");
+root.dataset.theme = theme;
+thumb.textContent = theme === "dark" ? "☀️" : "🌙";
 
-document.documentElement.dataset.theme =
-  saved || (prefersDark ? "dark" : "light");
+// toggle on click
+toggleBtn.addEventListener("click", () => {
+  theme = theme === "dark" ? "light" : "dark";
+  root.dataset.theme = theme;
+  localStorage.setItem("theme", theme);
+  thumb.textContent = theme === "dark" ? "☀️" : "🌙";
+});
