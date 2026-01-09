@@ -1,47 +1,38 @@
-
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <title>My Dashboard</title>
+  <title>CoderPlaza</title>
+  <meta name="description" content="Small useful things I’m building over time." />
+  <meta name="theme-color" content="#f1f2f6" />
 
   <!-- Styles -->
   <link rel="stylesheet" href="css/main.css" />
   <link rel="stylesheet" href="css/themes.css" />
+
+  <!-- Favicon (optional for now) -->
+  <!-- <link rel="icon" href="assets/favicon.png" /> -->
 </head>
-<body data-theme="dark">
 
-  <!-- Top Bar -->
-  <header id="topbar">
-    <h1>Dashboard</h1>
-
-    <div id="topbar-actions">
-      <button id="toggle-theme">🌗</button>
-      <button id="open-settings">⚙️</button>
-    </div>
+<body>
+  <header class="site-header">
+    <h1 class="site-title">CoderPlaza</h1>
+    <p class="site-tagline">
+      Little tools, experiments, and ideas — added as I go.
+    </p>
   </header>
 
-  <!-- Main Grid -->
-  <main id="dashboard-grid">
-    <!-- Modules will be injected here -->
+  <main class="modules-grid" id="modules-grid">
+    <!-- Module cards will be injected here by JS -->
   </main>
 
-  <!-- Settings Modal (hidden by default) -->
-  <div id="settings-modal" class="hidden">
-    <div class="modal-content">
-      <h2>Settings</h2>
+  <footer class="site-footer">
+    <p>Built slowly. On purpose. Or on Accident. Who knows?</p>
+  </footer>
 
-      <section id="module-settings">
-        <!-- Module toggles go here -->
-      </section>
-
-      <button id="close-settings">Close</button>
-    </div>
-  </div>
-
-  <!-- App Bootstrap -->
-  <script type="module" src="js/app.js"></script>
+  <!-- Bootstrap -->
+  <script src="js/app.js"></script>
 </body>
 </html>
