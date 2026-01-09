@@ -17,12 +17,25 @@
 </head>
 
 <body>
-  <header class="site-header">
+ <header class="site-header">
+  <div class="header-inner">
     <h1 class="site-title">CoderPlaza</h1>
-    <p class="site-tagline">
-      Little tools, experiments, and ideas — added as I go.
-    </p>
-  </header>
+
+    <button
+      class="theme-toggle"
+      id="theme-toggle"
+      aria-label="Toggle theme"
+      title="Toggle theme"
+    >
+      <span class="theme-icon">🌙</span>
+    </button>
+  </div>
+
+  <p class="site-tagline">
+    Little tools, experiments, and ideas — added as I go.
+  </p>
+</header>
+
 
   <main class="modules-grid" id="modules-grid">
     <!-- Module cards will be injected here by JS -->
