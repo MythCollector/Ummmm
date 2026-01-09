@@ -1,22 +1,135 @@
+/* CoderPlaza — main.css
+   Calm grid, soft cards, subtle motion
+*/
+
+:root {
+  --bg: #f1f2f6;
+  --card-bg: #ffffff;
+  --text: #000000;
+  --muted: rgba(0, 0, 0, 0.7);
+  --shadow: 0 4px 10px rgba(0,0,0,0.08);
+  --shadow-hover: 0 8px 18px rgba(0,0,0,0.12);
+  --radius: 14px;
+}
 
 * {
   box-sizing: border-box;
+  margin: 0;
+}
+
+html, body {
+  min-height: 100%;
 }
 
 body {
-  margin: 0;
-  font-family: system-ui, sans-serif;
   background: var(--bg);
   color: var(--text);
+  font-family:
+    system-ui,
+    -apple-system,
+    Segoe UI,
+    Roboto,
+    Ubuntu,
+    Cantarell,
+    "Noto Sans",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.4;
 }
 
-#topbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0.75rem 1rem;
-  border-bottom: 1px solid var(--border);
+/* Header */
+.site-header {
+  text-align: center;
+  padding-top: 48px;
+  padding-bottom: 36px;
 }
 
-#dashboard-grid {
- 
+.site-title {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.site-tagline {
+  margin-top: 12px;
+  font-size: 18px;
+  opacity: 0.75;
+}
+
+/* Grid */
+.modules-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 22px;
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 24px 40px;
+}
+
+/* Module card */
+.module-card {
+  background: var(--card-bg);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 18px 18px 16px;
+  cursor: pointer;
+  transition: transform 80ms ease, box-shadow 80ms ease;
+}
+
+@media (hover: hover) {
+  .module-card:hover {
+    transform: scale(1.025);
+    box-shadow: var(--shadow-hover);
+  }
+}
+
+.module-card:active {
+  transform: scale(1.01);
+}
+
+/* Card contents */
+.module-icon {
+  font-size: 26px;
+  margin-bottom: 10px;
+}
+
+.module-title {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.module-desc {
+  margin-top: 6px;
+  font-size: 15px;
+  opacity: 0.75;
+}
+
+/* Footer */
+.site-footer {
+  text-align: center;
+  padding: 18px 0 28px;
+  font-size: 14px;
+  opacity: 0.5;
+}
+
+/* Mobile tweaks */
+@media (max-width: 600px) {
+  .site-header {
+    padding-top: 36px;
+    padding-bottom: 28px;
+  }
+
+  .site-title {
+    font-size: 26px;
+  }
+
+  .site-tagline {
+    font-size: 16px;
+  }
+
+  .modules-grid {
+    gap: 14px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
