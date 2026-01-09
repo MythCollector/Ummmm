@@ -2,16 +2,6 @@
    Calm grid, soft cards, subtle motion
 */
 
-:root {
-  --bg: #f1f2f6;
-  --card-bg: #ffffff;
-  --text: #000000;
-  --muted: rgba(0, 0, 0, 0.7);
-  --shadow: 0 4px 10px rgba(0,0,0,0.08);
-  --shadow-hover: 0 8px 18px rgba(0,0,0,0.12);
-  --radius: 14px;
-}
-
 * {
   box-sizing: border-box;
   margin: 0;
