@@ -347,3 +347,71 @@ body {
 .module-fullscreen-overlay .toolbar button:active {
   transform: scale(1.02);
 }
+.module-card {
+  cursor: pointer;
+}
+
+.module-card:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px var(--accent, #6c8cff);
+}/* Notes module sidebar */
+.notes-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 8px;
+  border-radius: 8px;
+  background: var(--card-bg);
+  overflow-y: auto;
+}
+
+/* Each note button */
+.notes-sidebar button {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--card-bg);
+  color: var(--text);
+  border: none;
+  border-radius: 6px;
+  padding: 6px 10px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: transform 80ms ease, box-shadow 120ms ease, background 180ms ease;
+}
+
+.notes-sidebar button:hover {
+  transform: scale(1.03);
+  box-shadow: var(--shadow-hover);
+  background: var(--card-bg-hover, var(--card-bg));
+}
+
+.notes-sidebar button:active {
+  transform: scale(1.01);
+}
+
+/* Add new note button */
+.notes-sidebar .add-note-btn {
+  background: #4caf50;
+  color: white;
+  font-weight: 600;
+  margin-top: 8px;
+}
+
+.notes-sidebar .add-note-btn:hover {
+  background: #45a049;
+}
+
+/* Delete note button inside each note */
+.notes-sidebar .delete-note-btn {
+  background: transparent;
+  color: #ff4d4f;
+  font-weight: bold;
+  padding: 0 6px;
+  margin-left: 8px;
+}
+
+.notes-sidebar .delete-note-btn:hover {
+  color: #ff1a1a;
+}
+

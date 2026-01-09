@@ -1,0 +1,40 @@
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.notes-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 20px;
+}
+
+.notes-layout {
+  flex: 1;
+  display: grid;
+  grid-template-columns: 240px 1fr;
+}
+
+#notes-list {
+  border-right: 1px solid #ccc;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+#notes-list button {
+  padding: 8px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}
+
+#editor {
+  padding: 20px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  resize: none;
+}

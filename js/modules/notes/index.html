@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Notes 📝</title>
+  <link rel="stylesheet" href="../../../css/main.css">
+  <link rel="stylesheet" href="../../../css/themes.css">
+  <style>
+    html, body {
+      margin: 0;
+      height: 100%;
+    }
+    #notes-container {
+      width: 100vw;
+      height: 100vh;
+    }
+   textarea {
+  background: var(--bg);
+  color: var(--text);
+  border: 1px solid var(--border-color, #ccc);
+}
+
+    button {
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div id="notes-container"></div>
+
+  <script type="module">
+    import { mount } from './notes.js';
+    const container = document.getElementById('notes-container');
+    mount(container, { fullscreen: true });
+  </script>
+</body>
+</html>

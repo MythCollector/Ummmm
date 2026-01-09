@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bookmarklet Runner</title>
+<link rel="stylesheet" href="../../css/main.css">
+<style>
+  :root {
+    --card-bg: #f5f5f5;
+    --card-bg-hover: #e0e0e0;
+    --text: #111;
+    --shadow: 0 2px 6px rgba(0,0,0,0.15);
+    --shadow-hover: 0 4px 10px rgba(0,0,0,0.2);
+  }
+
+  [data-theme="dark"] {
+    --card-bg: #1e1e1e;
+    --card-bg-hover: #333;
+    --text: #eee;
+    --shadow: 0 2px 6px rgba(0,0,0,0.6);
+    --shadow-hover: 0 4px 10px rgba(0,0,0,0.8);
+  }
+
+  body {
+    font-family: system-ui, sans-serif;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background: var(--bg, var(--card-bg));
+    color: var(--text);
+    transition: background 0.2s, color 0.2s;
+  }
+
+  h1 {
+    font-size: 24px;
+    margin-bottom: 12px;
+  }
+
+  #container {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    gap: 12px;
+  }
+
+  .input-section {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  input, textarea, button {
+    border-radius: 6px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+    background: var(--card-bg);
+    color: var(--text);
+    transition: background 0.2s, color 0.2s;
+  }
+
+  textarea {
+    resize: vertical;
+    min-height: 80px;
+  }
+
+  button {
+    cursor: pointer;
+    border: none;
+    box-shadow: var(--shadow);
+    transition: transform 80ms ease, box-shadow 80ms ease, background 0.2s, color 0.2s;
+  }
+
+  button:hover {
+    transform: scale(1.03);
+    box-shadow: var(--shadow-hover);
+  }
+
+  #bookmarklet-list {
+    flex: 1;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding-top: 6px;
+  }
+
+  .bookmarklet-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--card-bg);
+    padding: 6px 8px;
+    border-radius: 6px;
+  }
+
+  .bookmarklet-item a {
+    color: var(--text);
+    text-decoration: none;
+    flex: 1;
+  }
+
+  .bookmarklet-item button {
+    background: #ff4d4d;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 4px;
+    padding: 4px 8px;
+  }
+
+  .bookmarklet-item button:hover {
+    background: #ff1a1a;
+  }
+
+  .hint {
+    font-size: 12px;
+    opacity: 0.7;
+    margin-top: 4px;
+  }
+</style>
+</head>
+<body>
+<h1>Bookmarklet Runner 🔖</h1>
+<div id="container"></div>
+<p class="hint">Tip: Drag a snippet link to your bookmarks bar or copy it to run on any site!</p>
+
+<script type="module">
+  import { mount } from './bookmarklets.js';
+  const container = document.getElementById('container');
+  mount(container);
+
+  // Sync theme with main app
+  const root = document.documentElement;
+  const mainTheme = localStorage.getItem('coderplaza-theme') || 'light';
+  root.dataset.theme = mainTheme;
+
+  // Watch for changes in main tab theme
+  const observer = new MutationObserver(() => {
+    const newTheme = localStorage.getItem('coderplaza-theme') || 'light';
+    root.dataset.theme = newTheme;
+  });
+  observer.observe(document.body, { attributes: true, attributeFilter: ['data-theme'] });
+</script>
+</body>
+</html>

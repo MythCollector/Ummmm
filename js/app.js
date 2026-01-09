@@ -15,4 +15,7 @@ toggleBtn.addEventListener("click", () => {
   root.dataset.theme = theme;
   localStorage.setItem("theme", theme);
   thumb.textContent = theme === "dark" ? "☀️" : "🌙";
+
+  // Save for other modules or new tabs
+  localStorage.setItem("coderplaza-theme", theme); // ✅ use `theme` instead of `next`
 });
