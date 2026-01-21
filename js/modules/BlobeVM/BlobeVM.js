@@ -3,7 +3,7 @@ export const moduleData = {
   icon: "🖥️",
   title: "BlobVM",
   desc: "Run your offline virtual machine.",
-  entry: "https://solid-spoon-7v67v9q6577cpwgj-3000.app.github.dev/" // <- full URL with port
+  entry: "https://miniature-fortnight-5gjwwxqjj77g3p65p-3000.app.github.dev/" // <- full URL with port
 };
 
 
