@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Karma osu!-style interactive sliders</title>
+<style>
+body { margin:0; overflow:hidden; background:#111; font-family:sans-serif; color:white; }
+#songVideo { position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover; z-index:0; }
+#gameCanvas { position:absolute; top:0; left:0; z-index:1; }
+#overlay { position:absolute; top:0; left:0; width:100%; height:100%; display:flex; justify-content:center; align-items:center; font-size:36px; background:rgba(0,0,0,0.8); cursor:pointer; z-index:5; }
+#score { position:absolute; top:10px; left:10px; font-size:24px; z-index:10; }
+</style>
+</head>
+<body>
+
+<video id="songVideo" src="videoplayback.mp4" loop></video>
+<canvas id="gameCanvas"></canvas>
+
+<div id="overlay">Click to Start</div>
+<div id="score">Score: 0</div>
+
+<script>
+const canvas = document.getElementById('gameCanvas');
+const ctx = canvas.getContext('2d');
+canvas.width = window.innerWidth;
+canvas.height = window.innerHeight;
+
+const songVideo = document.getElementById('songVideo');
+const overlay = document.getElementById('overlay');
+
+let mouseX = 0;
+let mouseY = 0;
+let mouseDown = false;
+canvas.addEventListener('mousemove', e => { mouseX = e.clientX; mouseY = e.clientY; });
+canvas.addEventListener('mousedown', e => { mouseDown = true; });
+canvas.addEventListener('mouseup', e => { mouseDown = false; });
+
+let score = 0;
+const hitRadius = 50;
+const hitWindow = 0.25;
+
+let hitCircleColor = 'white';
+
+// Hit objects
+const notes = [
+    {type:"circle", x:300, y:200, time:1, hit:false},
+    {type:"circle", x:800, y:150, time:2, hit:false},
+    {type:"slider", path:[[600,400],[900,400]], time:3, duration:2, hit:false, progress:0, isSliding:false, missed:false},
+    {type:"circle", x:400, y:500, time:5, hit:false}
+];
+
+overlay.addEventListener('click', () => {
+    songVideo.play();
+    overlay.style.display='none';
+    requestAnimationFrame(draw);
+});
+
+function flashCircle(color){
+    hitCircleColor=color;
+    setTimeout(()=>hitCircleColor='white',150);
+}
+
+// Click detection for circles and starting sliders
+canvas.addEventListener('mousedown', () => {
+    const now = songVideo.currentTime;
+    notes.forEach(note => {
+        if(!note.hit){
+            if(note.type==="circle" && Math.abs(note.time - now)<=hitWindow){
+                const dx = mouseX - note.x;
+                const dy = mouseY - note.y;
+                if(Math.sqrt(dx*dx + dy*dy)<=hitRadius){
+                    note.hit = true;
+                    score++;
+                    flashCircle('green');
+                }
+            } else if(note.type==="slider" && !note.isSliding){
+                const dx = mouseX - note.path[0][0];
+                const dy = mouseY - note.path[0][1];
+                if(Math.sqrt(dx*dx + dy*dy)<=hitRadius && now >= note.time - hitWindow && now <= note.time + hitWindow){
+                    note.isSliding = true;
+                    note.missed = false;
+                    note.progress = 0;
+                }
+            }
+        }
+    });
+});
+
+function updateSlider(slider){
+    const now = songVideo.currentTime;
+    const t = (now - slider.time)/slider.duration;
+    if(t < 0 || t > 1) return;
+
+    const start = slider.path[0];
+    const end = slider.path[1];
+    const handleX = start[0] + (end[0]-start[0])*t;
+    const handleY = start[1] + (end[1]-start[1])*t;
+
+    if(slider.isSliding){
+        const dx = mouseX - handleX;
+        const dy = mouseY - handleY;
+        const dist = Math.sqrt(dx*dx + dy*dy);
+        if(dist <= hitRadius && mouseDown){
+            slider.progress = t; // update progress
+            hitCircleColor='green';
+        } else {
+            hitCircleColor='red';
+            slider.missed=true;
+        }
+
+        if(t >= 1){
+            slider.hit=true;
+            slider.isSliding=false;
+            if(!slider.missed){
+                score++;
+                flashCircle('green');
+            } else {
+                flashCircle('red');
+            }
+        }
+    }
+
+    slider.handleX = handleX;
+    slider.handleY = handleY;
+}
+
+function draw(){
+    ctx.clearRect(0,0,canvas.width,canvas.height);
+    const now = songVideo.currentTime;
+
+    notes.forEach(note=>{
+        if(!note.hit){
+            if(note.type==="circle"){
+                const approachTime = 1.0;
+                const timeDiff = note.time - now;
+                if(timeDiff < approachTime){
+                    const radius = hitRadius + timeDiff*100;
+                    ctx.beginPath();
+                    ctx.arc(note.x,note.y,radius,0,Math.PI*2);
+                    ctx.strokeStyle='yellow';
+                    ctx.lineWidth=4;
+                    ctx.stroke();
+
+                    ctx.beginPath();
+                    ctx.arc(note.x,note.y,hitRadius,0,Math.PI*2);
+                    ctx.fillStyle='rgba(255,255,255,0.3)';
+                    ctx.fill();
+                }
+            } else if(note.type==="slider"){
+                updateSlider(note);
+                ctx.beginPath();
+                ctx.moveTo(note.path[0][0],note.path[0][1]);
+                ctx.lineTo(note.path[1][0],note.path[1][1]);
+                ctx.strokeStyle='cyan';
+                ctx.lineWidth=8;
+                ctx.stroke();
+
+                ctx.beginPath();
+                ctx.arc(note.handleX,note.handleY,hitRadius*0.6,0,Math.PI*2);
+                ctx.fillStyle='rgba(255,255,255,0.7)';
+                ctx.fill();
+            }
+        }
+    });
+
+    ctx.beginPath();
+    ctx.arc(mouseX,mouseY,hitRadius,0,Math.PI*2);
+    ctx.strokeStyle=hitCircleColor;
+    ctx.lineWidth=3;
+    ctx.stroke();
+
+    document.getElementById('score').textContent='Score: '+score;
+    requestAnimationFrame(draw);
+}
+</script>
+</body>
+</html>
