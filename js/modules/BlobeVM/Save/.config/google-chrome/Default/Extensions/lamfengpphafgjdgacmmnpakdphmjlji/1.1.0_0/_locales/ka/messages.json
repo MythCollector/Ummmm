@@ -1,0 +1,125 @@
+{
+  "name": {
+    "message": "სურათების ნაყარი ჩამოტვირთვა"
+  },
+  "description": {
+    "message": "ჩამოტვირთეთ სურათები ნაყარად რამდენიმე ჩანართიდან ერთი დაწკაპუნებით. მხარდაჭერა AVIF, WebP და AI-ის მიერ შექმნილი სურათების. ფილტრი გარჩევისუნარიანობისა და ფაილის ტიპის მიხედვით."
+  },
+  "download_settings_save_confirm_key": {
+    "message": "ჰკითხეთ, სად შეინახოთ თითოეული ფაილი ჩამოტვირთვამდე"
+  },
+  "menu_all_tabs": {
+    "message": "ყველა ჩანართი"
+  },
+  "menu_current_tab": {
+    "message": "მიმდინარე ჩანართი"
+  },
+  "menu_right_tab": {
+    "message": "მიმდინარე ჩანართის მარჯვნივ"
+  },
+  "menu_left_tab": {
+    "message": "მიმდინარე ჩანართის მარცხნივ"
+  },
+  "shortcut_alt_a": {
+    "message": "Alt+A"
+  },
+  "shortcut_alt_c": {
+    "message": "Alt+C"
+  },
+  "shortcut_alt_r": {
+    "message": "Alt+R"
+  },
+  "shortcut_alt_l": {
+    "message": "Alt+L"
+  },
+  "dialog_title": {
+    "message": "Chrome ჩამოტვირთვების პარამეტრი"
+  },
+  "dialog_please_do_not_select": {
+    "message": "გთხოვთ არ აირჩიოთ"
+  },
+  "dialog_otherwise": {
+    "message": "პარამეტრი Chrome ჩამოტვირთვების პარამეტრში. წინააღმდეგ შემთხვევაში, სურათის ჩამოტვირთვისას, ბევრი დადასტურების დიალოგური ფანჯარა გამოჩნდება."
+  },
+  "dialog_open_settings": {
+    "message": "Chrome ჩამოტვირთვების პარამეტრი"
+  },
+  "dialog_dont_show_again": {
+    "message": "არ აჩვენო ეს დიალოგი შემდეგ ჯერზე"
+  },
+  "dialog_cancel": {
+    "message": "გაუქმება"
+  },
+  "dialog_download_image": {
+    "message": "სურათის ჩამოტვირთვა"
+  },
+  "panel_width": {
+    "message": "სიგანე"
+  },
+  "panel_height": {
+    "message": "სიმაღლე"
+  },
+  "panel_image_types": {
+    "message": "გამოსახულების ტიპები"
+  },
+  "panel_sort": {
+    "message": "დალაგება"
+  },
+  "sort_tab_index": {
+    "message": "ჩანართის ინდექსი"
+  },
+  "sort_large_first": {
+    "message": "ჯერ დიდი"
+  },
+  "sort_small_first": {
+    "message": "ჯერ პატარა"
+  },
+  "range_inf": {
+    "message": "ინფ"
+  },
+  "action_invert_selection": {
+    "message": "შებრუნებული შერჩევა"
+  },
+  "action_download": {
+    "message": "ჩამოტვირთვა"
+  },
+  "action_selected_count": {
+    "message": "($1 არჩეული)"
+  },
+  "info_images_count": {
+    "message": "$1 / $2 სურათები"
+  },
+  "title_light_mode": {
+    "message": "სინათლის რეჟიმზე გადართვა"
+  },
+  "title_dark_mode": {
+    "message": "ბნელ რეჟიმზე გადართვა"
+  },
+  "title_rate": {
+    "message": "შეაფასეთ ეს გაფართოება"
+  },
+  "title_downloads_setting": {
+    "message": "Chrome ჩამოტვირთვების პარამეტრი"
+  },
+  "developer_website": {
+    "message": "დეველოპერის საიტი"
+  },
+  "title_click_toggle": {
+    "message": "დააწკაპუნეთ შესამოწმებლად ან მოხსნათ"
+  },
+  "rate_prompt_title": {
+    "message": "მოგწონთ ეს გაფართოება?"
+  },
+  "rate_prompt_message": {
+    "message": "თქვენი 5-ვარსკვლავიანი შეფასება ყველაზე დიდი მხარდაჭერაა ამ გაფართოების გასაუმჯობესებლად."
+  },
+  "rate_prompt_rate": {
+    "message": "მიეცით 5 ვარსკვლავი"
+  },
+  "rate_prompt_later": {
+    "message": "იქნებ მოგვიანებით"
+  },
+  "rate_prompt_no_thanks": {
+    "message": "არა, გმადლობთ"
+  }
+}

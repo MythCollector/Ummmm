@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ"
+   },
+   "action_invert_selection": {
+      "message": "ಆಯ್ಕೆಯನ್ನು ತಿರುಗಿಸಿ"
+   },
+   "action_selected_count": {
+      "message": "($1 ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ)"
+   },
+   "description": {
+      "message": "ಒಂದು ಕ್ಲಿಕ್ನಲ್ಲಿ ಒಂದಕ್ಷೇ ಹಲವು ಟ್ಯಾಬ್‌ಗಳಿಂದ ಚಿತ್ರಗಳನ್ನು ಬೃಹತ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ. AVIF, WebP ಮತ್ತು AI-ಉತ್ಪಾದಿತ ಚಿತ್ರಗಳನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ. ರೆಸಲ್ಯೂಶನ್ ಮತ್ತು ಫೈಲ್ ಪ್ರಕಾರದಿಂದ ಫಿಲ್ಟರ್ ಮಾಡಿ."
+   },
+   "developer_website": {
+      "message": "ಡೆವಲಪರ್ ವೆಬ್‌ಸೈಟ್"
+   },
+   "dialog_cancel": {
+      "message": "ರದ್ದುಮಾಡಿ"
+   },
+   "dialog_dont_show_again": {
+      "message": "ಮುಂದಿನ ಬಾರಿ ಈ ಸಂವಾದವನ್ನು ತೋರಿಸಬೇಡಿ"
+   },
+   "dialog_download_image": {
+      "message": "ಚಿತ್ರವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ"
+   },
+   "dialog_open_settings": {
+      "message": "Chrome ಡೌನ್‌ಲೋಡ್‌ಗಳ ಸೆಟ್ಟಿಂಗ್"
+   },
+   "dialog_otherwise": {
+      "message": "Chrome ಡೌನ್‌ಲೋಡ್‌ಗಳ ಸೆಟ್ಟಿಂಗ್‌ನಲ್ಲಿ ಆಯ್ಕೆ. ಇಲ್ಲದಿದ್ದರೆ, ನೀವು ಚಿತ್ರವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿದಾಗ, ಬಹಳಷ್ಟು ದೃಢೀಕರಣ ಡೈಲಾಗ್ ಬಾಕ್ಸ್ ಪಾಪ್ ಅಪ್ ಆಗುತ್ತದೆ."
+   },
+   "dialog_please_do_not_select": {
+      "message": "ದಯವಿಟ್ಟು ಆಯ್ಕೆ ಮಾಡಬೇಡಿ"
+   },
+   "dialog_title": {
+      "message": "Chrome ಡೌನ್‌ಲೋಡ್‌ಗಳ ಸೆಟ್ಟಿಂಗ್"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "ಡೌನ್‌ಲೋಡ್ ಮಾಡುವ ಮೊದಲು ಪ್ರತಿ ಫೈಲ್ ಅನ್ನು ಎಲ್ಲಿ ಉಳಿಸಬೇಕೆಂದು ಕೇಳಿ"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 ಚಿತ್ರಗಳು"
+   },
+   "menu_all_tabs": {
+      "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳು"
+   },
+   "menu_current_tab": {
+      "message": "ಪ್ರಸ್ತುತ ಟ್ಯಾಬ್"
+   },
+   "menu_left_tab": {
+      "message": "ಪ್ರಸ್ತುತ ಟ್ಯಾಬ್‌ನ ಎಡಕ್ಕೆ"
+   },
+   "menu_right_tab": {
+      "message": "ಪ್ರಸ್ತುತ ಟ್ಯಾಬ್‌ನ ಬಲ"
+   },
+   "name": {
+      "message": "ಬೃಹತ್ ಚಿತ್ರ ಡೌನ್‌ಲೋಡರ್"
+   },
+   "panel_height": {
+      "message": "ಎತ್ತರ"
+   },
+   "panel_image_types": {
+      "message": "ಚಿತ್ರದ ಪ್ರಕಾರಗಳು"
+   },
+   "panel_sort": {
+      "message": "ವಿಂಗಡಿಸು"
+   },
+   "panel_width": {
+      "message": "ಅಗಲ"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Maybe Later"
+   },
+   "rate_prompt_message": {
+      "message": "Your 5-star rating is the biggest support for me to keep improving this extension."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "No, Thanks"
+   },
+   "rate_prompt_rate": {
+      "message": "Rate 5 Stars"
+   },
+   "rate_prompt_title": {
+      "message": "Enjoying this extension?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "ಮೊದಲು ದೊಡ್ಡದು"
+   },
+   "sort_small_first": {
+      "message": "ಮೊದಲು ಚಿಕ್ಕದು"
+   },
+   "sort_tab_index": {
+      "message": "ಟ್ಯಾಬ್ ಸೂಚ್ಯಂಕ"
+   },
+   "title_click_toggle": {
+      "message": "ಪರಿಶೀಲಿಸಲು ಅಥವಾ ಅನ್ಚೆಕ್ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ"
+   },
+   "title_dark_mode": {
+      "message": "ಡಾರ್ಕ್ ಮೋಡ್‌ಗೆ ಬದಲಿಸಿ"
+   },
+   "title_downloads_setting": {
+      "message": "Chrome ಡೌನ್‌ಲೋಡ್‌ಗಳ ಸೆಟ್ಟಿಂಗ್"
+   },
+   "title_light_mode": {
+      "message": "ಲೈಟ್ ಮೋಡ್‌ಗೆ ಬದಲಿಸಿ"
+   },
+   "title_rate": {
+      "message": "ಈ ವಿಸ್ತರಣೆಯನ್ನು ರೇಟ್ ಮಾಡಿ"
+   }
+}

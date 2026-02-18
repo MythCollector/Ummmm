@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Atsisiųsti"
+   },
+   "action_invert_selection": {
+      "message": "Apverskite pasirinkimą"
+   },
+   "action_selected_count": {
+      "message": "(pasirinktas $1)"
+   },
+   "description": {
+      "message": "Atsisiųskite paveikslėlius iš kelių skirtukų vienu paspaudimu. Palaiko AVIF, WebP ir AI sukurtus vaizdus. Filtruokite pagal skiriamąją gebą ir failo tipą."
+   },
+   "developer_website": {
+      "message": "Kūrėjo svetainė"
+   },
+   "dialog_cancel": {
+      "message": "Atšaukti"
+   },
+   "dialog_dont_show_again": {
+      "message": "Nerodyti šio dialogo kitą kartą"
+   },
+   "dialog_download_image": {
+      "message": "Parsisiųsti paveikslėlį"
+   },
+   "dialog_open_settings": {
+      "message": "„Chrome“ atsisiuntimų nustatymas"
+   },
+   "dialog_otherwise": {
+      "message": "parinktis „Chrome“ atsisiuntimų nustatyme. Priešingu atveju, kai atsisiunčiate paveikslėlį, pasirodys daug patvirtinimo dialogo langų."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Nesirinkite"
+   },
+   "dialog_title": {
+      "message": "„Chrome“ atsisiuntimų nustatymas"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Prieš atsisiųsdami paklauskite, kur išsaugoti kiekvieną failą"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 vaizdai"
+   },
+   "menu_all_tabs": {
+      "message": "Visi skirtukai"
+   },
+   "menu_current_tab": {
+      "message": "Dabartinis skirtukas"
+   },
+   "menu_left_tab": {
+      "message": "Dabartinio skirtuko kairėje"
+   },
+   "menu_right_tab": {
+      "message": "Dabartinio skirtuko dešinėje"
+   },
+   "name": {
+      "message": "Masinis vaizdų atsisiuntimo programa"
+   },
+   "panel_height": {
+      "message": "Aukštis"
+   },
+   "panel_image_types": {
+      "message": "Vaizdo tipai"
+   },
+   "panel_sort": {
+      "message": "Rūšiuoti"
+   },
+   "panel_width": {
+      "message": "Plotis"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Gal vėliau"
+   },
+   "rate_prompt_message": {
+      "message": "Jūsų 5 žvaigždučių įvertinimas yra didžiausia parama tobulinant šį plėtinį."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Ne, ačiū"
+   },
+   "rate_prompt_rate": {
+      "message": "Įvertinti 5 žvaigždutėmis"
+   },
+   "rate_prompt_title": {
+      "message": "Patinka šis plėtinys?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt + A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt + C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt + L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt + R"
+   },
+   "sort_large_first": {
+      "message": "Pirmiausia didelis"
+   },
+   "sort_small_first": {
+      "message": "Pirmiausia mažas"
+   },
+   "sort_tab_index": {
+      "message": "Skirtuko rodyklė"
+   },
+   "title_click_toggle": {
+      "message": "Spustelėkite, kad patikrintumėte arba panaikintumėte žymėjimą"
+   },
+   "title_dark_mode": {
+      "message": "Perjungti į tamsųjį režimą"
+   },
+   "title_downloads_setting": {
+      "message": "„Chrome“ atsisiuntimų nustatymas"
+   },
+   "title_light_mode": {
+      "message": "Perjungti į šviesos režimą"
+   },
+   "title_rate": {
+      "message": "Įvertinkite šį plėtinį"
+   }
+}

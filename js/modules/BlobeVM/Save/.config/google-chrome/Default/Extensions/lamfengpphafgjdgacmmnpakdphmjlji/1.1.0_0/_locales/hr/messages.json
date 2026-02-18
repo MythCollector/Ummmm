@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "preuzimanje"
+   },
+   "action_invert_selection": {
+      "message": "Obrnuti odabir"
+   },
+   "action_selected_count": {
+      "message": "($1 odabrano)"
+   },
+   "description": {
+      "message": "Masovno preuzmite slike s više kartica jednim klikom. Podržava AVIF, WebP i slike generirane AI-jem. Filtrirajte prema razlučivosti i vrsti datoteke."
+   },
+   "developer_website": {
+      "message": "Web stranica razvojnog programera"
+   },
+   "dialog_cancel": {
+      "message": "Otkazati"
+   },
+   "dialog_dont_show_again": {
+      "message": "Ne prikazuj ovaj dijalog sljedeći put"
+   },
+   "dialog_download_image": {
+      "message": "Preuzmi sliku"
+   },
+   "dialog_open_settings": {
+      "message": "Postavka preuzimanja Chromea"
+   },
+   "dialog_otherwise": {
+      "message": "opcija u postavkama preuzimanja Chromea. U suprotnom, kada preuzmete sliku, iskočit će mnogo dijaloških okvira za potvrdu."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Molimo nemojte odabrati"
+   },
+   "dialog_title": {
+      "message": "Postavka preuzimanja Chromea"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Pitajte gdje spremiti svaku datoteku prije preuzimanja"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 slike"
+   },
+   "menu_all_tabs": {
+      "message": "Sve kartice"
+   },
+   "menu_current_tab": {
+      "message": "Trenutačna kartica"
+   },
+   "menu_left_tab": {
+      "message": "Lijevo od trenutne kartice"
+   },
+   "menu_right_tab": {
+      "message": "Desno od trenutne kartice"
+   },
+   "name": {
+      "message": "Bulk Image Downloader"
+   },
+   "panel_height": {
+      "message": "Visina"
+   },
+   "panel_image_types": {
+      "message": "Vrste slika"
+   },
+   "panel_sort": {
+      "message": "Vrsta"
+   },
+   "panel_width": {
+      "message": "Širina"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Možda kasnije"
+   },
+   "rate_prompt_message": {
+      "message": "Vaša ocjena od 5 zvjezdica najveća je podrška za nastavak poboljšanja ovog proširenja."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Ne, hvala"
+   },
+   "rate_prompt_rate": {
+      "message": "Ocijenite s 5 zvjezdica"
+   },
+   "rate_prompt_title": {
+      "message": "Sviđa vam se ovo proširenje?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Prvo veliko"
+   },
+   "sort_small_first": {
+      "message": "Najprije mali"
+   },
+   "sort_tab_index": {
+      "message": "Indeks kartice"
+   },
+   "title_click_toggle": {
+      "message": "Kliknite za označavanje ili poništavanje oznake"
+   },
+   "title_dark_mode": {
+      "message": "Prebacite se na tamni način rada"
+   },
+   "title_downloads_setting": {
+      "message": "Postavka preuzimanja Chromea"
+   },
+   "title_light_mode": {
+      "message": "Prebacite se na svjetlosni način rada"
+   },
+   "title_rate": {
+      "message": "Ocijenite ovo proširenje"
+   }
+}

@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "下载"
+   },
+   "action_invert_selection": {
+      "message": "反选"
+   },
+   "action_selected_count": {
+      "message": "（已选 $1 张）"
+   },
+   "description": {
+      "message": "一键从多个标签页批量下载图片。支持 AVIF、WebP 与 AI 生成图片。按分辨率和文件类型筛选。"
+   },
+   "developer_website": {
+      "message": "开发者网站"
+   },
+   "dialog_cancel": {
+      "message": "取消"
+   },
+   "dialog_dont_show_again": {
+      "message": "下次不再显示此对话框"
+   },
+   "dialog_download_image": {
+      "message": "下载图片"
+   },
+   "dialog_open_settings": {
+      "message": "Chrome 下载设置"
+   },
+   "dialog_otherwise": {
+      "message": "在 Chrome 下载设置中的该选项，否则下载图片时会弹出大量确认框。"
+   },
+   "dialog_please_do_not_select": {
+      "message": "请勿勾选"
+   },
+   "dialog_title": {
+      "message": "Chrome 下载设置"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "下载前询问每个文件的保存位置"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 张图片"
+   },
+   "menu_all_tabs": {
+      "message": "全部标签页"
+   },
+   "menu_current_tab": {
+      "message": "当前标签页"
+   },
+   "menu_left_tab": {
+      "message": "当前标签左侧"
+   },
+   "menu_right_tab": {
+      "message": "当前标签右侧"
+   },
+   "name": {
+      "message": "批量图片下载"
+   },
+   "panel_height": {
+      "message": "高度"
+   },
+   "panel_image_types": {
+      "message": "图片类型"
+   },
+   "panel_sort": {
+      "message": "排序"
+   },
+   "panel_width": {
+      "message": "宽度"
+   },
+   "range_inf": {
+      "message": "无上限"
+   },
+   "rate_prompt_later": {
+      "message": "下次再说"
+   },
+   "rate_prompt_message": {
+      "message": "您的五星好评是对我最大的支持，让我有更大的动力持续改进。"
+   },
+   "rate_prompt_no_thanks": {
+      "message": "不了，谢谢"
+   },
+   "rate_prompt_rate": {
+      "message": "给个五星好评"
+   },
+   "rate_prompt_title": {
+      "message": "喜欢这个扩展吗？"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "大图优先"
+   },
+   "sort_small_first": {
+      "message": "小图优先"
+   },
+   "sort_tab_index": {
+      "message": "按标签顺序"
+   },
+   "title_click_toggle": {
+      "message": "点击勾选或取消"
+   },
+   "title_dark_mode": {
+      "message": "切换到深色模式"
+   },
+   "title_downloads_setting": {
+      "message": "Chrome 下载设置"
+   },
+   "title_light_mode": {
+      "message": "切换到浅色模式"
+   },
+   "title_rate": {
+      "message": "为此扩展评分"
+   }
+}

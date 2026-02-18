@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Muat turun"
+   },
+   "action_invert_selection": {
+      "message": "Pilihan Songsang"
+   },
+   "action_selected_count": {
+      "message": "($1 dipilih)"
+   },
+   "description": {
+      "message": "Muat turun imej secara pukal dari berbilang tab dengan satu klik. Menyokong AVIF, WebP & imej yang dijana AI. Tapis mengikut resolusi dan jenis fail."
+   },
+   "developer_website": {
+      "message": "Laman Web Pembangun"
+   },
+   "dialog_cancel": {
+      "message": "Batal"
+   },
+   "dialog_dont_show_again": {
+      "message": "Lain kali jangan tunjukkan dialog ini"
+   },
+   "dialog_download_image": {
+      "message": "Muat turun imej"
+   },
+   "dialog_open_settings": {
+      "message": "Tetapan Muat Turun Chrome"
+   },
+   "dialog_otherwise": {
+      "message": "pilihan dalam Tetapan Muat Turun Chrome. Jika tidak, apabila anda memuat turun gambar, banyak kotak dialog pengesahan akan muncul."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Tolong jangan pilih"
+   },
+   "dialog_title": {
+      "message": "Tetapan Muat Turun Chrome"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Tanya tempat untuk menyimpan setiap fail sebelum memuat turun"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 imej"
+   },
+   "menu_all_tabs": {
+      "message": "Semua tab"
+   },
+   "menu_current_tab": {
+      "message": "Tab semasa"
+   },
+   "menu_left_tab": {
+      "message": "Kiri tab semasa"
+   },
+   "menu_right_tab": {
+      "message": "Kanan tab semasa"
+   },
+   "name": {
+      "message": "Pemuat Turun Imej Pukal"
+   },
+   "panel_height": {
+      "message": "Ketinggian"
+   },
+   "panel_image_types": {
+      "message": "Jenis imej"
+   },
+   "panel_sort": {
+      "message": "Isih"
+   },
+   "panel_width": {
+      "message": "Lebar"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Mungkin Nanti"
+   },
+   "rate_prompt_message": {
+      "message": "Penilaian 5 bintang anda adalah sokongan terbesar untuk terus menambah baik sambungan ini."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Tidak, Terima Kasih"
+   },
+   "rate_prompt_rate": {
+      "message": "Beri 5 Bintang"
+   },
+   "rate_prompt_title": {
+      "message": "Suka sambungan ini?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Besar dulu"
+   },
+   "sort_small_first": {
+      "message": "Kecil dulu"
+   },
+   "sort_tab_index": {
+      "message": "Indeks tab"
+   },
+   "title_click_toggle": {
+      "message": "Klik untuk menyemak atau nyahtanda"
+   },
+   "title_dark_mode": {
+      "message": "Tukar kepada mod gelap"
+   },
+   "title_downloads_setting": {
+      "message": "Tetapan Muat Turun Chrome"
+   },
+   "title_light_mode": {
+      "message": "Tukar kepada mod cahaya"
+   },
+   "title_rate": {
+      "message": "Nilaikan sambungan ini"
+   }
+}

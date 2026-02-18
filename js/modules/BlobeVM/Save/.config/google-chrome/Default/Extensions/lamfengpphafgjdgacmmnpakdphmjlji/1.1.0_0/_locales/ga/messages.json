@@ -1,0 +1,125 @@
+{
+  "name": {
+    "message": "Íoslódáil Bulc Íomhá"
+  },
+  "description": {
+    "message": "Íoslódáil íomhánna in ollmhór ó ilchluasáin le hacad cliceáil. Tacaíonn le AVIF, WebP agus íomhánna ginte le AI. Scag de réir réitigh agus cineáil comhaid."
+  },
+  "download_settings_save_confirm_key": {
+    "message": "Fiafraigh cén áit ar féidir gach comhad a shábháil roimh é a íoslódáil"
+  },
+  "menu_all_tabs": {
+    "message": "Gach tabs"
+  },
+  "menu_current_tab": {
+    "message": "Cluaisín reatha"
+  },
+  "menu_right_tab": {
+    "message": "Ar dheis ón gcluaisín reatha"
+  },
+  "menu_left_tab": {
+    "message": "Ar chlé den chluaisín reatha"
+  },
+  "shortcut_alt_a": {
+    "message": "Alt+A"
+  },
+  "shortcut_alt_c": {
+    "message": "Alt+C"
+  },
+  "shortcut_alt_r": {
+    "message": "Alt+R"
+  },
+  "shortcut_alt_l": {
+    "message": "Alt+L"
+  },
+  "dialog_title": {
+    "message": "Chrome socruithe íoslódáil"
+  },
+  "dialog_please_do_not_select": {
+    "message": "Ná roghnaigh le do thoil"
+  },
+  "dialog_otherwise": {
+    "message": "rogha i Socrú Íoslódálacha Chrome. Seachas sin, nuair a bheidh tú ag íoslódáil an pictiúr, beidh go leor bosca dialóige deimhnithe pop suas."
+  },
+  "dialog_open_settings": {
+    "message": "Chrome socruithe íoslódáil"
+  },
+  "dialog_dont_show_again": {
+    "message": "Ná taispeáin an dialóg seo an chéad uair eile"
+  },
+  "dialog_cancel": {
+    "message": "Cealaigh"
+  },
+  "dialog_download_image": {
+    "message": "Íoslódáil an pictiúr"
+  },
+  "panel_width": {
+    "message": "Leithead"
+  },
+  "panel_height": {
+    "message": "Airde"
+  },
+  "panel_image_types": {
+    "message": "Cineálacha íomhánna"
+  },
+  "panel_sort": {
+    "message": "Sórtáil"
+  },
+  "sort_tab_index": {
+    "message": "Innéacs cluaisíní"
+  },
+  "sort_large_first": {
+    "message": "Mór ar dtús"
+  },
+  "sort_small_first": {
+    "message": "Beaga ar dtús"
+  },
+  "range_inf": {
+    "message": "inf"
+  },
+  "action_invert_selection": {
+    "message": "Roghnú Inbhéartaithe"
+  },
+  "action_download": {
+    "message": "Íosluchtaigh"
+  },
+  "action_selected_count": {
+    "message": "($1 roghnaithe)"
+  },
+  "info_images_count": {
+    "message": "$1 / $2 íomhánna"
+  },
+  "title_light_mode": {
+    "message": "Athraigh go mód solais"
+  },
+  "title_dark_mode": {
+    "message": "Athraigh go mód dorcha"
+  },
+  "title_rate": {
+    "message": "Ráta an síneadh seo"
+  },
+  "title_downloads_setting": {
+    "message": "Chrome socruithe íoslódáil"
+  },
+  "developer_website": {
+    "message": "Láithreán gréasáin an fhorbróra"
+  },
+  "title_click_toggle": {
+    "message": "Cliceáil chun seiceáil nó díthiceáil"
+  },
+  "rate_prompt_title": {
+    "message": "Enjoying this extension?"
+  },
+  "rate_prompt_message": {
+    "message": "Your 5-star rating is the biggest support for me to keep improving this extension."
+  },
+  "rate_prompt_rate": {
+    "message": "Rate 5 Stars"
+  },
+  "rate_prompt_later": {
+    "message": "Maybe Later"
+  },
+  "rate_prompt_no_thanks": {
+    "message": "No, Thanks"
+  }
+}

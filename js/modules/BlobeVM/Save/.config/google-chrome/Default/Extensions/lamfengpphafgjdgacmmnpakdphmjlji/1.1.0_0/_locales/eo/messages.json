@@ -1,0 +1,125 @@
+{
+  "name": {
+    "message": "Pogranda Bildo Elŝutilo"
+  },
+  "description": {
+    "message": "Amaselaste elŝutu bildojn el pluraj langetoj per unu klako. Subtenas AVIF, WebP kaj bildojn generitajn de AI. Filtru laŭ rezolucio kaj dosiertipo."
+  },
+  "download_settings_save_confirm_key": {
+    "message": "Demandu kie konservi ĉiun dosieron antaŭ elŝuti"
+  },
+  "menu_all_tabs": {
+    "message": "Ĉiuj langetoj"
+  },
+  "menu_current_tab": {
+    "message": "Nuna langeto"
+  },
+  "menu_right_tab": {
+    "message": "Dekstre de la nuna langeto"
+  },
+  "menu_left_tab": {
+    "message": "Maldekstre de la nuna langeto"
+  },
+  "shortcut_alt_a": {
+    "message": "Alt+A"
+  },
+  "shortcut_alt_c": {
+    "message": "Alt+C"
+  },
+  "shortcut_alt_r": {
+    "message": "Alt+R"
+  },
+  "shortcut_alt_l": {
+    "message": "Alt+L"
+  },
+  "dialog_title": {
+    "message": "Agordo de Chrome Elŝutoj"
+  },
+  "dialog_please_do_not_select": {
+    "message": "Bonvolu ne elekti"
+  },
+  "dialog_otherwise": {
+    "message": "opcio en Chrome Elŝuta Agordo. Alie, kiam vi elŝutas la bildon, aperos multe da konfirma dialogujo."
+  },
+  "dialog_open_settings": {
+    "message": "Agordo de Chrome Elŝutoj"
+  },
+  "dialog_dont_show_again": {
+    "message": "Ne montru ĉi tiun dialogon venontfoje"
+  },
+  "dialog_cancel": {
+    "message": "Nuligi"
+  },
+  "dialog_download_image": {
+    "message": "Elŝutu bildon"
+  },
+  "panel_width": {
+    "message": "Larĝo"
+  },
+  "panel_height": {
+    "message": "Alteco"
+  },
+  "panel_image_types": {
+    "message": "Bildaj tipoj"
+  },
+  "panel_sort": {
+    "message": "Ordigi"
+  },
+  "sort_tab_index": {
+    "message": "Tab-indekso"
+  },
+  "sort_large_first": {
+    "message": "Granda unue"
+  },
+  "sort_small_first": {
+    "message": "Malgranda unue"
+  },
+  "range_inf": {
+    "message": "inf"
+  },
+  "action_invert_selection": {
+    "message": "Inverti Elekton"
+  },
+  "action_download": {
+    "message": "Elŝutu"
+  },
+  "action_selected_count": {
+    "message": "($1 elektita)"
+  },
+  "info_images_count": {
+    "message": "$1 / $2 bildoj"
+  },
+  "title_light_mode": {
+    "message": "Ŝaltu al luma reĝimo"
+  },
+  "title_dark_mode": {
+    "message": "Ŝaltu al malhela reĝimo"
+  },
+  "title_rate": {
+    "message": "Tatu ĉi tiun etendon"
+  },
+  "title_downloads_setting": {
+    "message": "Agordo de Chrome Elŝutoj"
+  },
+  "developer_website": {
+    "message": "Retejo por programistoj"
+  },
+  "title_click_toggle": {
+    "message": "Klaku por kontroli aŭ malmarki"
+  },
+  "rate_prompt_title": {
+    "message": "Enjoying this extension?"
+  },
+  "rate_prompt_message": {
+    "message": "Your 5-star rating is the biggest support for me to keep improving this extension."
+  },
+  "rate_prompt_rate": {
+    "message": "Rate 5 Stars"
+  },
+  "rate_prompt_later": {
+    "message": "Maybe Later"
+  },
+  "rate_prompt_no_thanks": {
+    "message": "No, Thanks"
+  }
+}

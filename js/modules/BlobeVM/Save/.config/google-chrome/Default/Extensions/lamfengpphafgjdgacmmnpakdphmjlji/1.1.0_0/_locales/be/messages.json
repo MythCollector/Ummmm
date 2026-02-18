@@ -1,0 +1,125 @@
+{
+  "name": {
+    "message": "Праграма масавай загрузкі малюнкаў"
+  },
+  "description": {
+    "message": "Загружайце выявы масава з некалькіх укладак адным пстрыканнем. Падтрымлівае AVIF, WebP і выявы, створаныя ШІ. Фільтраваць па дазволу і тыпу файла."
+  },
+  "download_settings_save_confirm_key": {
+    "message": "Пытайцеся, дзе захаваць кожны файл перад загрузкай"
+  },
+  "menu_all_tabs": {
+    "message": "Усе ўкладкі"
+  },
+  "menu_current_tab": {
+    "message": "Бягучая ўкладка"
+  },
+  "menu_right_tab": {
+    "message": "Справа ад бягучай укладкі"
+  },
+  "menu_left_tab": {
+    "message": "Злева ад бягучай укладкі"
+  },
+  "shortcut_alt_a": {
+    "message": "Alt+A"
+  },
+  "shortcut_alt_c": {
+    "message": "Alt+C"
+  },
+  "shortcut_alt_r": {
+    "message": "Alt+R"
+  },
+  "shortcut_alt_l": {
+    "message": "Alt+L"
+  },
+  "dialog_title": {
+    "message": "Налада загрузкі Chrome"
+  },
+  "dialog_please_do_not_select": {
+    "message": "Калі ласка, не выбірайце"
+  },
+  "dialog_otherwise": {
+    "message": "параметр у наладах загрузак Chrome. У адваротным выпадку, калі вы спампоўваеце малюнак, з'явіцца шмат дыялогавых вокнаў пацверджання."
+  },
+  "dialog_open_settings": {
+    "message": "Налада загрузкі Chrome"
+  },
+  "dialog_dont_show_again": {
+    "message": "Не паказваць гэта дыялогавае акно ў наступны раз"
+  },
+  "dialog_cancel": {
+    "message": "Адмяніць"
+  },
+  "dialog_download_image": {
+    "message": "Спампаваць малюнак"
+  },
+  "panel_width": {
+    "message": "Шырыня"
+  },
+  "panel_height": {
+    "message": "Вышыня"
+  },
+  "panel_image_types": {
+    "message": "Тыпы малюнкаў"
+  },
+  "panel_sort": {
+    "message": "Сартаваць"
+  },
+  "sort_tab_index": {
+    "message": "Індэкс укладак"
+  },
+  "sort_large_first": {
+    "message": "Першы вялікі"
+  },
+  "sort_small_first": {
+    "message": "Спачатку малы"
+  },
+  "range_inf": {
+    "message": "інф"
+  },
+  "action_invert_selection": {
+    "message": "Інвертаваць вылучэнне"
+  },
+  "action_download": {
+    "message": "Спампаваць"
+  },
+  "action_selected_count": {
+    "message": "($1 выбраны)"
+  },
+  "info_images_count": {
+    "message": "$1 / $2 выявы"
+  },
+  "title_light_mode": {
+    "message": "Пераключыцеся на светлавы рэжым"
+  },
+  "title_dark_mode": {
+    "message": "Пераключыцеся ў цёмны рэжым"
+  },
+  "title_rate": {
+    "message": "Ацаніце гэта пашырэнне"
+  },
+  "title_downloads_setting": {
+    "message": "Налада загрузкі Chrome"
+  },
+  "developer_website": {
+    "message": "Сайт распрацоўніка"
+  },
+  "title_click_toggle": {
+    "message": "Націсніце, каб паставіць або зняць сцяжок"
+  },
+  "rate_prompt_title": {
+    "message": "Enjoying this extension?"
+  },
+  "rate_prompt_message": {
+    "message": "Your 5-star rating is the biggest support for me to keep improving this extension."
+  },
+  "rate_prompt_rate": {
+    "message": "Rate 5 Stars"
+  },
+  "rate_prompt_later": {
+    "message": "Maybe Later"
+  },
+  "rate_prompt_no_thanks": {
+    "message": "No, Thanks"
+  }
+}

@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Изтегляне"
+   },
+   "action_invert_selection": {
+      "message": "Обръщане на селекцията"
+   },
+   "action_selected_count": {
+      "message": "($1 избрано)"
+   },
+   "description": {
+      "message": "Изтегляйте изображения на едро от множество раздели с едно кликване. Поддържа AVIF, WebP и изображения, генерирани от AI. Филтрирайте по разделителна способност и тип файл."
+   },
+   "developer_website": {
+      "message": "Уебсайт на разработчика"
+   },
+   "dialog_cancel": {
+      "message": "Отказ"
+   },
+   "dialog_dont_show_again": {
+      "message": "Този диалогов прозорец да не се показва следващия път"
+   },
+   "dialog_download_image": {
+      "message": "Изтегляне на изображение"
+   },
+   "dialog_open_settings": {
+      "message": "Настройка за изтегляне на Chrome"
+   },
+   "dialog_otherwise": {
+      "message": "опция в настройката за изтегляния на Chrome. В противен случай, когато изтеглите снимката, ще изскочи много диалогов прозорец за потвърждение."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Моля, не избирайте"
+   },
+   "dialog_title": {
+      "message": "Настройка за изтегляне на Chrome"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Попитайте къде да запишете всеки файл преди изтегляне"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 изображения"
+   },
+   "menu_all_tabs": {
+      "message": "Всички раздели"
+   },
+   "menu_current_tab": {
+      "message": "Текущ раздел"
+   },
+   "menu_left_tab": {
+      "message": "Вляво от текущия раздел"
+   },
+   "menu_right_tab": {
+      "message": "Вдясно от текущия раздел"
+   },
+   "name": {
+      "message": "Масово изтегляне на изображения"
+   },
+   "panel_height": {
+      "message": "Височина"
+   },
+   "panel_image_types": {
+      "message": "Видове изображения"
+   },
+   "panel_sort": {
+      "message": "Сортиране"
+   },
+   "panel_width": {
+      "message": "ширина"
+   },
+   "range_inf": {
+      "message": "инф"
+   },
+   "rate_prompt_later": {
+      "message": "Може би по-късно"
+   },
+   "rate_prompt_message": {
+      "message": "Вашата оценка от 5 звезди е най-голямата подкрепа за подобряването на това разширение."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Не, благодаря"
+   },
+   "rate_prompt_rate": {
+      "message": "Дайте 5 звезди"
+   },
+   "rate_prompt_title": {
+      "message": "Харесвате ли това разширение?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Първо големи"
+   },
+   "sort_small_first": {
+      "message": "Първо малък"
+   },
+   "sort_tab_index": {
+      "message": "Индекс на раздела"
+   },
+   "title_click_toggle": {
+      "message": "Кликнете, за да поставите отметка или да премахнете отметката"
+   },
+   "title_dark_mode": {
+      "message": "Преминете към тъмен режим"
+   },
+   "title_downloads_setting": {
+      "message": "Настройка за изтегляне на Chrome"
+   },
+   "title_light_mode": {
+      "message": "Преминете към светъл режим"
+   },
+   "title_rate": {
+      "message": "Оценете това разширение"
+   }
+}

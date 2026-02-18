@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "İndirmek"
+   },
+   "action_invert_selection": {
+      "message": "Seçimi Ters Çevir"
+   },
+   "action_selected_count": {
+      "message": "($1 seçildi)"
+   },
+   "description": {
+      "message": "Tek tıklamayla birden fazla sekmeden toplu resim indirin. AVIF, WebP ve yapay zeka tarafından oluşturulan görüntüleri destekler. Çözünürlük ve dosya türüne göre filtreleyin."
+   },
+   "developer_website": {
+      "message": "Geliştirici Web Sitesi"
+   },
+   "dialog_cancel": {
+      "message": "İptal etmek"
+   },
+   "dialog_dont_show_again": {
+      "message": "Bir dahaki sefere bu iletişim kutusunu gösterme"
+   },
+   "dialog_download_image": {
+      "message": "Resmi indir"
+   },
+   "dialog_open_settings": {
+      "message": "Chrome İndirme Ayarı"
+   },
+   "dialog_otherwise": {
+      "message": "Chrome İndirme Ayarları'ndaki seçenek. Aksi halde resmi indirdiğinizde birçok onay iletişim kutusu açılacaktır."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Lütfen seçmeyin"
+   },
+   "dialog_title": {
+      "message": "Chrome İndirme Ayarı"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "İndirmeden önce her dosyayı nereye kaydedeceğinizi sorun"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 görseller"
+   },
+   "menu_all_tabs": {
+      "message": "Tüm sekmeler"
+   },
+   "menu_current_tab": {
+      "message": "Geçerli sekme"
+   },
+   "menu_left_tab": {
+      "message": "Geçerli sekmenin solu"
+   },
+   "menu_right_tab": {
+      "message": "Geçerli sekmenin sağında"
+   },
+   "name": {
+      "message": "Toplu Resim İndirici"
+   },
+   "panel_height": {
+      "message": "Yükseklik"
+   },
+   "panel_image_types": {
+      "message": "Resim türleri"
+   },
+   "panel_sort": {
+      "message": "Düzenlemek"
+   },
+   "panel_width": {
+      "message": "Genişlik"
+   },
+   "range_inf": {
+      "message": "bilgi"
+   },
+   "rate_prompt_later": {
+      "message": "Belki Sonra"
+   },
+   "rate_prompt_message": {
+      "message": "5 yıldızlı değerlendirmeniz, bu eklentiyi geliştirmeye devam etmem için en büyük destek."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Hayır, Teşekkürler"
+   },
+   "rate_prompt_rate": {
+      "message": "5 Yıldız Ver"
+   },
+   "rate_prompt_title": {
+      "message": "Bu eklentiyi beğendiniz mi?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Önce büyük"
+   },
+   "sort_small_first": {
+      "message": "Önce küçük"
+   },
+   "sort_tab_index": {
+      "message": "Sekme dizini"
+   },
+   "title_click_toggle": {
+      "message": "Kontrol etmek veya işareti kaldırmak için tıklayın"
+   },
+   "title_dark_mode": {
+      "message": "Karanlık moda geç"
+   },
+   "title_downloads_setting": {
+      "message": "Chrome İndirme Ayarı"
+   },
+   "title_light_mode": {
+      "message": "Işık moduna geç"
+   },
+   "title_rate": {
+      "message": "Bu uzantıyı derecelendirin"
+   }
+}

@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Λήψη"
+   },
+   "action_invert_selection": {
+      "message": "Αντιστροφή επιλογής"
+   },
+   "action_selected_count": {
+      "message": "($1 επιλεγμένο)"
+   },
+   "description": {
+      "message": "Λήψη εικόνων μαζικά από πολλές καρτέλες με ένα κλικ. Υποστηρίζει AVIF, WebP και εικόνες που δημιουργήθηκαν από AI. Φιλτράρετε ανά ανάλυση και τύπο αρχείου."
+   },
+   "developer_website": {
+      "message": "Ιστότοπος προγραμματιστή"
+   },
+   "dialog_cancel": {
+      "message": "Ματαίωση"
+   },
+   "dialog_dont_show_again": {
+      "message": "Να μην εμφανίζεται αυτό το παράθυρο διαλόγου την επόμενη φορά"
+   },
+   "dialog_download_image": {
+      "message": "Λήψη εικόνας"
+   },
+   "dialog_open_settings": {
+      "message": "Ρύθμιση λήψεων Chrome"
+   },
+   "dialog_otherwise": {
+      "message": "επιλογή στη Ρύθμιση Λήψεις Chrome. Διαφορετικά, όταν κάνετε λήψη της εικόνας, θα εμφανιστεί ένα μεγάλο παράθυρο διαλόγου επιβεβαίωσης."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Παρακαλώ μην επιλέξετε"
+   },
+   "dialog_title": {
+      "message": "Ρύθμιση λήψεων Chrome"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Ρωτήστε πού να αποθηκεύσετε κάθε αρχείο πριν από τη λήψη"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 εικόνες"
+   },
+   "menu_all_tabs": {
+      "message": "Όλες οι καρτέλες"
+   },
+   "menu_current_tab": {
+      "message": "Τρέχουσα καρτέλα"
+   },
+   "menu_left_tab": {
+      "message": "Αριστερά της τρέχουσας καρτέλας"
+   },
+   "menu_right_tab": {
+      "message": "Δεξιά της τρέχουσας καρτέλας"
+   },
+   "name": {
+      "message": "Πρόγραμμα λήψης μαζικής εικόνας"
+   },
+   "panel_height": {
+      "message": "Υψος"
+   },
+   "panel_image_types": {
+      "message": "Τύποι εικόνων"
+   },
+   "panel_sort": {
+      "message": "Είδος"
+   },
+   "panel_width": {
+      "message": "Πλάτος"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Ίσως αργότερα"
+   },
+   "rate_prompt_message": {
+      "message": "Η βαθμολογία 5 αστεριών σας είναι η μεγαλύτερη υποστήριξη για τη βελτίωση αυτής της επέκτασης."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Όχι, ευχαριστώ"
+   },
+   "rate_prompt_rate": {
+      "message": "Δώστε 5 αστέρια"
+   },
+   "rate_prompt_title": {
+      "message": "Σας αρέσει αυτή η επέκταση;"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Πρώτα μεγάλη"
+   },
+   "sort_small_first": {
+      "message": "Μικρή πρώτα"
+   },
+   "sort_tab_index": {
+      "message": "Ευρετήριο καρτελών"
+   },
+   "title_click_toggle": {
+      "message": "Κάντε κλικ για να επιλέξετε ή να καταργήσετε την επιλογή"
+   },
+   "title_dark_mode": {
+      "message": "Μετάβαση σε σκοτεινή λειτουργία"
+   },
+   "title_downloads_setting": {
+      "message": "Ρύθμιση λήψεων Chrome"
+   },
+   "title_light_mode": {
+      "message": "Μετάβαση σε λειτουργία φωτός"
+   },
+   "title_rate": {
+      "message": "Αξιολογήστε αυτήν την επέκταση"
+   }
+}

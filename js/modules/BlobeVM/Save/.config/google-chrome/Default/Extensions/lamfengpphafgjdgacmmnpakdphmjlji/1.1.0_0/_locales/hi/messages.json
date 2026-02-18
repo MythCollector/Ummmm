@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "डाउनलोड करना"
+   },
+   "action_invert_selection": {
+      "message": "उलट चयन"
+   },
+   "action_selected_count": {
+      "message": "($1 चयनित)"
+   },
+   "description": {
+      "message": "एक क्लिक में कई टैब से छवियों को थोक में डाउनलोड करें। AVIF, WebP और AI-जनित छवियों का समर्थन करता है। रिज़ॉल्यूशन और फ़ाइल प्रकार के अनुसार फ़िल्टर करें।"
+   },
+   "developer_website": {
+      "message": "डेवलपर वेबसाइट"
+   },
+   "dialog_cancel": {
+      "message": "रद्द करना"
+   },
+   "dialog_dont_show_again": {
+      "message": "अगली बार यह संवाद न दिखाएँ"
+   },
+   "dialog_download_image": {
+      "message": "छवि डाउनलोड करें"
+   },
+   "dialog_open_settings": {
+      "message": "क्रोम डाउनलोड सेटिंग"
+   },
+   "dialog_otherwise": {
+      "message": "Chrome डाउनलोड सेटिंग में विकल्प। अन्यथा, जब आप चित्र डाउनलोड करेंगे, तो बहुत सारा पुष्टिकरण संवाद बॉक्स पॉप अप हो जाएगा।"
+   },
+   "dialog_please_do_not_select": {
+      "message": "कृपया चयन न करें"
+   },
+   "dialog_title": {
+      "message": "क्रोम डाउनलोड सेटिंग"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "डाउनलोड करने से पहले पूछें कि प्रत्येक फ़ाइल को कहाँ सहेजना है"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 छवियाँ"
+   },
+   "menu_all_tabs": {
+      "message": "सभी टैब"
+   },
+   "menu_current_tab": {
+      "message": "वर्तमान टैब"
+   },
+   "menu_left_tab": {
+      "message": "वर्तमान टैब के बाईं ओर"
+   },
+   "menu_right_tab": {
+      "message": "वर्तमान टैब के दाईं ओर"
+   },
+   "name": {
+      "message": "थोक छवि डाउनलोडर"
+   },
+   "panel_height": {
+      "message": "ऊंचाई"
+   },
+   "panel_image_types": {
+      "message": "छवि प्रकार"
+   },
+   "panel_sort": {
+      "message": "क्रम से लगाना"
+   },
+   "panel_width": {
+      "message": "चौड़ाई"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "बाद में"
+   },
+   "rate_prompt_message": {
+      "message": "आपकी 5-स्टार रेटिंग इस एक्सटेंशन को बेहतर बनाने का सबसे बड़ा सहारा है।"
+   },
+   "rate_prompt_no_thanks": {
+      "message": "नहीं, धन्यवाद"
+   },
+   "rate_prompt_rate": {
+      "message": "5 स्टार दें"
+   },
+   "rate_prompt_title": {
+      "message": "क्या आपको यह एक्सटेंशन पसंद है?"
+   },
+   "shortcut_alt_a": {
+      "message": "ऑल्ट+ए"
+   },
+   "shortcut_alt_c": {
+      "message": "ऑल्ट+सी"
+   },
+   "shortcut_alt_l": {
+      "message": "ऑल्ट+एल"
+   },
+   "shortcut_alt_r": {
+      "message": "ऑल्ट+आर"
+   },
+   "sort_large_first": {
+      "message": "पहले बड़ा"
+   },
+   "sort_small_first": {
+      "message": "पहले छोटा"
+   },
+   "sort_tab_index": {
+      "message": "टैब अनुक्रमणिका"
+   },
+   "title_click_toggle": {
+      "message": "चेक या अनचेक करने के लिए क्लिक करें"
+   },
+   "title_dark_mode": {
+      "message": "डार्क मोड पर स्विच करें"
+   },
+   "title_downloads_setting": {
+      "message": "क्रोम डाउनलोड सेटिंग"
+   },
+   "title_light_mode": {
+      "message": "लाइट मोड पर स्विच करें"
+   },
+   "title_rate": {
+      "message": "इस एक्सटेंशन को रेट करें"
+   }
+}

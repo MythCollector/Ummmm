@@ -1,0 +1,40 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "icon128.plasmo.3c1ed2d2.png",
+         "16": "icon16.plasmo.6c567d50.png",
+         "32": "icon32.plasmo.76b92899.png",
+         "48": "icon48.plasmo.aced7582.png",
+         "64": "icon64.plasmo.8bb5e6e0.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "author": "Your Name",
+   "background": {
+      "service_worker": "static/background/index.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [  ],
+      "js": [ "hotkeys.1cc33832.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_idle"
+   } ],
+   "default_locale": "en",
+   "description": "Bulk download images from multiple tabs in one click. Supports AVIF, WebP & AI-generated images. Filter by resolution and file type.",
+   "homepage_url": "https://chinadeveloper.net",
+   "host_permissions": [ "*://*/*" ],
+   "icons": {
+      "128": "icon128.plasmo.3c1ed2d2.png",
+      "16": "icon16.plasmo.6c567d50.png",
+      "32": "icon32.plasmo.76b92899.png",
+      "48": "icon48.plasmo.aced7582.png",
+      "64": "icon64.plasmo.8bb5e6e0.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgmj4gfWOm4TCPA6oNhAEEA5/8yqxed6/h9EbioE9/nGxF7qLlbAL615zXWZcZwqg4BuTdPOZ5V/uEH3npu2cZGkZWJcvjIC3QhRBAeDAEjF1vCFODATk9EOPN/dkmTCa4ZnYa7SBNi96IQdYuPQunoHaeIrXEahDVio7ANytp6Q0RBkXhx2CFxv0LFa8eqx+xgnpCj9wtkqgqmhSe90ZOCrg9kYc/+jaFmbyAYdVHPEm9Ao3nTL6FoVX98wPmrG27IybPTwWdD8dCP6xrOE34WMfb0bVZbJ/2QPlqiYWvVEJvk9jaNLgZpd8R7TuM5V4XyzMI9PXAI6mqM79eAqDeQIDAQAB",
+   "manifest_version": 3,
+   "name": "Bulk Image Downloader",
+   "permissions": [ "downloads", "storage", "contextMenus", "tabs", "scripting" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.0"
+}

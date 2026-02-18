@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Descărcați"
+   },
+   "action_invert_selection": {
+      "message": "Inversați selecția"
+   },
+   "action_selected_count": {
+      "message": "($1 selectat)"
+   },
+   "description": {
+      "message": "Descărcați imagini în masă din mai multe file cu un singur clic. Suportă AVIF, WebP și imagini generate de AI. Filtrați după rezoluție și tip de fișier."
+   },
+   "developer_website": {
+      "message": "Site-ul dezvoltatorului"
+   },
+   "dialog_cancel": {
+      "message": "Anula"
+   },
+   "dialog_dont_show_again": {
+      "message": "Nu afișați această casetă de dialog data viitoare"
+   },
+   "dialog_download_image": {
+      "message": "Descărcați imaginea"
+   },
+   "dialog_open_settings": {
+      "message": "Setarea Descărcări Chrome"
+   },
+   "dialog_otherwise": {
+      "message": "opțiunea din Setarea Descărcări Chrome. În caz contrar, când descărcați imaginea, va apărea o mulțime de casete de dialog de confirmare."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Vă rugăm să nu selectați"
+   },
+   "dialog_title": {
+      "message": "Setarea Descărcări Chrome"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Întrebați unde să salvați fiecare fișier înainte de a descărca"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 imagini"
+   },
+   "menu_all_tabs": {
+      "message": "Toate filele"
+   },
+   "menu_current_tab": {
+      "message": "Fila curentă"
+   },
+   "menu_left_tab": {
+      "message": "În stânga filei curente"
+   },
+   "menu_right_tab": {
+      "message": "Dreapta filei curente"
+   },
+   "name": {
+      "message": "Descărcător de imagini în vrac"
+   },
+   "panel_height": {
+      "message": "Înălţime"
+   },
+   "panel_image_types": {
+      "message": "Tipuri de imagini"
+   },
+   "panel_sort": {
+      "message": "Sorta"
+   },
+   "panel_width": {
+      "message": "Lăţime"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Poate mai târziu"
+   },
+   "rate_prompt_message": {
+      "message": "Evaluarea dvs. de 5 stele este cel mai mare sprijin pentru îmbunătățirea acestei extensii."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Nu, mulțumesc"
+   },
+   "rate_prompt_rate": {
+      "message": "Acordați 5 stele"
+   },
+   "rate_prompt_title": {
+      "message": "Vă place această extensie?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Mai întâi mare"
+   },
+   "sort_small_first": {
+      "message": "Mic mai întâi"
+   },
+   "sort_tab_index": {
+      "message": "Index de filă"
+   },
+   "title_click_toggle": {
+      "message": "Faceți clic pentru a bifa sau debifa"
+   },
+   "title_dark_mode": {
+      "message": "Comutați la modul întunecat"
+   },
+   "title_downloads_setting": {
+      "message": "Setarea Descărcări Chrome"
+   },
+   "title_light_mode": {
+      "message": "Comutați în modul de lumină"
+   },
+   "title_rate": {
+      "message": "Evaluați această extensie"
+   }
+}

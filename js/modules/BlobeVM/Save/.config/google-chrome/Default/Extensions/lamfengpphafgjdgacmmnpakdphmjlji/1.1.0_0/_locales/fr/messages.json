@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Télécharger"
+   },
+   "action_invert_selection": {
+      "message": "Inverser la sélection"
+   },
+   "action_selected_count": {
+      "message": "($1 sélectionné)"
+   },
+   "description": {
+      "message": "Téléchargez des images en masse depuis plusieurs onglets en un clic. Prend en charge AVIF, WebP et les images générées par IA. Filtrez par résolution et type de fichier."
+   },
+   "developer_website": {
+      "message": "Site Web du développeur"
+   },
+   "dialog_cancel": {
+      "message": "Annuler"
+   },
+   "dialog_dont_show_again": {
+      "message": "Ne pas afficher cette boîte de dialogue la prochaine fois"
+   },
+   "dialog_download_image": {
+      "message": "Télécharger l'image"
+   },
+   "dialog_open_settings": {
+      "message": "Paramètres de téléchargements Chrome"
+   },
+   "dialog_otherwise": {
+      "message": "option dans les paramètres de téléchargement de Chrome. Sinon, lorsque vous téléchargez l'image, de nombreuses boîtes de dialogue de confirmation apparaîtront."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Veuillez ne pas sélectionner"
+   },
+   "dialog_title": {
+      "message": "Paramètres de téléchargements Chrome"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Demandez où enregistrer chaque fichier avant de le télécharger"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 images"
+   },
+   "menu_all_tabs": {
+      "message": "Tous les onglets"
+   },
+   "menu_current_tab": {
+      "message": "Onglet actuel"
+   },
+   "menu_left_tab": {
+      "message": "À gauche de l'onglet actuel"
+   },
+   "menu_right_tab": {
+      "message": "À droite de l'onglet actuel"
+   },
+   "name": {
+      "message": "Téléchargeur d'images en masse"
+   },
+   "panel_height": {
+      "message": "Hauteur"
+   },
+   "panel_image_types": {
+      "message": "Types d'images"
+   },
+   "panel_sort": {
+      "message": "Trier"
+   },
+   "panel_width": {
+      "message": "Largeur"
+   },
+   "range_inf": {
+      "message": "fam"
+   },
+   "rate_prompt_later": {
+      "message": "Plus tard"
+   },
+   "rate_prompt_message": {
+      "message": "Votre note de 5 étoiles est le plus grand soutien pour continuer à améliorer cette extension."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Non merci"
+   },
+   "rate_prompt_rate": {
+      "message": "Donner 5 étoiles"
+   },
+   "rate_prompt_title": {
+      "message": "Vous aimez cette extension ?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Grand d'abord"
+   },
+   "sort_small_first": {
+      "message": "Petit d'abord"
+   },
+   "sort_tab_index": {
+      "message": "Index des onglets"
+   },
+   "title_click_toggle": {
+      "message": "Cliquez pour cocher ou décocher"
+   },
+   "title_dark_mode": {
+      "message": "Passer en mode sombre"
+   },
+   "title_downloads_setting": {
+      "message": "Paramètres de téléchargements Chrome"
+   },
+   "title_light_mode": {
+      "message": "Passer en mode lumière"
+   },
+   "title_rate": {
+      "message": "Notez cette extension"
+   }
+}

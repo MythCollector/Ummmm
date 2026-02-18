@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "డౌన్‌లోడ్ చేయండి"
+   },
+   "action_invert_selection": {
+      "message": "విలోమ ఎంపిక"
+   },
+   "action_selected_count": {
+      "message": "($1 ఎంచుకోబడింది)"
+   },
+   "description": {
+      "message": "ఒక క్లిక్‌తో బహుళ ట్యాబ్‌ల నుండి చిత్రాలను బల్క్ డౌన్‌లోడ్ చేయండి. AVIF, WebP మరియు AI-జనిత చిత్రాలకు మద్దతు ఇస్తుంది. రిజల్యూషన్ మరియు ఫైల్ రకం ద్వారా ఫిల్టర్ చేయండి."
+   },
+   "developer_website": {
+      "message": "డెవలపర్ వెబ్‌సైట్"
+   },
+   "dialog_cancel": {
+      "message": "రద్దు చేయి"
+   },
+   "dialog_dont_show_again": {
+      "message": "తదుపరిసారి ఈ డైలాగ్‌ని చూపవద్దు"
+   },
+   "dialog_download_image": {
+      "message": "చిత్రాన్ని డౌన్‌లోడ్ చేయండి"
+   },
+   "dialog_open_settings": {
+      "message": "Chrome డౌన్‌లోడ్‌ల సెట్టింగ్"
+   },
+   "dialog_otherwise": {
+      "message": "Chrome డౌన్‌లోడ్‌ల సెట్టింగ్‌లో ఎంపిక. లేకపోతే, మీరు చిత్రాన్ని డౌన్‌లోడ్ చేసినప్పుడు, చాలా కన్ఫర్మేషన్ డైలాగ్ బాక్స్ పాపప్ అవుతుంది."
+   },
+   "dialog_please_do_not_select": {
+      "message": "దయచేసి ఎంపిక చేయవద్దు"
+   },
+   "dialog_title": {
+      "message": "Chrome డౌన్‌లోడ్‌ల సెట్టింగ్"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "డౌన్‌లోడ్ చేయడానికి ముందు ప్రతి ఫైల్‌ను ఎక్కడ సేవ్ చేయాలో అడగండి"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 చిత్రాలు"
+   },
+   "menu_all_tabs": {
+      "message": "అన్ని ట్యాబ్‌లు"
+   },
+   "menu_current_tab": {
+      "message": "ప్రస్తుత ట్యాబ్"
+   },
+   "menu_left_tab": {
+      "message": "ప్రస్తుత ట్యాబ్‌కు ఎడమవైపు"
+   },
+   "menu_right_tab": {
+      "message": "ప్రస్తుత ట్యాబ్ యొక్క కుడివైపు"
+   },
+   "name": {
+      "message": "బల్క్ ఇమేజ్ డౌన్‌లోడర్"
+   },
+   "panel_height": {
+      "message": "ఎత్తు"
+   },
+   "panel_image_types": {
+      "message": "చిత్ర రకాలు"
+   },
+   "panel_sort": {
+      "message": "క్రమబద్ధీకరించు"
+   },
+   "panel_width": {
+      "message": "వెడల్పు"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "తర్వాత"
+   },
+   "rate_prompt_message": {
+      "message": "మీ 5-స్టార్ రేటింగ్ ఈ ఎక్స్‌టెన్షన్‌ను మెరుగుపరచడానికి అతిపెద్ద మద్దతు."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "వద్దు, ధన్యవాదాలు"
+   },
+   "rate_prompt_rate": {
+      "message": "5 స్టార్లు ఇవ్వండి"
+   },
+   "rate_prompt_title": {
+      "message": "ఈ ఎక్స్‌టెన్షన్ నచ్చిందా?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "మొదట పెద్దది"
+   },
+   "sort_small_first": {
+      "message": "మొదట చిన్నది"
+   },
+   "sort_tab_index": {
+      "message": "ట్యాబ్ సూచిక"
+   },
+   "title_click_toggle": {
+      "message": "తనిఖీ చేయడానికి లేదా ఎంపికను తీసివేయడానికి క్లిక్ చేయండి"
+   },
+   "title_dark_mode": {
+      "message": "డార్క్ మోడ్‌కి మారండి"
+   },
+   "title_downloads_setting": {
+      "message": "Chrome డౌన్‌లోడ్‌ల సెట్టింగ్"
+   },
+   "title_light_mode": {
+      "message": "లైట్ మోడ్‌కి మారండి"
+   },
+   "title_rate": {
+      "message": "ఈ పొడిగింపును రేట్ చేయండి"
+   }
+}

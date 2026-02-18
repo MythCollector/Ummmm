@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Laai af"
+   },
+   "action_invert_selection": {
+      "message": "Keer seleksie om"
+   },
+   "action_selected_count": {
+      "message": "($1 gekies)"
+   },
+   "description": {
+      "message": "Laai beelde in grootmaat af van verskeie oortjies met een klik. Ondersteun AVIF, WebP en AI-gegenereerde beelde. Filter volgens resolusie en lêertipe."
+   },
+   "developer_website": {
+      "message": "Ontwikkelaar webwerf"
+   },
+   "dialog_cancel": {
+      "message": "Kanselleer"
+   },
+   "dialog_dont_show_again": {
+      "message": "Moenie hierdie dialoog volgende keer wys nie"
+   },
+   "dialog_download_image": {
+      "message": "Laai prent af"
+   },
+   "dialog_open_settings": {
+      "message": "Chrome-aflaai-instelling"
+   },
+   "dialog_otherwise": {
+      "message": "opsie in Chrome-aflaai-instelling. Andersins, wanneer jy die prentjie aflaai, sal baie bevestigingsdialoogvensters verskyn."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Moet asseblief nie kies nie"
+   },
+   "dialog_title": {
+      "message": "Chrome-aflaai-instelling"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Vra waar om elke lêer te stoor voordat dit afgelaai word"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 beelde"
+   },
+   "menu_all_tabs": {
+      "message": "Alle oortjies"
+   },
+   "menu_current_tab": {
+      "message": "Huidige oortjie"
+   },
+   "menu_left_tab": {
+      "message": "Links van huidige oortjie"
+   },
+   "menu_right_tab": {
+      "message": "Regs van huidige oortjie"
+   },
+   "name": {
+      "message": "Grootmaat beeldaflaaier"
+   },
+   "panel_height": {
+      "message": "Hoogte"
+   },
+   "panel_image_types": {
+      "message": "Beeldtipes"
+   },
+   "panel_sort": {
+      "message": "Sorteer"
+   },
+   "panel_width": {
+      "message": "Breedte"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Maybe Later"
+   },
+   "rate_prompt_message": {
+      "message": "Your 5-star rating is the biggest support for me to keep improving this extension."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "No, Thanks"
+   },
+   "rate_prompt_rate": {
+      "message": "Rate 5 Stars"
+   },
+   "rate_prompt_title": {
+      "message": "Enjoying this extension?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Groot eerste"
+   },
+   "sort_small_first": {
+      "message": "Klein eerste"
+   },
+   "sort_tab_index": {
+      "message": "Tab-indeks"
+   },
+   "title_click_toggle": {
+      "message": "Klik om te merk of te ontmerk"
+   },
+   "title_dark_mode": {
+      "message": "Skakel oor na donker modus"
+   },
+   "title_downloads_setting": {
+      "message": "Chrome-aflaai-instelling"
+   },
+   "title_light_mode": {
+      "message": "Skakel oor na ligmodus"
+   },
+   "title_rate": {
+      "message": "Gradeer hierdie uitbreiding"
+   }
+}

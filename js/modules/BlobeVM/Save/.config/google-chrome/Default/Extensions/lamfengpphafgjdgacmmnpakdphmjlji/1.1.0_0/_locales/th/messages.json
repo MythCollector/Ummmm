@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "ดาวน์โหลด"
+   },
+   "action_invert_selection": {
+      "message": "สลับการเลือก"
+   },
+   "action_selected_count": {
+      "message": "($1 เลือกแล้ว)"
+   },
+   "description": {
+      "message": "ดาวน์โหลดรูปภาพจำนวนมากจากหลายแท็บในคลิกเดียว รองรับ AVIF, WebP และรูปภาพที่สร้างโดย AI กรองตามความละเอียดและประเภทไฟล์"
+   },
+   "developer_website": {
+      "message": "เว็บไซต์นักพัฒนา"
+   },
+   "dialog_cancel": {
+      "message": "ยกเลิก"
+   },
+   "dialog_dont_show_again": {
+      "message": "ไม่แสดงกล่องโต้ตอบนี้ในครั้งต่อไป"
+   },
+   "dialog_download_image": {
+      "message": "ดาวน์โหลดรูปภาพ"
+   },
+   "dialog_open_settings": {
+      "message": "การตั้งค่าการดาวน์โหลด Chrome"
+   },
+   "dialog_otherwise": {
+      "message": "ตัวเลือกในการตั้งค่าการดาวน์โหลดของ Chrome มิฉะนั้น เมื่อคุณดาวน์โหลดรูปภาพ กล่องโต้ตอบการยืนยันจำนวนมากจะปรากฏขึ้น"
+   },
+   "dialog_please_do_not_select": {
+      "message": "กรุณาอย่าเลือก"
+   },
+   "dialog_title": {
+      "message": "การตั้งค่าการดาวน์โหลด Chrome"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "สอบถามตำแหน่งที่จะบันทึกแต่ละไฟล์ก่อนที่จะดาวน์โหลด"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 รูปภาพ"
+   },
+   "menu_all_tabs": {
+      "message": "แท็บทั้งหมด"
+   },
+   "menu_current_tab": {
+      "message": "แท็บปัจจุบัน"
+   },
+   "menu_left_tab": {
+      "message": "ด้านซ้ายของแท็บปัจจุบัน"
+   },
+   "menu_right_tab": {
+      "message": "ด้านขวาของแท็บปัจจุบัน"
+   },
+   "name": {
+      "message": "เครื่องมือดาวน์โหลดรูปภาพจำนวนมาก"
+   },
+   "panel_height": {
+      "message": "ความสูง"
+   },
+   "panel_image_types": {
+      "message": "ประเภทรูปภาพ"
+   },
+   "panel_sort": {
+      "message": "เรียงลำดับ"
+   },
+   "panel_width": {
+      "message": "ความกว้าง"
+   },
+   "range_inf": {
+      "message": "ข้อมูล"
+   },
+   "rate_prompt_later": {
+      "message": "ไว้ทีหลัง"
+   },
+   "rate_prompt_message": {
+      "message": "คะแนน 5 ดาวของคุณคือกำลังใจที่ยิ่งใหญ่ที่สุดในการปรับปรุงส่วนขยายนี้"
+   },
+   "rate_prompt_no_thanks": {
+      "message": "ไม่ล่ะ ขอบคุณ"
+   },
+   "rate_prompt_rate": {
+      "message": "ให้ 5 ดาว"
+   },
+   "rate_prompt_title": {
+      "message": "ชอบส่วนขยายนี้ไหม?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "ใหญ่ไว้ก่อน"
+   },
+   "sort_small_first": {
+      "message": "เล็กไว้ก่อน"
+   },
+   "sort_tab_index": {
+      "message": "ดัชนีแท็บ"
+   },
+   "title_click_toggle": {
+      "message": "คลิกเพื่อตรวจสอบหรือยกเลิกการเลือก"
+   },
+   "title_dark_mode": {
+      "message": "สลับไปที่โหมดมืด"
+   },
+   "title_downloads_setting": {
+      "message": "การตั้งค่าการดาวน์โหลด Chrome"
+   },
+   "title_light_mode": {
+      "message": "สลับไปที่โหมดแสง"
+   },
+   "title_rate": {
+      "message": "ให้คะแนนส่วนขยายนี้"
+   }
+}

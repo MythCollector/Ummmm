@@ -1,0 +1,125 @@
+{
+  "name": {
+    "message": "Descarga de imaxes masivas"
+  },
+  "description": {
+    "message": "Descargue imaxes en masa desde varias lapelas cun só clic. Compatible con AVIF, WebP e imaxes xeradas por IA. Filtre por resolución e tipo de ficheiro."
+  },
+  "download_settings_save_confirm_key": {
+    "message": "Pregunta onde gardar cada ficheiro antes de descargalo"
+  },
+  "menu_all_tabs": {
+    "message": "Todas as pestanas"
+  },
+  "menu_current_tab": {
+    "message": "Ficha actual"
+  },
+  "menu_right_tab": {
+    "message": "Dereita da pestana actual"
+  },
+  "menu_left_tab": {
+    "message": "Á esquerda da pestana actual"
+  },
+  "shortcut_alt_a": {
+    "message": "Alt+A"
+  },
+  "shortcut_alt_c": {
+    "message": "Alt+C"
+  },
+  "shortcut_alt_r": {
+    "message": "Alt+R"
+  },
+  "shortcut_alt_l": {
+    "message": "Alt+L"
+  },
+  "dialog_title": {
+    "message": "Configuración de descargas de Chrome"
+  },
+  "dialog_please_do_not_select": {
+    "message": "Non seleccione"
+  },
+  "dialog_otherwise": {
+    "message": "opción na configuración de descargas de Chrome. Se non, cando descargues a imaxe, aparecerá unha gran cantidade de caixa de diálogo de confirmación."
+  },
+  "dialog_open_settings": {
+    "message": "Configuración de descargas de Chrome"
+  },
+  "dialog_dont_show_again": {
+    "message": "Non mostrar este diálogo a próxima vez"
+  },
+  "dialog_cancel": {
+    "message": "Cancelar"
+  },
+  "dialog_download_image": {
+    "message": "Descargar imaxe"
+  },
+  "panel_width": {
+    "message": "Anchura"
+  },
+  "panel_height": {
+    "message": "Altura"
+  },
+  "panel_image_types": {
+    "message": "Tipos de imaxes"
+  },
+  "panel_sort": {
+    "message": "Ordenar"
+  },
+  "sort_tab_index": {
+    "message": "Índice de fichas"
+  },
+  "sort_large_first": {
+    "message": "Grande primeiro"
+  },
+  "sort_small_first": {
+    "message": "Primeiro pequeno"
+  },
+  "range_inf": {
+    "message": "inf"
+  },
+  "action_invert_selection": {
+    "message": "Inverter selección"
+  },
+  "action_download": {
+    "message": "Descargar"
+  },
+  "action_selected_count": {
+    "message": "($1 seleccionado)"
+  },
+  "info_images_count": {
+    "message": "$1 / $2 imaxes"
+  },
+  "title_light_mode": {
+    "message": "Cambia ao modo de luz"
+  },
+  "title_dark_mode": {
+    "message": "Cambia ao modo escuro"
+  },
+  "title_rate": {
+    "message": "Valora esta extensión"
+  },
+  "title_downloads_setting": {
+    "message": "Configuración de descargas de Chrome"
+  },
+  "developer_website": {
+    "message": "Sitio web do programador"
+  },
+  "title_click_toggle": {
+    "message": "Fai clic para marcar ou desmarcar"
+  },
+  "rate_prompt_title": {
+    "message": "Enjoying this extension?"
+  },
+  "rate_prompt_message": {
+    "message": "Your 5-star rating is the biggest support for me to keep improving this extension."
+  },
+  "rate_prompt_rate": {
+    "message": "Rate 5 Stars"
+  },
+  "rate_prompt_later": {
+    "message": "Maybe Later"
+  },
+  "rate_prompt_no_thanks": {
+    "message": "No, Thanks"
+  }
+}

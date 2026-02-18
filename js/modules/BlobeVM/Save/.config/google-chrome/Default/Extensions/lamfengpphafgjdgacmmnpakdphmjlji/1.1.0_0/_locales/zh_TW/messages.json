@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "下載"
+   },
+   "action_invert_selection": {
+      "message": "反轉選擇"
+   },
+   "action_selected_count": {
+      "message": "（$1已選擇）"
+   },
+   "description": {
+      "message": "一鍵從多個分頁批量下載圖片。支援 AVIF、WebP 與 AI 生成圖片。依解析度與檔案類型篩選。"
+   },
+   "developer_website": {
+      "message": "開發者網站"
+   },
+   "dialog_cancel": {
+      "message": "取消"
+   },
+   "dialog_dont_show_again": {
+      "message": "下次不再顯示此對話框"
+   },
+   "dialog_download_image": {
+      "message": "下載圖片"
+   },
+   "dialog_open_settings": {
+      "message": "Chrome 下載設置"
+   },
+   "dialog_otherwise": {
+      "message": "Chrome 下載設置中的選項。 不然下載圖片的時候會彈出很多確認對話框。"
+   },
+   "dialog_please_do_not_select": {
+      "message": "請不要選擇"
+   },
+   "dialog_title": {
+      "message": "Chrome 下載設置"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "下載前詢問每個文件的保存位置"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 圖片"
+   },
+   "menu_all_tabs": {
+      "message": "所有選項卡"
+   },
+   "menu_current_tab": {
+      "message": "當前選項卡"
+   },
+   "menu_left_tab": {
+      "message": "當前選項卡左側"
+   },
+   "menu_right_tab": {
+      "message": "當前選項卡的右側"
+   },
+   "name": {
+      "message": "批量圖像下載器"
+   },
+   "panel_height": {
+      "message": "高度"
+   },
+   "panel_image_types": {
+      "message": "圖像類型"
+   },
+   "panel_sort": {
+      "message": "種類"
+   },
+   "panel_width": {
+      "message": "寬度"
+   },
+   "range_inf": {
+      "message": "資訊"
+   },
+   "rate_prompt_later": {
+      "message": "下次再說"
+   },
+   "rate_prompt_message": {
+      "message": "您的五星好評是對我最大的支持，讓我有更大的動力持續改進。"
+   },
+   "rate_prompt_no_thanks": {
+      "message": "不了，謝謝"
+   },
+   "rate_prompt_rate": {
+      "message": "給個五星好評"
+   },
+   "rate_prompt_title": {
+      "message": "喜歡這個擴充功能嗎？"
+   },
+   "shortcut_alt_a": {
+      "message": "阿爾特+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "大先"
+   },
+   "sort_small_first": {
+      "message": "小先"
+   },
+   "sort_tab_index": {
+      "message": "標籤索引"
+   },
+   "title_click_toggle": {
+      "message": "點擊勾選或取消勾選"
+   },
+   "title_dark_mode": {
+      "message": "切換到深色模式"
+   },
+   "title_downloads_setting": {
+      "message": "Chrome 下載設置"
+   },
+   "title_light_mode": {
+      "message": "切換到燈光模式"
+   },
+   "title_rate": {
+      "message": "評價此擴展程序"
+   }
+}

@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Pobierać"
+   },
+   "action_invert_selection": {
+      "message": "Odwróć wybór"
+   },
+   "action_selected_count": {
+      "message": "($1 wybrane)"
+   },
+   "description": {
+      "message": "Zbiorcze pobieranie obrazów z wielu kart jednym kliknięciem. Obsługuje AVIF, WebP i obrazy generowane przez AI. Filtruj według rozdzielczości i typu pliku."
+   },
+   "developer_website": {
+      "message": "Witryna dewelopera"
+   },
+   "dialog_cancel": {
+      "message": "Anulować"
+   },
+   "dialog_dont_show_again": {
+      "message": "Nie pokazuj tego okna dialogowego następnym razem"
+   },
+   "dialog_download_image": {
+      "message": "Pobierz obraz"
+   },
+   "dialog_open_settings": {
+      "message": "Ustawienie pobierania Chrome"
+   },
+   "dialog_otherwise": {
+      "message": "opcję w ustawieniach pobierania Chrome. W przeciwnym razie po pobraniu obrazu pojawi się wiele okien dialogowych z potwierdzeniem."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Proszę nie wybierać"
+   },
+   "dialog_title": {
+      "message": "Ustawienie pobierania Chrome"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Przed pobraniem zapytaj, gdzie zapisać każdy plik"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 obrazów"
+   },
+   "menu_all_tabs": {
+      "message": "Wszystkie zakładki"
+   },
+   "menu_current_tab": {
+      "message": "Bieżąca zakładka"
+   },
+   "menu_left_tab": {
+      "message": "Na lewo od bieżącej karty"
+   },
+   "menu_right_tab": {
+      "message": "Na prawo od bieżącej karty"
+   },
+   "name": {
+      "message": "Pobieranie obrazów zbiorczych"
+   },
+   "panel_height": {
+      "message": "Wysokość"
+   },
+   "panel_image_types": {
+      "message": "Typy obrazów"
+   },
+   "panel_sort": {
+      "message": "Sortować"
+   },
+   "panel_width": {
+      "message": "Szerokość"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Może później"
+   },
+   "rate_prompt_message": {
+      "message": "Twoja ocena 5 gwiazdek to największe wsparcie, by dalej ulepszać to rozszerzenie."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Nie, dziękuję"
+   },
+   "rate_prompt_rate": {
+      "message": "Oceń na 5 gwiazdek"
+   },
+   "rate_prompt_title": {
+      "message": "Podoba Ci się to rozszerzenie?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Najpierw duży"
+   },
+   "sort_small_first": {
+      "message": "Najpierw mały"
+   },
+   "sort_tab_index": {
+      "message": "Indeks zakładek"
+   },
+   "title_click_toggle": {
+      "message": "Kliknij, aby zaznaczyć lub odznaczyć"
+   },
+   "title_dark_mode": {
+      "message": "Przełącz na tryb ciemny"
+   },
+   "title_downloads_setting": {
+      "message": "Ustawienie pobierania Chrome"
+   },
+   "title_light_mode": {
+      "message": "Przełącz na tryb oświetlenia"
+   },
+   "title_rate": {
+      "message": "Oceń to rozszerzenie"
+   }
+}

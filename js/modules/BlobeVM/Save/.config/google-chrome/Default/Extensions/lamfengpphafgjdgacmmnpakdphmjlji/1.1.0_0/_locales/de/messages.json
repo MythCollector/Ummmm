@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Herunterladen"
+   },
+   "action_invert_selection": {
+      "message": "Auswahl umkehren"
+   },
+   "action_selected_count": {
+      "message": "($1 ausgewählt)"
+   },
+   "description": {
+      "message": "Bilder aus mehreren Tabs mit einem Klick in großen Mengen herunterladen. Unterstützt AVIF, WebP und KI-generierte Bilder. Nach Auflösung und Dateityp filtern."
+   },
+   "developer_website": {
+      "message": "Entwickler-Website"
+   },
+   "dialog_cancel": {
+      "message": "Stornieren"
+   },
+   "dialog_dont_show_again": {
+      "message": "Dieses Dialogfeld beim nächsten Mal nicht anzeigen"
+   },
+   "dialog_download_image": {
+      "message": "Bild herunterladen"
+   },
+   "dialog_open_settings": {
+      "message": "Chrome-Download-Einstellung"
+   },
+   "dialog_otherwise": {
+      "message": "Option in den Chrome-Download-Einstellungen. Andernfalls werden beim Herunterladen des Bildes zahlreiche Bestätigungsdialogfelder angezeigt."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Bitte nicht auswählen"
+   },
+   "dialog_title": {
+      "message": "Chrome-Download-Einstellung"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Fragen Sie vor dem Herunterladen, wo jede Datei gespeichert werden soll"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 Bilder"
+   },
+   "menu_all_tabs": {
+      "message": "Alle Registerkarten"
+   },
+   "menu_current_tab": {
+      "message": "Aktuelle Registerkarte"
+   },
+   "menu_left_tab": {
+      "message": "Links von der aktuellen Registerkarte"
+   },
+   "menu_right_tab": {
+      "message": "Rechts neben der aktuellen Registerkarte"
+   },
+   "name": {
+      "message": "Massenbild-Downloader"
+   },
+   "panel_height": {
+      "message": "Höhe"
+   },
+   "panel_image_types": {
+      "message": "Bildtypen"
+   },
+   "panel_sort": {
+      "message": "Sortieren"
+   },
+   "panel_width": {
+      "message": "Breite"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Vielleicht später"
+   },
+   "rate_prompt_message": {
+      "message": "Ihre 5-Sterne-Bewertung ist die größte Unterstützung, diese Erweiterung weiter zu verbessern."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Nein, danke"
+   },
+   "rate_prompt_rate": {
+      "message": "5 Sterne geben"
+   },
+   "rate_prompt_title": {
+      "message": "Gefällt Ihnen diese Erweiterung?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Zuerst groß"
+   },
+   "sort_small_first": {
+      "message": "Zuerst klein"
+   },
+   "sort_tab_index": {
+      "message": "Tab-Index"
+   },
+   "title_click_toggle": {
+      "message": "Klicken Sie zum Aktivieren oder Deaktivieren"
+   },
+   "title_dark_mode": {
+      "message": "Wechseln Sie in den Dunkelmodus"
+   },
+   "title_downloads_setting": {
+      "message": "Chrome-Download-Einstellung"
+   },
+   "title_light_mode": {
+      "message": "Wechseln Sie in den Lichtmodus"
+   },
+   "title_rate": {
+      "message": "Bewerten Sie diese Erweiterung"
+   }
+}

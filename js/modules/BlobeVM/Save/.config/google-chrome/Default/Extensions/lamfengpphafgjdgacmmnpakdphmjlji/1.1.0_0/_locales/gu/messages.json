@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "ડાઉનલોડ કરો"
+   },
+   "action_invert_selection": {
+      "message": "ઉલટાનું પસંદગી"
+   },
+   "action_selected_count": {
+      "message": "($1 પસંદ કરેલ)"
+   },
+   "description": {
+      "message": "એક ક્લિકમાં બહુવિધ ટેબ્સમાંથી ઇમેજો બલ્ક ડાઉનલોડ કરો. AVIF, WebP અને AI-જનિત ઇમેજોને સપોર્ટ કરે છે. રિઝોલ્યુશન અને ફાઇલ પ્રકાર દ્વારા ફિલ્ટર કરો."
+   },
+   "developer_website": {
+      "message": "વિકાસકર્તા વેબસાઇટ"
+   },
+   "dialog_cancel": {
+      "message": "રદ કરો"
+   },
+   "dialog_dont_show_again": {
+      "message": "આગલી વખતે આ સંવાદ બતાવશો નહીં"
+   },
+   "dialog_download_image": {
+      "message": "છબી ડાઉનલોડ કરો"
+   },
+   "dialog_open_settings": {
+      "message": "Chrome ડાઉનલોડ સેટિંગ"
+   },
+   "dialog_otherwise": {
+      "message": "Chrome ડાઉનલોડ સેટિંગમાં વિકલ્પ. નહિંતર, જ્યારે તમે ચિત્ર ડાઉનલોડ કરો છો, ત્યારે ઘણા બધા પુષ્ટિકરણ સંવાદ બોક્સ પોપ અપ થશે."
+   },
+   "dialog_please_do_not_select": {
+      "message": "કૃપા કરીને પસંદ કરશો નહીં"
+   },
+   "dialog_title": {
+      "message": "Chrome ડાઉનલોડ સેટિંગ"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "ડાઉનલોડ કરતા પહેલા દરેક ફાઇલને ક્યાં સાચવવી તે પૂછો"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 છબીઓ"
+   },
+   "menu_all_tabs": {
+      "message": "બધા ટૅબ્સ"
+   },
+   "menu_current_tab": {
+      "message": "વર્તમાન ટેબ"
+   },
+   "menu_left_tab": {
+      "message": "વર્તમાન ટેબની ડાબી બાજુ"
+   },
+   "menu_right_tab": {
+      "message": "વર્તમાન ટેબની જમણી બાજુ"
+   },
+   "name": {
+      "message": "બલ્ક ઇમેજ ડાઉનલોડર"
+   },
+   "panel_height": {
+      "message": "ઊંચાઈ"
+   },
+   "panel_image_types": {
+      "message": "છબી પ્રકારો"
+   },
+   "panel_sort": {
+      "message": "સૉર્ટ કરો"
+   },
+   "panel_width": {
+      "message": "પહોળાઈ"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Maybe Later"
+   },
+   "rate_prompt_message": {
+      "message": "Your 5-star rating is the biggest support for me to keep improving this extension."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "No, Thanks"
+   },
+   "rate_prompt_rate": {
+      "message": "Rate 5 Stars"
+   },
+   "rate_prompt_title": {
+      "message": "Enjoying this extension?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "મોટા પ્રથમ"
+   },
+   "sort_small_first": {
+      "message": "પ્રથમ નાના"
+   },
+   "sort_tab_index": {
+      "message": "ટૅબ અનુક્રમણિકા"
+   },
+   "title_click_toggle": {
+      "message": "ચેક અથવા અનચેક કરવા માટે ક્લિક કરો"
+   },
+   "title_dark_mode": {
+      "message": "ડાર્ક મોડ પર સ્વિચ કરો"
+   },
+   "title_downloads_setting": {
+      "message": "Chrome ડાઉનલોડ સેટિંગ"
+   },
+   "title_light_mode": {
+      "message": "લાઇટ મોડ પર સ્વિચ કરો"
+   },
+   "title_rate": {
+      "message": "આ એક્સ્ટેંશનને રેટ કરો"
+   }
+}

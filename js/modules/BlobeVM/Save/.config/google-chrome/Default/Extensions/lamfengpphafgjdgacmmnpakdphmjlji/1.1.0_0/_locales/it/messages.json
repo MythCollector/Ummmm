@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Scaricamento"
+   },
+   "action_invert_selection": {
+      "message": "Inverti selezione"
+   },
+   "action_selected_count": {
+      "message": "($1 selezionato)"
+   },
+   "description": {
+      "message": "Scarica in massa immagini da più schede con un clic. Supporta AVIF, WebP e immagini generate dall'IA. Filtra per risoluzione e tipo di file."
+   },
+   "developer_website": {
+      "message": "Sito web dello sviluppatore"
+   },
+   "dialog_cancel": {
+      "message": "Cancellare"
+   },
+   "dialog_dont_show_again": {
+      "message": "Non mostrare questa finestra di dialogo la prossima volta"
+   },
+   "dialog_download_image": {
+      "message": "Scarica l'immagine"
+   },
+   "dialog_open_settings": {
+      "message": "Impostazione download di Chrome"
+   },
+   "dialog_otherwise": {
+      "message": "opzione nelle Impostazioni download di Chrome. Altrimenti, quando scarichi l'immagine, verranno visualizzate molte finestre di dialogo di conferma."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Si prega di non selezionare"
+   },
+   "dialog_title": {
+      "message": "Impostazione download di Chrome"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Chiedi dove salvare ogni file prima di scaricarlo"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 immagini"
+   },
+   "menu_all_tabs": {
+      "message": "Tutte le schede"
+   },
+   "menu_current_tab": {
+      "message": "Scheda corrente"
+   },
+   "menu_left_tab": {
+      "message": "A sinistra della scheda corrente"
+   },
+   "menu_right_tab": {
+      "message": "A destra della scheda corrente"
+   },
+   "name": {
+      "message": "Downloader di immagini in blocco"
+   },
+   "panel_height": {
+      "message": "Altezza"
+   },
+   "panel_image_types": {
+      "message": "Tipi di immagini"
+   },
+   "panel_sort": {
+      "message": "Ordinare"
+   },
+   "panel_width": {
+      "message": "Larghezza"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Forse dopo"
+   },
+   "rate_prompt_message": {
+      "message": "La tua valutazione a 5 stelle è il più grande supporto per continuare a migliorare questa estensione."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "No, grazie"
+   },
+   "rate_prompt_rate": {
+      "message": "Dai 5 stelle"
+   },
+   "rate_prompt_title": {
+      "message": "Ti piace questa estensione?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Prima grande"
+   },
+   "sort_small_first": {
+      "message": "Prima piccolo"
+   },
+   "sort_tab_index": {
+      "message": "Indice delle schede"
+   },
+   "title_click_toggle": {
+      "message": "Fare clic per selezionare o deselezionare"
+   },
+   "title_dark_mode": {
+      "message": "Passa alla modalità oscura"
+   },
+   "title_downloads_setting": {
+      "message": "Impostazione download di Chrome"
+   },
+   "title_light_mode": {
+      "message": "Passa alla modalità luce"
+   },
+   "title_rate": {
+      "message": "Valuta questa estensione"
+   }
+}

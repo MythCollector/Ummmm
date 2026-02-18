@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Unduh"
+   },
+   "action_invert_selection": {
+      "message": "Balikkan Seleksi"
+   },
+   "action_selected_count": {
+      "message": "($1 dipilih)"
+   },
+   "description": {
+      "message": "Unduh gambar secara massal dari beberapa tab dengan satu klik. Mendukung AVIF, WebP & gambar yang dihasilkan AI. Filter berdasarkan resolusi dan jenis file."
+   },
+   "developer_website": {
+      "message": "Situs Web Pengembang"
+   },
+   "dialog_cancel": {
+      "message": "Membatalkan"
+   },
+   "dialog_dont_show_again": {
+      "message": "Tidak tampilkan dialog ini lain kali"
+   },
+   "dialog_download_image": {
+      "message": "Unduh gambar"
+   },
+   "dialog_open_settings": {
+      "message": "Setelan Unduhan Chrome"
+   },
+   "dialog_otherwise": {
+      "message": "opsi di Pengaturan Unduhan Chrome. Jika tidak, saat Anda mendownload gambar, banyak kotak dialog konfirmasi akan muncul."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Tolong jangan pilih"
+   },
+   "dialog_title": {
+      "message": "Setelan Unduhan Chrome"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Tanyakan di mana menyimpan setiap file sebelum mengunduh"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 gambar"
+   },
+   "menu_all_tabs": {
+      "message": "Semua tab"
+   },
+   "menu_current_tab": {
+      "message": "Tab saat ini"
+   },
+   "menu_left_tab": {
+      "message": "Kiri dari tab saat ini"
+   },
+   "menu_right_tab": {
+      "message": "Kanan tab saat ini"
+   },
+   "name": {
+      "message": "Pengunduh Gambar Massal"
+   },
+   "panel_height": {
+      "message": "Tinggi"
+   },
+   "panel_image_types": {
+      "message": "Jenis gambar"
+   },
+   "panel_sort": {
+      "message": "Menyortir"
+   },
+   "panel_width": {
+      "message": "Lebar"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Nanti Saja"
+   },
+   "rate_prompt_message": {
+      "message": "Rating 5 bintang Anda adalah dukungan terbesar untuk terus memperbaiki ekstensi ini."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Tidak, Terima Kasih"
+   },
+   "rate_prompt_rate": {
+      "message": "Beri 5 Bintang"
+   },
+   "rate_prompt_title": {
+      "message": "Suka ekstensi ini?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Besar dulu"
+   },
+   "sort_small_first": {
+      "message": "Kecil dulu"
+   },
+   "sort_tab_index": {
+      "message": "indeks tab"
+   },
+   "title_click_toggle": {
+      "message": "Klik untuk mencentang atau menghapus centang"
+   },
+   "title_dark_mode": {
+      "message": "Beralih ke mode gelap"
+   },
+   "title_downloads_setting": {
+      "message": "Setelan Unduhan Chrome"
+   },
+   "title_light_mode": {
+      "message": "Beralih ke mode terang"
+   },
+   "title_rate": {
+      "message": "Nilai ekstensi ini"
+   }
+}

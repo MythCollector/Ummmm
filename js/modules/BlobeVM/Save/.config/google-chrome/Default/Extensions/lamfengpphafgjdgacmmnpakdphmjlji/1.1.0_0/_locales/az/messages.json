@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Yüklə"
+   },
+   "action_invert_selection": {
+      "message": "Seçimi Çevir"
+   },
+   "action_selected_count": {
+      "message": "($1 seçilmiş)"
+   },
+   "description": {
+      "message": "Bir neçə vərəqdən bir kliklə şəkilləri toplu yükləyin. AVIF, WebP və AI tərəfindən yaradılmış şəkilləri dəstəkləyir. Ayrıcaya və fayl növünə görə süzün."
+   },
+   "developer_website": {
+      "message": "Tərtibatçı Veb saytı"
+   },
+   "dialog_cancel": {
+      "message": "Ləğv et"
+   },
+   "dialog_dont_show_again": {
+      "message": "Növbəti dəfə bu dialoqu göstərməyin"
+   },
+   "dialog_download_image": {
+      "message": "Şəkli yükləyin"
+   },
+   "dialog_open_settings": {
+      "message": "Chrome Yükləmə Parametrləri"
+   },
+   "dialog_otherwise": {
+      "message": "Chrome Yükləmələr Ayarında seçim. Əks halda, şəkli yüklədiyiniz zaman bir çox təsdiq informasiya qutusu açılacaq."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Zəhmət olmasa seçməyin"
+   },
+   "dialog_title": {
+      "message": "Chrome Yükləmə Parametrləri"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Yükləməzdən əvvəl hər bir faylı harada saxlamaq lazım olduğunu soruşun"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 şəkillər"
+   },
+   "menu_all_tabs": {
+      "message": "Bütün tablar"
+   },
+   "menu_current_tab": {
+      "message": "Cari tab"
+   },
+   "menu_left_tab": {
+      "message": "Cari tabın solunda"
+   },
+   "menu_right_tab": {
+      "message": "Cari tabın sağında"
+   },
+   "name": {
+      "message": "Toplu Şəkil Yükləyicisi"
+   },
+   "panel_height": {
+      "message": "Hündürlük"
+   },
+   "panel_image_types": {
+      "message": "Şəkil növləri"
+   },
+   "panel_sort": {
+      "message": "Sırala"
+   },
+   "panel_width": {
+      "message": "Genişlik"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Maybe Later"
+   },
+   "rate_prompt_message": {
+      "message": "Your 5-star rating is the biggest support for me to keep improving this extension."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "No, Thanks"
+   },
+   "rate_prompt_rate": {
+      "message": "Rate 5 Stars"
+   },
+   "rate_prompt_title": {
+      "message": "Enjoying this extension?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Əvvəlcə böyük"
+   },
+   "sort_small_first": {
+      "message": "Əvvəlcə kiçik"
+   },
+   "sort_tab_index": {
+      "message": "Tab indeksi"
+   },
+   "title_click_toggle": {
+      "message": "Yoxlamaq və ya işarəni silmək üçün klikləyin"
+   },
+   "title_dark_mode": {
+      "message": "Qaranlıq rejimə keçin"
+   },
+   "title_downloads_setting": {
+      "message": "Chrome Yükləmə Parametrləri"
+   },
+   "title_light_mode": {
+      "message": "İşıq rejiminə keçin"
+   },
+   "title_rate": {
+      "message": "Bu uzantıya qiymət verin"
+   }
+}

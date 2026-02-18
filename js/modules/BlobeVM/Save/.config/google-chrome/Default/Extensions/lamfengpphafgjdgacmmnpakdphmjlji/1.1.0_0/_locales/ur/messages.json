@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "ڈاؤن لوڈ"
+   },
+   "action_invert_selection": {
+      "message": "الٹا انتخاب"
+   },
+   "action_selected_count": {
+      "message": "($1 منتخب)"
+   },
+   "description": {
+      "message": "ایک کلک میں متعدد ٹیبز سے تصاویر بڑے پیمانے پر ڈاؤن لوڈ کریں۔ AVIF، WebP اور AI سے بنائی گئی تصاویر کو سپورٹ کرتا ہے۔ ریزولیوشن اور فائل کی قسم کے مطابق فلٹر کریں۔"
+   },
+   "developer_website": {
+      "message": "ڈویلپر ویب سائٹ"
+   },
+   "dialog_cancel": {
+      "message": "منسوخ کریں"
+   },
+   "dialog_dont_show_again": {
+      "message": "اگلی بار اس ڈائیلاگ کو نہ دکھائیں"
+   },
+   "dialog_download_image": {
+      "message": "تصویر ڈاؤن لوڈ کریں"
+   },
+   "dialog_open_settings": {
+      "message": "کروم ڈاؤن لوڈز کی ترتیب"
+   },
+   "dialog_otherwise": {
+      "message": "option in Chrome Downloads Setting. بصورت دیگر ، جب آپ تصویر ڈاؤن لوڈ کرتے ہیں تو ، بہت سارے تصدیقی ڈائیلاگ باکس پاپ اپ ہوجائیں گے۔"
+   },
+   "dialog_please_do_not_select": {
+      "message": "براہ کرم منتخب نہ کریں"
+   },
+   "dialog_title": {
+      "message": "کروم ڈاؤن لوڈز کی ترتیب"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "پوچھیں کہ ڈاؤن لوڈ کرنے سے پہلے ہر فائل کو کہاں محفوظ کیا جائے"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 تصاویر"
+   },
+   "menu_all_tabs": {
+      "message": "تمام ٹیبز"
+   },
+   "menu_current_tab": {
+      "message": "موجودہ ٹیب"
+   },
+   "menu_left_tab": {
+      "message": "موجودہ ٹیب کے بائیں"
+   },
+   "menu_right_tab": {
+      "message": "موجودہ ٹیب کا حق"
+   },
+   "name": {
+      "message": "بلک امیج ڈاؤن لوڈر"
+   },
+   "panel_height": {
+      "message": "اونچائی"
+   },
+   "panel_image_types": {
+      "message": "تصویری اقسام"
+   },
+   "panel_sort": {
+      "message": "ترتیب دیں"
+   },
+   "panel_width": {
+      "message": "چوڑائی"
+   },
+   "range_inf": {
+      "message": "جھگڑا"
+   },
+   "rate_prompt_later": {
+      "message": "بعد میں"
+   },
+   "rate_prompt_message": {
+      "message": "آپ کی 5 ستاروں کی درجہ بندی اس ایکسٹینشن کو بہتر بنانے کے لیے سب سے بڑی حمایت ہے۔"
+   },
+   "rate_prompt_no_thanks": {
+      "message": "نہیں شکریہ"
+   },
+   "rate_prompt_rate": {
+      "message": "5 ستارے دیں"
+   },
+   "rate_prompt_title": {
+      "message": "کیا آپ کو یہ ایکسٹینشن پسند ہے؟"
+   },
+   "shortcut_alt_a": {
+      "message": "alt+a"
+   },
+   "shortcut_alt_c": {
+      "message": "alt+c"
+   },
+   "shortcut_alt_l": {
+      "message": "alt+l"
+   },
+   "shortcut_alt_r": {
+      "message": "alt+r"
+   },
+   "sort_large_first": {
+      "message": "سب سے پہلے"
+   },
+   "sort_small_first": {
+      "message": "چھوٹا پہلا"
+   },
+   "sort_tab_index": {
+      "message": "ٹیب انڈیکس"
+   },
+   "title_click_toggle": {
+      "message": "چیک کرنے یا غیر چیک کرنے کے لئے کلک کریں"
+   },
+   "title_dark_mode": {
+      "message": "ڈارک موڈ پر سوئچ کریں"
+   },
+   "title_downloads_setting": {
+      "message": "کروم ڈاؤن لوڈز کی ترتیب"
+   },
+   "title_light_mode": {
+      "message": "لائٹ موڈ پر سوئچ کریں"
+   },
+   "title_rate": {
+      "message": "اس توسیع کی درجہ بندی کریں"
+   }
+}

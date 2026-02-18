@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Скачать"
+   },
+   "action_invert_selection": {
+      "message": "Инвертировать выделение"
+   },
+   "action_selected_count": {
+      "message": "(выбрано 1 )"
+   },
+   "description": {
+      "message": "Массовая загрузка изображений из нескольких вкладок одним щелчком. Поддержка AVIF, WebP и изображений, созданных ИИ. Фильтрация по разрешению и типу файла."
+   },
+   "developer_website": {
+      "message": "Веб-сайт разработчика"
+   },
+   "dialog_cancel": {
+      "message": "Отмена"
+   },
+   "dialog_dont_show_again": {
+      "message": "Не показывать это диалоговое окно в следующий раз"
+   },
+   "dialog_download_image": {
+      "message": "Скачать изображение"
+   },
+   "dialog_open_settings": {
+      "message": "Настройка загрузок Chrome"
+   },
+   "dialog_otherwise": {
+      "message": "в настройках загрузок Chrome. В противном случае, когда вы загрузите изображение, появится множество диалоговых окон подтверждения."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Пожалуйста, не выбирайте"
+   },
+   "dialog_title": {
+      "message": "Настройка загрузок Chrome"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Спросите, где сохранить каждый файл перед загрузкой"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 изображения"
+   },
+   "menu_all_tabs": {
+      "message": "Все вкладки"
+   },
+   "menu_current_tab": {
+      "message": "Текущая вкладка"
+   },
+   "menu_left_tab": {
+      "message": "Слева от текущей вкладки"
+   },
+   "menu_right_tab": {
+      "message": "Справа от текущей вкладки"
+   },
+   "name": {
+      "message": "Массовый загрузчик изображений"
+   },
+   "panel_height": {
+      "message": "Высота"
+   },
+   "panel_image_types": {
+      "message": "Типы изображений"
+   },
+   "panel_sort": {
+      "message": "Сортировать"
+   },
+   "panel_width": {
+      "message": "Ширина"
+   },
+   "range_inf": {
+      "message": "инфа"
+   },
+   "rate_prompt_later": {
+      "message": "Позже"
+   },
+   "rate_prompt_message": {
+      "message": "Ваша оценка в 5 звёзд — самая большая поддержка для улучшения этого расширения."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Нет, спасибо"
+   },
+   "rate_prompt_rate": {
+      "message": "Поставить 5 звёзд"
+   },
+   "rate_prompt_title": {
+      "message": "Нравится это расширение?"
+   },
+   "shortcut_alt_a": {
+      "message": "Альт+А"
+   },
+   "shortcut_alt_c": {
+      "message": "Альт+С"
+   },
+   "shortcut_alt_l": {
+      "message": "Альт+Л"
+   },
+   "shortcut_alt_r": {
+      "message": "Альт+Р"
+   },
+   "sort_large_first": {
+      "message": "Большой первый"
+   },
+   "sort_small_first": {
+      "message": "Сначала маленький"
+   },
+   "sort_tab_index": {
+      "message": "Индекс вкладки"
+   },
+   "title_click_toggle": {
+      "message": "Нажмите, чтобы установить или снять флажок"
+   },
+   "title_dark_mode": {
+      "message": "Переключиться в темный режим"
+   },
+   "title_downloads_setting": {
+      "message": "Настройка загрузок Chrome"
+   },
+   "title_light_mode": {
+      "message": "Переключиться в светлый режим"
+   },
+   "title_rate": {
+      "message": "Оцените это расширение"
+   }
+}

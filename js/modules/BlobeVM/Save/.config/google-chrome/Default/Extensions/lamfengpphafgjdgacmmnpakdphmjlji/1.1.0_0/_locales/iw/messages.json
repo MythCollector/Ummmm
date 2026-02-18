@@ -1,0 +1,125 @@
+{
+  "name": {
+    "message": "הורדת תמונות בתפזורת"
+  },
+  "description": {
+    "message": "הורד תמונות בכמויות גדולות מכמה לשוניות בלחיצה אחת. תומך ב-AVIF, WebP ותמונות שנוצרו על ידי AI. סנן לפי רזולוציה וסוג קובץ."
+  },
+  "download_settings_save_confirm_key": {
+    "message": "שאל היכן לשמור כל קובץ לפני ההורדה"
+  },
+  "menu_all_tabs": {
+    "message": "כל הכרטיסיות"
+  },
+  "menu_current_tab": {
+    "message": "הכרטיסייה הנוכחית"
+  },
+  "menu_right_tab": {
+    "message": "ימין של הכרטיסייה הנוכחית"
+  },
+  "menu_left_tab": {
+    "message": "משמאל מהכרטיסייה הנוכחית"
+  },
+  "shortcut_alt_a": {
+    "message": "Alt+A"
+  },
+  "shortcut_alt_c": {
+    "message": "Alt+C"
+  },
+  "shortcut_alt_r": {
+    "message": "Alt+R"
+  },
+  "shortcut_alt_l": {
+    "message": "Alt+L"
+  },
+  "dialog_title": {
+    "message": "הגדרת הורדות של Chrome"
+  },
+  "dialog_please_do_not_select": {
+    "message": "נא לא לבחור"
+  },
+  "dialog_otherwise": {
+    "message": "אפשרות בהגדרת הורדות של Chrome. אחרת, כאשר אתה מוריד את התמונה, תופיע הרבה תיבת דו-שיח לאישור."
+  },
+  "dialog_open_settings": {
+    "message": "הגדרת הורדות של Chrome"
+  },
+  "dialog_dont_show_again": {
+    "message": "אל תציג את הדו-שיח הזה בפעם הבאה"
+  },
+  "dialog_cancel": {
+    "message": "לְבַטֵל"
+  },
+  "dialog_download_image": {
+    "message": "הורד תמונה"
+  },
+  "panel_width": {
+    "message": "רוֹחַב"
+  },
+  "panel_height": {
+    "message": "גוֹבַה"
+  },
+  "panel_image_types": {
+    "message": "סוגי תמונות"
+  },
+  "panel_sort": {
+    "message": "סוּג"
+  },
+  "sort_tab_index": {
+    "message": "אינדקס כרטיסיות"
+  },
+  "sort_large_first": {
+    "message": "ראשון גדול"
+  },
+  "sort_small_first": {
+    "message": "קודם כל קטן"
+  },
+  "range_inf": {
+    "message": "אינפ"
+  },
+  "action_invert_selection": {
+    "message": "הפוך בחירה"
+  },
+  "action_download": {
+    "message": "הורד"
+  },
+  "action_selected_count": {
+    "message": "($1 נבחר)"
+  },
+  "info_images_count": {
+    "message": "$1 / $2 תמונות"
+  },
+  "title_light_mode": {
+    "message": "עבור למצב אור"
+  },
+  "title_dark_mode": {
+    "message": "עבור למצב כהה"
+  },
+  "title_rate": {
+    "message": "דרג את ההרחבה הזו"
+  },
+  "title_downloads_setting": {
+    "message": "הגדרת הורדות של Chrome"
+  },
+  "developer_website": {
+    "message": "אתר למפתחים"
+  },
+  "title_click_toggle": {
+    "message": "לחץ כדי לסמן או לבטל את הסימון"
+  },
+  "rate_prompt_title": {
+    "message": "אוהבים את התוסף הזה?"
+  },
+  "rate_prompt_message": {
+    "message": "הדירוג שלכם של 5 כוכבים הוא התמיכה הגדולה ביותר להמשיך לשפר את התוסף הזה."
+  },
+  "rate_prompt_rate": {
+    "message": "דרגו 5 כוכבים"
+  },
+  "rate_prompt_later": {
+    "message": "אולי אחר כך"
+  },
+  "rate_prompt_no_thanks": {
+    "message": "לא, תודה"
+  }
+}

@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "دانلود کنید"
+   },
+   "action_invert_selection": {
+      "message": "انتخاب معکوس"
+   },
+   "action_selected_count": {
+      "message": "($1 انتخاب شده)"
+   },
+   "description": {
+      "message": "با یک کلیک تصاویر را از چندین تب به صورت عمده دانلود کنید. از AVIF، WebP و تصاویر تولید شده توسط هوش مصنوعی پشتیبانی می‌کند. بر اساس وضوح و نوع فایل فیلتر کنید."
+   },
+   "developer_website": {
+      "message": "وب سایت توسعه دهنده"
+   },
+   "dialog_cancel": {
+      "message": "لغو کنید"
+   },
+   "dialog_dont_show_again": {
+      "message": "دفعه بعد این گفتگو را نشان ندهید"
+   },
+   "dialog_download_image": {
+      "message": "دانلود تصویر"
+   },
+   "dialog_open_settings": {
+      "message": "تنظیمات بارگیری Chrome"
+   },
+   "dialog_otherwise": {
+      "message": "گزینه در تنظیمات بارگیری‌های Chrome. در غیر این صورت، هنگامی که تصویر را دانلود می کنید، کادر محاوره ای تأیید زیادی ظاهر می شود."
+   },
+   "dialog_please_do_not_select": {
+      "message": "لطفا انتخاب نکنید"
+   },
+   "dialog_title": {
+      "message": "تنظیمات بارگیری Chrome"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "قبل از دانلود بپرسید هر فایل کجا ذخیره شود"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 تصویر"
+   },
+   "menu_all_tabs": {
+      "message": "همه برگه ها"
+   },
+   "menu_current_tab": {
+      "message": "برگه فعلی"
+   },
+   "menu_left_tab": {
+      "message": "سمت چپ برگه فعلی"
+   },
+   "menu_right_tab": {
+      "message": "سمت راست برگه فعلی"
+   },
+   "name": {
+      "message": "دانلود انبوه تصویر"
+   },
+   "panel_height": {
+      "message": "ارتفاع"
+   },
+   "panel_image_types": {
+      "message": "انواع تصویر"
+   },
+   "panel_sort": {
+      "message": "مرتب کردن"
+   },
+   "panel_width": {
+      "message": "عرض"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "شاید بعداً"
+   },
+   "rate_prompt_message": {
+      "message": "امتیاز 5 ستاره شما بزرگ‌ترین حمایت برای بهبود این افزونه است."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "نه، ممنون"
+   },
+   "rate_prompt_rate": {
+      "message": "امتیاز 5 ستاره"
+   },
+   "rate_prompt_title": {
+      "message": "از این افزونه خوشتان آمده؟"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "اول بزرگ"
+   },
+   "sort_small_first": {
+      "message": "اول کوچک"
+   },
+   "sort_tab_index": {
+      "message": "فهرست برگه"
+   },
+   "title_click_toggle": {
+      "message": "برای بررسی یا برداشتن علامت کلیک کنید"
+   },
+   "title_dark_mode": {
+      "message": "به حالت تاریک بروید"
+   },
+   "title_downloads_setting": {
+      "message": "تنظیمات بارگیری Chrome"
+   },
+   "title_light_mode": {
+      "message": "به حالت نور تغییر دهید"
+   },
+   "title_rate": {
+      "message": "به این افزونه امتیاز دهید"
+   }
+}

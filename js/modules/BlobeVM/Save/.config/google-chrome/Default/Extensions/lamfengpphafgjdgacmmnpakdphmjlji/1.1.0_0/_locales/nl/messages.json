@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Downloaden"
+   },
+   "action_invert_selection": {
+      "message": "Selectie omkeren"
+   },
+   "action_selected_count": {
+      "message": "($1 geselecteerd)"
+   },
+   "description": {
+      "message": "Download afbeeldingen in bulk van meerdere tabbladen met één klik. Ondersteunt AVIF, WebP en door AI gegenereerde afbeeldingen. Filter op resolutie en bestandstype."
+   },
+   "developer_website": {
+      "message": "Ontwikkelaarswebsite"
+   },
+   "dialog_cancel": {
+      "message": "Annuleren"
+   },
+   "dialog_dont_show_again": {
+      "message": "Dit dialoogvenster de volgende keer niet weergeven"
+   },
+   "dialog_download_image": {
+      "message": "Afbeelding downloaden"
+   },
+   "dialog_open_settings": {
+      "message": "Chrome-downloadinstelling"
+   },
+   "dialog_otherwise": {
+      "message": "optie in Chrome Downloads-instelling. Anders verschijnt er een groot aantal bevestigingsdialoogvensters wanneer u de afbeelding downloadt."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Selecteer alstublieft niet"
+   },
+   "dialog_title": {
+      "message": "Chrome-downloadinstelling"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Vraag waar u elk bestand wilt opslaan voordat u het downloadt"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 afbeeldingen"
+   },
+   "menu_all_tabs": {
+      "message": "Alle tabbladen"
+   },
+   "menu_current_tab": {
+      "message": "Huidig ​​tabblad"
+   },
+   "menu_left_tab": {
+      "message": "Links van het huidige tabblad"
+   },
+   "menu_right_tab": {
+      "message": "Rechts van het huidige tabblad"
+   },
+   "name": {
+      "message": "Downloader voor bulkafbeeldingen"
+   },
+   "panel_height": {
+      "message": "Hoogte"
+   },
+   "panel_image_types": {
+      "message": "Afbeeldingstypen"
+   },
+   "panel_sort": {
+      "message": "Soort"
+   },
+   "panel_width": {
+      "message": "Breedte"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Misschien later"
+   },
+   "rate_prompt_message": {
+      "message": "Uw 5-sterrenbeoordeling is de grootste steun om deze extensie te blijven verbeteren."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Nee, bedankt"
+   },
+   "rate_prompt_rate": {
+      "message": "Geef 5 sterren"
+   },
+   "rate_prompt_title": {
+      "message": "Bevalt deze extensie?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Groot eerst"
+   },
+   "sort_small_first": {
+      "message": "Klein eerst"
+   },
+   "sort_tab_index": {
+      "message": "Tabbladindex"
+   },
+   "title_click_toggle": {
+      "message": "Klik om aan of uit te vinken"
+   },
+   "title_dark_mode": {
+      "message": "Schakel over naar de donkere modus"
+   },
+   "title_downloads_setting": {
+      "message": "Chrome-downloadinstelling"
+   },
+   "title_light_mode": {
+      "message": "Schakel over naar de lichtmodus"
+   },
+   "title_rate": {
+      "message": "Beoordeel deze extensie"
+   }
+}

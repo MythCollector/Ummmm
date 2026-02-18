@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Завантажити"
+   },
+   "action_invert_selection": {
+      "message": "Інвертувати виділення"
+   },
+   "action_selected_count": {
+      "message": "($1 вибрано)"
+   },
+   "description": {
+      "message": "Масове завантаження зображень з кількох вкладок одним клацанням. Підтримка AVIF, WebP та зображень, створених ШІ. Фільтрація за роздільною здатністю та типом файлу."
+   },
+   "developer_website": {
+      "message": "Веб-сайт розробника"
+   },
+   "dialog_cancel": {
+      "message": "Скасувати"
+   },
+   "dialog_dont_show_again": {
+      "message": "Не показувати це діалогове вікно наступного разу"
+   },
+   "dialog_download_image": {
+      "message": "Завантажити зображення"
+   },
+   "dialog_open_settings": {
+      "message": "Налаштування завантажень Chrome"
+   },
+   "dialog_otherwise": {
+      "message": "у налаштуваннях завантажень Chrome. Інакше під час завантаження зображення з’явиться багато діалогових вікон підтвердження."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Будь ласка, не вибирайте"
+   },
+   "dialog_title": {
+      "message": "Налаштування завантажень Chrome"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Перед завантаженням запитуйте, куди зберегти кожен файл"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 зображення"
+   },
+   "menu_all_tabs": {
+      "message": "Усі вкладки"
+   },
+   "menu_current_tab": {
+      "message": "Поточна вкладка"
+   },
+   "menu_left_tab": {
+      "message": "Зліва від поточної вкладки"
+   },
+   "menu_right_tab": {
+      "message": "Праворуч від поточної вкладки"
+   },
+   "name": {
+      "message": "Масовий завантажувач зображень"
+   },
+   "panel_height": {
+      "message": "Висота"
+   },
+   "panel_image_types": {
+      "message": "Типи зображень"
+   },
+   "panel_sort": {
+      "message": "Сортувати"
+   },
+   "panel_width": {
+      "message": "Ширина"
+   },
+   "range_inf": {
+      "message": "інф"
+   },
+   "rate_prompt_later": {
+      "message": "Пізніше"
+   },
+   "rate_prompt_message": {
+      "message": "Ваша оцінка в 5 зірок — найбільша підтримка для покращення цього розширення."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Ні, дякую"
+   },
+   "rate_prompt_rate": {
+      "message": "Поставити 5 зірок"
+   },
+   "rate_prompt_title": {
+      "message": "Подобається це розширення?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Перший великий"
+   },
+   "sort_small_first": {
+      "message": "Спочатку малий"
+   },
+   "sort_tab_index": {
+      "message": "Індекс вкладки"
+   },
+   "title_click_toggle": {
+      "message": "Натисніть, щоб поставити або зняти позначку"
+   },
+   "title_dark_mode": {
+      "message": "Переключіться на темний режим"
+   },
+   "title_downloads_setting": {
+      "message": "Налаштування завантажень Chrome"
+   },
+   "title_light_mode": {
+      "message": "Переключіться на світлий режим"
+   },
+   "title_rate": {
+      "message": "Оцініть це розширення"
+   }
+}

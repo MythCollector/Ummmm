@@ -1,0 +1,125 @@
+{
+  "name": {
+    "message": "Bulk Image Downloader"
+  },
+  "description": {
+    "message": "Mag-download ng maraming larawan mula sa maraming tab sa isang click. Sumusuporta sa AVIF, WebP at mga larawang ginawa ng AI. Salain ayon sa resolution at uri ng file."
+  },
+  "download_settings_save_confirm_key": {
+    "message": "Itanong kung saan ise-save ang bawat file bago i-download"
+  },
+  "menu_all_tabs": {
+    "message": "Lahat ng tab"
+  },
+  "menu_current_tab": {
+    "message": "Kasalukuyang tab"
+  },
+  "menu_right_tab": {
+    "message": "Kanan ng kasalukuyang tab"
+  },
+  "menu_left_tab": {
+    "message": "Kaliwa ng kasalukuyang tab"
+  },
+  "shortcut_alt_a": {
+    "message": "Alt+A"
+  },
+  "shortcut_alt_c": {
+    "message": "Alt+C"
+  },
+  "shortcut_alt_r": {
+    "message": "Alt+R"
+  },
+  "shortcut_alt_l": {
+    "message": "Alt+L"
+  },
+  "dialog_title": {
+    "message": "Setting ng Mga Download ng Chrome"
+  },
+  "dialog_please_do_not_select": {
+    "message": "Mangyaring huwag pumili"
+  },
+  "dialog_otherwise": {
+    "message": "opsyon sa Setting ng Mga Download ng Chrome. Kung hindi, kapag na-download mo ang larawan, maraming dialog box ng kumpirmasyon ang lalabas."
+  },
+  "dialog_open_settings": {
+    "message": "Setting ng Mga Download ng Chrome"
+  },
+  "dialog_dont_show_again": {
+    "message": "Huwag ipakita ang dialog na ito sa susunod"
+  },
+  "dialog_cancel": {
+    "message": "Kanselahin"
+  },
+  "dialog_download_image": {
+    "message": "Mag-download ng larawan"
+  },
+  "panel_width": {
+    "message": "Lapad"
+  },
+  "panel_height": {
+    "message": "taas"
+  },
+  "panel_image_types": {
+    "message": "Mga uri ng larawan"
+  },
+  "panel_sort": {
+    "message": "Pagbukud-bukurin"
+  },
+  "sort_tab_index": {
+    "message": "Index ng tab"
+  },
+  "sort_large_first": {
+    "message": "Malaki muna"
+  },
+  "sort_small_first": {
+    "message": "Maliit muna"
+  },
+  "range_inf": {
+    "message": "inf"
+  },
+  "action_invert_selection": {
+    "message": "Baliktarin ang Pagpili"
+  },
+  "action_download": {
+    "message": "I-download"
+  },
+  "action_selected_count": {
+    "message": "($1 ang napili)"
+  },
+  "info_images_count": {
+    "message": "$1 / $2 mga larawan"
+  },
+  "title_light_mode": {
+    "message": "Lumipat sa light mode"
+  },
+  "title_dark_mode": {
+    "message": "Lumipat sa dark mode"
+  },
+  "title_rate": {
+    "message": "I-rate ang extension na ito"
+  },
+  "title_downloads_setting": {
+    "message": "Setting ng Mga Download ng Chrome"
+  },
+  "developer_website": {
+    "message": "Website ng Developer"
+  },
+  "title_click_toggle": {
+    "message": "I-click upang suriin o alisin ang tsek"
+  },
+  "rate_prompt_title": {
+    "message": "Enjoying this extension?"
+  },
+  "rate_prompt_message": {
+    "message": "Your 5-star rating is the biggest support for me to keep improving this extension."
+  },
+  "rate_prompt_rate": {
+    "message": "Rate 5 Stars"
+  },
+  "rate_prompt_later": {
+    "message": "Maybe Later"
+  },
+  "rate_prompt_no_thanks": {
+    "message": "No, Thanks"
+  }
+}

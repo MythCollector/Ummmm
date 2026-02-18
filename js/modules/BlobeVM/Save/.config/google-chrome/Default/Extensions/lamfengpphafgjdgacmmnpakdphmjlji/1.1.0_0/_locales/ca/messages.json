@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Descarregar"
+   },
+   "action_invert_selection": {
+      "message": "Inverteix la selecció"
+   },
+   "action_selected_count": {
+      "message": "($1 seleccionat)"
+   },
+   "description": {
+      "message": "Baixeu imatges en massa des de diverses pestanyes amb un sol clic. Compatible amb AVIF, WebP i imatges generades per IA. Filtreu per resolució i tipus de fitxer."
+   },
+   "developer_website": {
+      "message": "Lloc web del desenvolupador"
+   },
+   "dialog_cancel": {
+      "message": "Cancel·la"
+   },
+   "dialog_dont_show_again": {
+      "message": "No mostrar aquest diàleg la propera vegada"
+   },
+   "dialog_download_image": {
+      "message": "Descarrega la imatge"
+   },
+   "dialog_open_settings": {
+      "message": "Configuració de baixades de Chrome"
+   },
+   "dialog_otherwise": {
+      "message": "opció a la configuració de descàrregues de Chrome. En cas contrari, quan baixeu la imatge, apareixerà una gran quantitat de quadres de diàleg de confirmació."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Si us plau, no seleccioneu"
+   },
+   "dialog_title": {
+      "message": "Configuració de baixades de Chrome"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Pregunteu on desar cada fitxer abans de descarregar-lo"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 imatges"
+   },
+   "menu_all_tabs": {
+      "message": "Totes les pestanyes"
+   },
+   "menu_current_tab": {
+      "message": "Pestanya actual"
+   },
+   "menu_left_tab": {
+      "message": "A l'esquerra de la pestanya actual"
+   },
+   "menu_right_tab": {
+      "message": "Dret de la pestanya actual"
+   },
+   "name": {
+      "message": "Descàrrega d'imatges massives"
+   },
+   "panel_height": {
+      "message": "Alçada"
+   },
+   "panel_image_types": {
+      "message": "Tipus d'imatge"
+   },
+   "panel_sort": {
+      "message": "Ordena"
+   },
+   "panel_width": {
+      "message": "Amplada"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Maybe Later"
+   },
+   "rate_prompt_message": {
+      "message": "Your 5-star rating is the biggest support for me to keep improving this extension."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "No, Thanks"
+   },
+   "rate_prompt_rate": {
+      "message": "Rate 5 Stars"
+   },
+   "rate_prompt_title": {
+      "message": "Enjoying this extension?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Gran primer"
+   },
+   "sort_small_first": {
+      "message": "Petit primer"
+   },
+   "sort_tab_index": {
+      "message": "Índex de pestanyes"
+   },
+   "title_click_toggle": {
+      "message": "Feu clic per marcar o desmarcar"
+   },
+   "title_dark_mode": {
+      "message": "Canvia al mode fosc"
+   },
+   "title_downloads_setting": {
+      "message": "Configuració de baixades de Chrome"
+   },
+   "title_light_mode": {
+      "message": "Canvia al mode de llum"
+   },
+   "title_rate": {
+      "message": "Valoreu aquesta extensió"
+   }
+}

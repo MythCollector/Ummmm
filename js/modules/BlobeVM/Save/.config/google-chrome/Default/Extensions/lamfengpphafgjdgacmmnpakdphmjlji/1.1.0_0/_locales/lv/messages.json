@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Lejupielādēt"
+   },
+   "action_invert_selection": {
+      "message": "Invertēt atlasi"
+   },
+   "action_selected_count": {
+      "message": "(1 atlasīts)"
+   },
+   "description": {
+      "message": "Lejupielādējiet attēlus lielapjomā no vairākām cilnēm ar vienu klikšķi. Atbalsta AVIF, WebP un ar AI ģenerētus attēlus. Filtrējiet pēc izšķirtspējas un faila tipa."
+   },
+   "developer_website": {
+      "message": "Izstrādātāja vietne"
+   },
+   "dialog_cancel": {
+      "message": "Atcelt"
+   },
+   "dialog_dont_show_again": {
+      "message": "Nākamreiz nerādīt šo dialoglodziņu"
+   },
+   "dialog_download_image": {
+      "message": "Lejupielādēt attēlu"
+   },
+   "dialog_open_settings": {
+      "message": "Chrome lejupielāžu iestatījums"
+   },
+   "dialog_otherwise": {
+      "message": "opciju Chrome lejupielāžu iestatījumā. Pretējā gadījumā, lejupielādējot attēlu, tiks parādīts liels apstiprinājuma dialoglodziņš."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Lūdzu, neatlasiet"
+   },
+   "dialog_title": {
+      "message": "Chrome lejupielāžu iestatījums"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Pirms lejupielādes jautājiet, kur saglabāt katru failu"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 attēli"
+   },
+   "menu_all_tabs": {
+      "message": "Visas cilnes"
+   },
+   "menu_current_tab": {
+      "message": "Pašreizējā cilne"
+   },
+   "menu_left_tab": {
+      "message": "Pa kreisi no pašreizējās cilnes"
+   },
+   "menu_right_tab": {
+      "message": "Pašreizējās cilnes labajā pusē"
+   },
+   "name": {
+      "message": "Lielapjoma attēlu lejupielādētājs"
+   },
+   "panel_height": {
+      "message": "Augstums"
+   },
+   "panel_image_types": {
+      "message": "Attēlu veidi"
+   },
+   "panel_sort": {
+      "message": "Kārtot"
+   },
+   "panel_width": {
+      "message": "Platums"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Varbūt vēlāk"
+   },
+   "rate_prompt_message": {
+      "message": "Jūsu 5 zvaigžņu vērtējums ir lielākais atbalsts šī paplašinājuma uzlabošanai."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Nē, paldies"
+   },
+   "rate_prompt_rate": {
+      "message": "Novērtēt ar 5 zvaigznēm"
+   },
+   "rate_prompt_title": {
+      "message": "Patīk šis paplašinājums?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Vispirms liels"
+   },
+   "sort_small_first": {
+      "message": "Vispirms mazs"
+   },
+   "sort_tab_index": {
+      "message": "Cilnes rādītājs"
+   },
+   "title_click_toggle": {
+      "message": "Noklikšķiniet, lai atzīmētu vai noņemtu atzīmi"
+   },
+   "title_dark_mode": {
+      "message": "Pārslēdzieties uz tumšo režīmu"
+   },
+   "title_downloads_setting": {
+      "message": "Chrome lejupielāžu iestatījums"
+   },
+   "title_light_mode": {
+      "message": "Pārslēdzieties uz gaismas režīmu"
+   },
+   "title_rate": {
+      "message": "Novērtējiet šo paplašinājumu"
+   }
+}

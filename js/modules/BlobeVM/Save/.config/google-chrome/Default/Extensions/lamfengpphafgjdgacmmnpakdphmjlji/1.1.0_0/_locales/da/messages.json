@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Download"
+   },
+   "action_invert_selection": {
+      "message": "Inverter markering"
+   },
+   "action_selected_count": {
+      "message": "($1 valgt)"
+   },
+   "description": {
+      "message": "Download billeder i bulk fra flere faner med ét klik. Understøtter AVIF, WebP og AI-genererede billeder. Filtrer efter opløsning og filtype."
+   },
+   "developer_website": {
+      "message": "Udvikler hjemmeside"
+   },
+   "dialog_cancel": {
+      "message": "Ophæve"
+   },
+   "dialog_dont_show_again": {
+      "message": "Vis ikke denne dialogboks næste gang"
+   },
+   "dialog_download_image": {
+      "message": "Download billede"
+   },
+   "dialog_open_settings": {
+      "message": "Indstilling for Chrome-downloads"
+   },
+   "dialog_otherwise": {
+      "message": "mulighed i Chrome Downloads-indstilling. Ellers, når du downloader billedet, vil en masse bekræftelsesdialogbokse dukke op."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Vælg venligst ikke"
+   },
+   "dialog_title": {
+      "message": "Indstilling for Chrome-downloads"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Spørg, hvor hver fil skal gemmes, før du downloader"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 billeder"
+   },
+   "menu_all_tabs": {
+      "message": "Alle faner"
+   },
+   "menu_current_tab": {
+      "message": "Aktuel fane"
+   },
+   "menu_left_tab": {
+      "message": "Til venstre for den aktuelle fane"
+   },
+   "menu_right_tab": {
+      "message": "Til højre for den aktuelle fane"
+   },
+   "name": {
+      "message": "Bulk Image Downloader"
+   },
+   "panel_height": {
+      "message": "Højde"
+   },
+   "panel_image_types": {
+      "message": "Billedtyper"
+   },
+   "panel_sort": {
+      "message": "Sortere"
+   },
+   "panel_width": {
+      "message": "Bredde"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Måske senere"
+   },
+   "rate_prompt_message": {
+      "message": "Din 5-stjernede vurdering er den største støtte til at fortsætte med at forbedre denne udvidelse."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Nej tak"
+   },
+   "rate_prompt_rate": {
+      "message": "Giv 5 stjerner"
+   },
+   "rate_prompt_title": {
+      "message": "Kan du lide denne udvidelse?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Stor først"
+   },
+   "sort_small_first": {
+      "message": "Lille først"
+   },
+   "sort_tab_index": {
+      "message": "Faneindeks"
+   },
+   "title_click_toggle": {
+      "message": "Klik for at markere eller fjerne markeringen"
+   },
+   "title_dark_mode": {
+      "message": "Skift til mørk tilstand"
+   },
+   "title_downloads_setting": {
+      "message": "Indstilling for Chrome-downloads"
+   },
+   "title_light_mode": {
+      "message": "Skift til lystilstand"
+   },
+   "title_rate": {
+      "message": "Bedøm denne udvidelse"
+   }
+}

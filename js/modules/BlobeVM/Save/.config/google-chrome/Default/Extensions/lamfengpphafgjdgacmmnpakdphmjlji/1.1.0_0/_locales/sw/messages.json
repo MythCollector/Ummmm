@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Pakua"
+   },
+   "action_invert_selection": {
+      "message": "Geuza Uteuzi"
+   },
+   "action_selected_count": {
+      "message": "($1 imechaguliwa)"
+   },
+   "description": {
+      "message": "Pakua picha kwa wingi kutoka kwa kichupo cha kichupo kwa kubofya mara moja. Inasaidia AVIF, WebP na picha zinazotengenezwa na AI. Chuja kulingana na azimio na aina ya faili."
+   },
+   "developer_website": {
+      "message": "Wavuti ya Msanidi"
+   },
+   "dialog_cancel": {
+      "message": "Ghairi"
+   },
+   "dialog_dont_show_again": {
+      "message": "Usionyeshe kidirisha hiki wakati ujao"
+   },
+   "dialog_download_image": {
+      "message": "Pakua picha"
+   },
+   "dialog_open_settings": {
+      "message": "Mipangilio ya Vipakuliwa vya Chrome"
+   },
+   "dialog_otherwise": {
+      "message": "chaguo katika Mipangilio ya Vipakuliwa vya Chrome. Vinginevyo, unapopakua picha, sanduku nyingi za uthibitishaji zitatokea."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Tafadhali usichague"
+   },
+   "dialog_title": {
+      "message": "Mipangilio ya Vipakuliwa vya Chrome"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Uliza mahali pa kuhifadhi kila faili kabla ya kupakua"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 picha"
+   },
+   "menu_all_tabs": {
+      "message": "Vichupo vyote"
+   },
+   "menu_current_tab": {
+      "message": "Kichupo cha sasa"
+   },
+   "menu_left_tab": {
+      "message": "Kushoto kwa kichupo cha sasa"
+   },
+   "menu_right_tab": {
+      "message": "Kulia kwa kichupo cha sasa"
+   },
+   "name": {
+      "message": "Kipakua Picha Wingi"
+   },
+   "panel_height": {
+      "message": "Urefu"
+   },
+   "panel_image_types": {
+      "message": "Aina za picha"
+   },
+   "panel_sort": {
+      "message": "Panga"
+   },
+   "panel_width": {
+      "message": "Upana"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Maybe Later"
+   },
+   "rate_prompt_message": {
+      "message": "Your 5-star rating is the biggest support for me to keep improving this extension."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "No, Thanks"
+   },
+   "rate_prompt_rate": {
+      "message": "Rate 5 Stars"
+   },
+   "rate_prompt_title": {
+      "message": "Enjoying this extension?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Kubwa kwanza"
+   },
+   "sort_small_first": {
+      "message": "Ndogo kwanza"
+   },
+   "sort_tab_index": {
+      "message": "Kielezo cha kichupo"
+   },
+   "title_click_toggle": {
+      "message": "Bofya ili kuangalia au ubatilishe uteuzi"
+   },
+   "title_dark_mode": {
+      "message": "Badili hadi hali ya giza"
+   },
+   "title_downloads_setting": {
+      "message": "Mipangilio ya Vipakuliwa vya Chrome"
+   },
+   "title_light_mode": {
+      "message": "Badilisha kwa hali ya mwanga"
+   },
+   "title_rate": {
+      "message": "Kadiria kiendelezi hiki"
+   }
+}

@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Lataa"
+   },
+   "action_invert_selection": {
+      "message": "Käänteinen valinta"
+   },
+   "action_selected_count": {
+      "message": "($1 valittu)"
+   },
+   "description": {
+      "message": "Lataa kuvia massana useista välilehdistä yhdellä napsautuksella. Tukee AVIF-, WebP- ja tekoälyllä luotuja kuvia. Suodata tarkkuuden ja tiedostotyypin mukaan."
+   },
+   "developer_website": {
+      "message": "Kehittäjän verkkosivusto"
+   },
+   "dialog_cancel": {
+      "message": "Peruuttaa"
+   },
+   "dialog_dont_show_again": {
+      "message": "Älä näytä tätä valintaikkunaa seuraavan kerran"
+   },
+   "dialog_download_image": {
+      "message": "Lataa kuva"
+   },
+   "dialog_open_settings": {
+      "message": "Chromen latausasetukset"
+   },
+   "dialog_otherwise": {
+      "message": "vaihtoehto Chromen latausasetuksissa. Muuten, kun lataat kuvan, näkyviin tulee paljon vahvistusvalintaikkunaa."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Älä valitse"
+   },
+   "dialog_title": {
+      "message": "Chromen latausasetukset"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Kysy, minne kukin tiedosto tallennetaan ennen lataamista"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 kuvaa"
+   },
+   "menu_all_tabs": {
+      "message": "Kaikki välilehdet"
+   },
+   "menu_current_tab": {
+      "message": "Nykyinen välilehti"
+   },
+   "menu_left_tab": {
+      "message": "Nykyisen välilehden vasemmalla puolella"
+   },
+   "menu_right_tab": {
+      "message": "Nykyisen välilehden oikealla"
+   },
+   "name": {
+      "message": "Bulk Image Downloader"
+   },
+   "panel_height": {
+      "message": "Korkeus"
+   },
+   "panel_image_types": {
+      "message": "Kuvatyypit"
+   },
+   "panel_sort": {
+      "message": "Järjestellä"
+   },
+   "panel_width": {
+      "message": "Leveys"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Ehkä myöhemmin"
+   },
+   "rate_prompt_message": {
+      "message": "5 tähden arviosi on suurin tuki tämän laajennuksen kehittämiselle."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Ei kiitos"
+   },
+   "rate_prompt_rate": {
+      "message": "Anna 5 tähteä"
+   },
+   "rate_prompt_title": {
+      "message": "Pidätkö tästä laajennuksesta?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Iso ensin"
+   },
+   "sort_small_first": {
+      "message": "Pieni ensin"
+   },
+   "sort_tab_index": {
+      "message": "Välilehtihakemisto"
+   },
+   "title_click_toggle": {
+      "message": "Valitse tai poista valinta napsauttamalla"
+   },
+   "title_dark_mode": {
+      "message": "Vaihda pimeään tilaan"
+   },
+   "title_downloads_setting": {
+      "message": "Chromen latausasetukset"
+   },
+   "title_light_mode": {
+      "message": "Vaihda valotilaan"
+   },
+   "title_rate": {
+      "message": "Arvioi tämä laajennus"
+   }
+}

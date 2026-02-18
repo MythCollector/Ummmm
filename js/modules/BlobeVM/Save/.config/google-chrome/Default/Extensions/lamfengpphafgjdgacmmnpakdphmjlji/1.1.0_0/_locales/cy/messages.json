@@ -1,0 +1,125 @@
+{
+  "name": {
+    "message": "Lawrlwythwr Delwedd Swmp"
+  },
+  "description": {
+    "message": "Lawrlwythwch delweddau yn swmp o amryw dabiau gydag un clic. Cefnoga AVIF, WebP a delweddau a gynhyrchwyd gan AI. Hidlwch yn ôl penderfyniad a math o ffeil."
+  },
+  "download_settings_save_confirm_key": {
+    "message": "Gofynnwch ble i gadw pob ffeil cyn ei lawrlwytho"
+  },
+  "menu_all_tabs": {
+    "message": "Pob tab"
+  },
+  "menu_current_tab": {
+    "message": "Tab cyfredol"
+  },
+  "menu_right_tab": {
+    "message": "I'r dde o'r tab cyfredol"
+  },
+  "menu_left_tab": {
+    "message": "I'r chwith o'r tab cyfredol"
+  },
+  "shortcut_alt_a": {
+    "message": "Alt+A"
+  },
+  "shortcut_alt_c": {
+    "message": "Alt+C"
+  },
+  "shortcut_alt_r": {
+    "message": "Alt+R"
+  },
+  "shortcut_alt_l": {
+    "message": "Alt+L"
+  },
+  "dialog_title": {
+    "message": "Gosodiad Lawrlwythiadau Chrome"
+  },
+  "dialog_please_do_not_select": {
+    "message": "Peidiwch â dewis"
+  },
+  "dialog_otherwise": {
+    "message": "opsiwn yn Gosodiad Lawrlwythiadau Chrome. Fel arall, pan fyddwch chi'n lawrlwytho'r llun, bydd llawer o flwch deialog cadarnhau yn ymddangos."
+  },
+  "dialog_open_settings": {
+    "message": "Gosodiad Lawrlwythiadau Chrome"
+  },
+  "dialog_dont_show_again": {
+    "message": "Ddim yn dangos y dialog hwn y tro nesaf"
+  },
+  "dialog_cancel": {
+    "message": "Canslo"
+  },
+  "dialog_download_image": {
+    "message": "Lawrlwytho delwedd"
+  },
+  "panel_width": {
+    "message": "Lled"
+  },
+  "panel_height": {
+    "message": "Uchder"
+  },
+  "panel_image_types": {
+    "message": "Mathau o ddelweddau"
+  },
+  "panel_sort": {
+    "message": "Trefnu"
+  },
+  "sort_tab_index": {
+    "message": "Mynegai tab"
+  },
+  "sort_large_first": {
+    "message": "Mawr yn gyntaf"
+  },
+  "sort_small_first": {
+    "message": "Bach yn gyntaf"
+  },
+  "range_inf": {
+    "message": "inf"
+  },
+  "action_invert_selection": {
+    "message": "Dewis Gwrthdro"
+  },
+  "action_download": {
+    "message": "Lawrlwythwch"
+  },
+  "action_selected_count": {
+    "message": "($1 wedi'i ddewis)"
+  },
+  "info_images_count": {
+    "message": "$1 / $2 delwedd"
+  },
+  "title_light_mode": {
+    "message": "Newid i'r modd golau"
+  },
+  "title_dark_mode": {
+    "message": "Newid i'r modd tywyll"
+  },
+  "title_rate": {
+    "message": "Graddiwch yr estyniad hwn"
+  },
+  "title_downloads_setting": {
+    "message": "Gosodiad Lawrlwythiadau Chrome"
+  },
+  "developer_website": {
+    "message": "Gwefan y Datblygwr"
+  },
+  "title_click_toggle": {
+    "message": "Cliciwch i wirio neu ddad-dicio"
+  },
+  "rate_prompt_title": {
+    "message": "Enjoying this extension?"
+  },
+  "rate_prompt_message": {
+    "message": "Your 5-star rating is the biggest support for me to keep improving this extension."
+  },
+  "rate_prompt_rate": {
+    "message": "Rate 5 Stars"
+  },
+  "rate_prompt_later": {
+    "message": "Maybe Later"
+  },
+  "rate_prompt_no_thanks": {
+    "message": "No, Thanks"
+  }
+}

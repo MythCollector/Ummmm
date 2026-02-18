@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Ladda ner"
+   },
+   "action_invert_selection": {
+      "message": "Invertera urval"
+   },
+   "action_selected_count": {
+      "message": "($1 vald)"
+   },
+   "description": {
+      "message": "Ladda ner bilder i bulk från flera flikar med ett klick. Stöder AVIF, WebP och AI-genererade bilder. Filtrera efter upplösning och filtyp."
+   },
+   "developer_website": {
+      "message": "Webbplats för utvecklare"
+   },
+   "dialog_cancel": {
+      "message": "Avboka"
+   },
+   "dialog_dont_show_again": {
+      "message": "Visa inte den här dialogrutan nästa gång"
+   },
+   "dialog_download_image": {
+      "message": "Ladda ner bild"
+   },
+   "dialog_open_settings": {
+      "message": "Chrome Nedladdningsinställning"
+   },
+   "dialog_otherwise": {
+      "message": "alternativet i Chrome Nedladdningsinställning. Annars, när du laddar ner bilden, kommer en hel del bekräftelsedialogruta att dyka upp."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Vänligen välj inte"
+   },
+   "dialog_title": {
+      "message": "Chrome Nedladdningsinställning"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Fråga var du ska spara varje fil innan du laddar ner"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 bilder"
+   },
+   "menu_all_tabs": {
+      "message": "Alla flikar"
+   },
+   "menu_current_tab": {
+      "message": "Aktuell flik"
+   },
+   "menu_left_tab": {
+      "message": "Till vänster om aktuell flik"
+   },
+   "menu_right_tab": {
+      "message": "Höger om aktuell flik"
+   },
+   "name": {
+      "message": "Bulk Image Downloader"
+   },
+   "panel_height": {
+      "message": "Höjd"
+   },
+   "panel_image_types": {
+      "message": "Bildtyper"
+   },
+   "panel_sort": {
+      "message": "Sortera"
+   },
+   "panel_width": {
+      "message": "Bredd"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Kanske senare"
+   },
+   "rate_prompt_message": {
+      "message": "Ditt 5-stjärnigt betyg är det största stödet för att fortsätta förbättra detta tillägg."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Nej tack"
+   },
+   "rate_prompt_rate": {
+      "message": "Ge 5 stjärnor"
+   },
+   "rate_prompt_title": {
+      "message": "Gillar du detta tillägg?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Stor först"
+   },
+   "sort_small_first": {
+      "message": "Liten först"
+   },
+   "sort_tab_index": {
+      "message": "Flikindex"
+   },
+   "title_click_toggle": {
+      "message": "Klicka för att markera eller avmarkera"
+   },
+   "title_dark_mode": {
+      "message": "Växla till mörkt läge"
+   },
+   "title_downloads_setting": {
+      "message": "Chrome Nedladdningsinställning"
+   },
+   "title_light_mode": {
+      "message": "Växla till ljusläge"
+   },
+   "title_rate": {
+      "message": "Betygsätt detta tillägg"
+   }
+}

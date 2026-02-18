@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Descargar"
+   },
+   "action_invert_selection": {
+      "message": "Invertir selección"
+   },
+   "action_selected_count": {
+      "message": "($1 seleccionado)"
+   },
+   "description": {
+      "message": "Descarga masiva de imágenes desde varias pestañas con un solo clic. Compatible con AVIF, WebP e imágenes generadas por IA. Filtrar por resolución y tipo de archivo."
+   },
+   "developer_website": {
+      "message": "Sitio web del desarrollador"
+   },
+   "dialog_cancel": {
+      "message": "Cancelar"
+   },
+   "dialog_dont_show_again": {
+      "message": "No mostrar este cuadro de diálogo la próxima vez."
+   },
+   "dialog_download_image": {
+      "message": "Descargar imagen"
+   },
+   "dialog_open_settings": {
+      "message": "Configuración de descargas de Chrome"
+   },
+   "dialog_otherwise": {
+      "message": "opción en Configuración de descargas de Chrome. De lo contrario, cuando descargue la imagen, aparecerán muchos cuadros de diálogo de confirmación."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Por favor no seleccione"
+   },
+   "dialog_title": {
+      "message": "Configuración de descargas de Chrome"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Preguntar dónde guardar cada archivo antes de descargarlo"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 imágenes"
+   },
+   "menu_all_tabs": {
+      "message": "Todas las pestañas"
+   },
+   "menu_current_tab": {
+      "message": "Pestaña actual"
+   },
+   "menu_left_tab": {
+      "message": "A la izquierda de la pestaña actual"
+   },
+   "menu_right_tab": {
+      "message": "Derecha de la pestaña actual"
+   },
+   "name": {
+      "message": "Descargador de imágenes masivas"
+   },
+   "panel_height": {
+      "message": "Altura"
+   },
+   "panel_image_types": {
+      "message": "Tipos de imagen"
+   },
+   "panel_sort": {
+      "message": "Clasificar"
+   },
+   "panel_width": {
+      "message": "Ancho"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Quizás después"
+   },
+   "rate_prompt_message": {
+      "message": "Tu valoración de 5 estrellas es el mayor apoyo para seguir mejorando esta extensión."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "No, gracias"
+   },
+   "rate_prompt_rate": {
+      "message": "Dar 5 estrellas"
+   },
+   "rate_prompt_title": {
+      "message": "¿Te gusta esta extensión?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Grande primero"
+   },
+   "sort_small_first": {
+      "message": "Pequeña primero"
+   },
+   "sort_tab_index": {
+      "message": "Índice de pestañas"
+   },
+   "title_click_toggle": {
+      "message": "Haga clic para marcar o desmarcar"
+   },
+   "title_dark_mode": {
+      "message": "Cambiar al modo oscuro"
+   },
+   "title_downloads_setting": {
+      "message": "Configuración de descargas de Chrome"
+   },
+   "title_light_mode": {
+      "message": "Cambiar al modo de luz"
+   },
+   "title_rate": {
+      "message": "Califica esta extensión"
+   }
+}

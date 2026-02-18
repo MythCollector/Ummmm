@@ -1,0 +1,125 @@
+{
+  "name": {
+    "message": "Shkarkues i imazheve në masë"
+  },
+  "description": {
+    "message": "Shkarkoni imazhe në masë nga disa skeda me një klikim. Mbështet AVIF, WebP dhe imazhe të gjeneruara nga AI. Filtroni sipas rezolucionit dhe llojit të skedarit."
+  },
+  "download_settings_save_confirm_key": {
+    "message": "Pyetni se ku të ruani çdo skedar përpara se ta shkarkoni"
+  },
+  "menu_all_tabs": {
+    "message": "Të gjitha skedat"
+  },
+  "menu_current_tab": {
+    "message": "Skeda aktuale"
+  },
+  "menu_right_tab": {
+    "message": "Djathtas i skedës aktuale"
+  },
+  "menu_left_tab": {
+    "message": "Në të majtë të skedës aktuale"
+  },
+  "shortcut_alt_a": {
+    "message": "Alt+A"
+  },
+  "shortcut_alt_c": {
+    "message": "Alt+C"
+  },
+  "shortcut_alt_r": {
+    "message": "Alt+R"
+  },
+  "shortcut_alt_l": {
+    "message": "Alt+L"
+  },
+  "dialog_title": {
+    "message": "Cilësimi i Shkarkimeve të Chrome"
+  },
+  "dialog_please_do_not_select": {
+    "message": "Ju lutemi mos zgjidhni"
+  },
+  "dialog_otherwise": {
+    "message": "opsion në Cilësimin e Shkarkimeve të Chrome. Përndryshe, kur shkarkoni foton, do të shfaqen shumë kuti dialogu konfirmimi."
+  },
+  "dialog_open_settings": {
+    "message": "Cilësimi i Shkarkimeve të Chrome"
+  },
+  "dialog_dont_show_again": {
+    "message": "Mos e shfaq këtë dialog herën tjetër"
+  },
+  "dialog_cancel": {
+    "message": "Anulo"
+  },
+  "dialog_download_image": {
+    "message": "Shkarko imazhin"
+  },
+  "panel_width": {
+    "message": "Gjerësia"
+  },
+  "panel_height": {
+    "message": "Lartësia"
+  },
+  "panel_image_types": {
+    "message": "Llojet e imazheve"
+  },
+  "panel_sort": {
+    "message": "Rendit"
+  },
+  "sort_tab_index": {
+    "message": "Indeksi i skedës"
+  },
+  "sort_large_first": {
+    "message": "Së pari e madhe"
+  },
+  "sort_small_first": {
+    "message": "Së pari e vogël"
+  },
+  "range_inf": {
+    "message": "inf"
+  },
+  "action_invert_selection": {
+    "message": "Përmbys përzgjedhjen"
+  },
+  "action_download": {
+    "message": "Shkarkoni"
+  },
+  "action_selected_count": {
+    "message": "($1 zgjedhur)"
+  },
+  "info_images_count": {
+    "message": "$1 / $2 imazhe"
+  },
+  "title_light_mode": {
+    "message": "Kalo në modalitetin e dritës"
+  },
+  "title_dark_mode": {
+    "message": "Kalo në modalitetin e errët"
+  },
+  "title_rate": {
+    "message": "Vlerësoni këtë shtesë"
+  },
+  "title_downloads_setting": {
+    "message": "Cilësimi i Shkarkimeve të Chrome"
+  },
+  "developer_website": {
+    "message": "Uebfaqja e zhvilluesit"
+  },
+  "title_click_toggle": {
+    "message": "Klikoni për të kontrolluar ose hequr"
+  },
+  "rate_prompt_title": {
+    "message": "Enjoying this extension?"
+  },
+  "rate_prompt_message": {
+    "message": "Your 5-star rating is the biggest support for me to keep improving this extension."
+  },
+  "rate_prompt_rate": {
+    "message": "Rate 5 Stars"
+  },
+  "rate_prompt_later": {
+    "message": "Maybe Later"
+  },
+  "rate_prompt_no_thanks": {
+    "message": "No, Thanks"
+  }
+}

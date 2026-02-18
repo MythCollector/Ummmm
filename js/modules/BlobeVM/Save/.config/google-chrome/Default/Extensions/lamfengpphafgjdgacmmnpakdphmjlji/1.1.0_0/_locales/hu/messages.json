@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Letöltés"
+   },
+   "action_invert_selection": {
+      "message": "Kijelölés megfordítása"
+   },
+   "action_selected_count": {
+      "message": "($1 kiválasztott)"
+   },
+   "description": {
+      "message": "Több lapról egy kattintással tömegesen töltsön le képeket. Támogatja az AVIF, WebP és az AI által generált képeket. Szűrés felbontás és fájltípus szerint."
+   },
+   "developer_website": {
+      "message": "Fejlesztői webhely"
+   },
+   "dialog_cancel": {
+      "message": "Mégse"
+   },
+   "dialog_dont_show_again": {
+      "message": "Legközelebb ne jelenítse meg ezt a párbeszédpanelt"
+   },
+   "dialog_download_image": {
+      "message": "Kép letöltése"
+   },
+   "dialog_open_settings": {
+      "message": "Chrome letöltések beállítása"
+   },
+   "dialog_otherwise": {
+      "message": "lehetőség a Chrome letöltési beállításaiban. Ellenkező esetben, amikor letölti a képet, sok megerősítő párbeszédablak jelenik meg."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Kérjük, ne válasszon"
+   },
+   "dialog_title": {
+      "message": "Chrome letöltések beállítása"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Letöltés előtt kérdezze meg, hová kell menteni az egyes fájlokat"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 kép"
+   },
+   "menu_all_tabs": {
+      "message": "Minden lap"
+   },
+   "menu_current_tab": {
+      "message": "Aktuális lap"
+   },
+   "menu_left_tab": {
+      "message": "Az aktuális laptól balra"
+   },
+   "menu_right_tab": {
+      "message": "Az aktuális laptól jobbra"
+   },
+   "name": {
+      "message": "Tömeges képletöltő"
+   },
+   "panel_height": {
+      "message": "Magasság"
+   },
+   "panel_image_types": {
+      "message": "Képtípusok"
+   },
+   "panel_sort": {
+      "message": "Fajta"
+   },
+   "panel_width": {
+      "message": "Szélesség"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Talán később"
+   },
+   "rate_prompt_message": {
+      "message": "Az 5 csillagos értékelésed a legnagyobb támogatás a bővítmény fejlesztéséhez."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Nem, köszönöm"
+   },
+   "rate_prompt_rate": {
+      "message": "5 csillag adása"
+   },
+   "rate_prompt_title": {
+      "message": "Tetszik ez a bővítmény?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Először nagy"
+   },
+   "sort_small_first": {
+      "message": "Először kicsi"
+   },
+   "sort_tab_index": {
+      "message": "Tab index"
+   },
+   "title_click_toggle": {
+      "message": "Kattintson a bejelöléshez vagy a bejelölés törléséhez"
+   },
+   "title_dark_mode": {
+      "message": "Váltson sötét módba"
+   },
+   "title_downloads_setting": {
+      "message": "Chrome letöltések beállítása"
+   },
+   "title_light_mode": {
+      "message": "Váltson világos üzemmódra"
+   },
+   "title_rate": {
+      "message": "Értékelje ezt a bővítményt"
+   }
+}

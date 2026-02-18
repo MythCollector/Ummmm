@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "ডাউনলোড করুন"
+   },
+   "action_invert_selection": {
+      "message": "উল্টানো নির্বাচন"
+   },
+   "action_selected_count": {
+      "message": "(১ নির্বাচিত)"
+   },
+   "description": {
+      "message": "এক ক্লিকে একাধিক ট্যাব থেকে ছবি ব্যাচ ডাউনলোড করুন। AVIF, WebP এবং AI-উৎপাদিত ছবি সমর্থন করে। রেজোলিউশন এবং ফাইল টাইপ অনুযায়ী ফিল্টার করুন।"
+   },
+   "developer_website": {
+      "message": "বিকাশকারী ওয়েবসাইট"
+   },
+   "dialog_cancel": {
+      "message": "বাতিল করুন"
+   },
+   "dialog_dont_show_again": {
+      "message": "পরের বার এই ডায়ালগ দেখাবেন না"
+   },
+   "dialog_download_image": {
+      "message": "ছবি ডাউনলোড করুন"
+   },
+   "dialog_open_settings": {
+      "message": "Chrome ডাউনলোড সেটিং"
+   },
+   "dialog_otherwise": {
+      "message": "Chrome ডাউনলোড সেটিং-এ বিকল্প। অন্যথায়, আপনি যখন ছবিটি ডাউনলোড করবেন, অনেক নিশ্চিতকরণ ডায়ালগ বক্স পপ আপ হবে।"
+   },
+   "dialog_please_do_not_select": {
+      "message": "দয়া করে নির্বাচন করবেন না"
+   },
+   "dialog_title": {
+      "message": "Chrome ডাউনলোড সেটিং"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "ডাউনলোড করার আগে প্রতিটি ফাইল কোথায় সংরক্ষণ করবেন তা জিজ্ঞাসা করুন"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 ছবি"
+   },
+   "menu_all_tabs": {
+      "message": "সব ট্যাব"
+   },
+   "menu_current_tab": {
+      "message": "বর্তমান ট্যাব"
+   },
+   "menu_left_tab": {
+      "message": "বর্তমান ট্যাবের বামে"
+   },
+   "menu_right_tab": {
+      "message": "বর্তমান ট্যাবের ডানদিকে"
+   },
+   "name": {
+      "message": "বাল্ক ইমেজ ডাউনলোডার"
+   },
+   "panel_height": {
+      "message": "উচ্চতা"
+   },
+   "panel_image_types": {
+      "message": "ছবির ধরন"
+   },
+   "panel_sort": {
+      "message": "সাজান"
+   },
+   "panel_width": {
+      "message": "প্রস্থ"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "পরে"
+   },
+   "rate_prompt_message": {
+      "message": "আপনার ৫-তারা রেটিং এই এক্সটেনশনটি উন্নত করার সবচেয়ে বড় সমর্থন।"
+   },
+   "rate_prompt_no_thanks": {
+      "message": "না, ধন্যবাদ"
+   },
+   "rate_prompt_rate": {
+      "message": "৫ তারা দিন"
+   },
+   "rate_prompt_title": {
+      "message": "এই এক্সটেনশনটি পছন্দ হয়েছে?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "প্রথমে বড়"
+   },
+   "sort_small_first": {
+      "message": "প্রথমে ছোট"
+   },
+   "sort_tab_index": {
+      "message": "ট্যাব সূচক"
+   },
+   "title_click_toggle": {
+      "message": "চেক বা আনচেক করতে ক্লিক করুন"
+   },
+   "title_dark_mode": {
+      "message": "ডার্ক মোডে স্যুইচ করুন"
+   },
+   "title_downloads_setting": {
+      "message": "Chrome ডাউনলোড সেটিং"
+   },
+   "title_light_mode": {
+      "message": "লাইট মোডে স্যুইচ করুন"
+   },
+   "title_rate": {
+      "message": "এই এক্সটেনশন রেট"
+   }
+}

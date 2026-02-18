@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Tải xuống"
+   },
+   "action_invert_selection": {
+      "message": "Đảo ngược lựa chọn"
+   },
+   "action_selected_count": {
+      "message": "($1 đã chọn)"
+   },
+   "description": {
+      "message": "Tải xuống hàng loạt hình ảnh từ nhiều tab chỉ bằng một cú nhấp chuột. Hỗ trợ AVIF, WebP và hình ảnh do AI tạo. Lọc theo độ phân giải và loại tệp."
+   },
+   "developer_website": {
+      "message": "Trang web dành cho nhà phát triển"
+   },
+   "dialog_cancel": {
+      "message": "Hủy bỏ"
+   },
+   "dialog_dont_show_again": {
+      "message": "Không hiển thị hộp thoại này vào lần sau"
+   },
+   "dialog_download_image": {
+      "message": "Tải hình ảnh xuống"
+   },
+   "dialog_open_settings": {
+      "message": "Cài đặt tải xuống trên Chrome"
+   },
+   "dialog_otherwise": {
+      "message": "tùy chọn trong Cài đặt tải xuống của Chrome. Nếu không, khi bạn tải ảnh xuống, rất nhiều hộp thoại xác nhận sẽ bật lên."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Vui lòng không chọn"
+   },
+   "dialog_title": {
+      "message": "Cài đặt tải xuống trên Chrome"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Hỏi nơi lưu từng file trước khi tải xuống"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 hình ảnh"
+   },
+   "menu_all_tabs": {
+      "message": "Tất cả các tab"
+   },
+   "menu_current_tab": {
+      "message": "Tab hiện tại"
+   },
+   "menu_left_tab": {
+      "message": "Bên trái tab hiện tại"
+   },
+   "menu_right_tab": {
+      "message": "Bên phải tab hiện tại"
+   },
+   "name": {
+      "message": "Trình tải xuống hình ảnh hàng loạt"
+   },
+   "panel_height": {
+      "message": "Chiều cao"
+   },
+   "panel_image_types": {
+      "message": "Các loại hình ảnh"
+   },
+   "panel_sort": {
+      "message": "Loại"
+   },
+   "panel_width": {
+      "message": "Chiều rộng"
+   },
+   "range_inf": {
+      "message": "thông tin"
+   },
+   "rate_prompt_later": {
+      "message": "Để sau"
+   },
+   "rate_prompt_message": {
+      "message": "Đánh giá 5 sao của bạn là sự ủng hộ lớn nhất để tiếp tục cải thiện tiện ích này."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Không, cảm ơn"
+   },
+   "rate_prompt_rate": {
+      "message": "Đánh giá 5 sao"
+   },
+   "rate_prompt_title": {
+      "message": "Bạn thích tiện ích này?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Lớn đầu tiên"
+   },
+   "sort_small_first": {
+      "message": "Nhỏ đầu tiên"
+   },
+   "sort_tab_index": {
+      "message": "Chỉ mục tab"
+   },
+   "title_click_toggle": {
+      "message": "Bấm để chọn hoặc bỏ chọn"
+   },
+   "title_dark_mode": {
+      "message": "Chuyển sang chế độ tối"
+   },
+   "title_downloads_setting": {
+      "message": "Cài đặt tải xuống trên Chrome"
+   },
+   "title_light_mode": {
+      "message": "Chuyển sang chế độ ánh sáng"
+   },
+   "title_rate": {
+      "message": "Đánh giá tiện ích mở rộng này"
+   }
+}

@@ -1,0 +1,125 @@
+{
+  "name": {
+    "message": "Magnmynda niðurhal"
+  },
+  "description": {
+    "message": "Halaðu niður myndir í stórum mæli frá mörgum flipum með einum smelli. Styður AVIF, WebP og myndir búnar til af gervigreind. Sía eftir upplausn og skráartegund."
+  },
+  "download_settings_save_confirm_key": {
+    "message": "Spyrðu hvar eigi að vista hverja skrá áður en þú hleður niður"
+  },
+  "menu_all_tabs": {
+    "message": "Allir flipar"
+  },
+  "menu_current_tab": {
+    "message": "Núverandi flipi"
+  },
+  "menu_right_tab": {
+    "message": "Hægri við núverandi flipa"
+  },
+  "menu_left_tab": {
+    "message": "Vinstri við núverandi flipa"
+  },
+  "shortcut_alt_a": {
+    "message": "Alt+A"
+  },
+  "shortcut_alt_c": {
+    "message": "Alt+C"
+  },
+  "shortcut_alt_r": {
+    "message": "Alt+R"
+  },
+  "shortcut_alt_l": {
+    "message": "Alt+L"
+  },
+  "dialog_title": {
+    "message": "Chrome niðurhalsstilling"
+  },
+  "dialog_please_do_not_select": {
+    "message": "Vinsamlegast ekki velja"
+  },
+  "dialog_otherwise": {
+    "message": "valkostur í Chrome niðurhalsstillingu. Annars, þegar þú halar niður myndinni, mun fjöldi staðfestingarglugga skjóta upp kollinum."
+  },
+  "dialog_open_settings": {
+    "message": "Chrome niðurhalsstilling"
+  },
+  "dialog_dont_show_again": {
+    "message": "Ekki sýna þennan glugga næst"
+  },
+  "dialog_cancel": {
+    "message": "Hætta við"
+  },
+  "dialog_download_image": {
+    "message": "Sækja mynd"
+  },
+  "panel_width": {
+    "message": "Breidd"
+  },
+  "panel_height": {
+    "message": "Hæð"
+  },
+  "panel_image_types": {
+    "message": "Myndagerðir"
+  },
+  "panel_sort": {
+    "message": "Raða"
+  },
+  "sort_tab_index": {
+    "message": "Flipavísitala"
+  },
+  "sort_large_first": {
+    "message": "Stór fyrst"
+  },
+  "sort_small_first": {
+    "message": "Lítið fyrst"
+  },
+  "range_inf": {
+    "message": "inf"
+  },
+  "action_invert_selection": {
+    "message": "Snúa við vali"
+  },
+  "action_download": {
+    "message": "Sækja"
+  },
+  "action_selected_count": {
+    "message": "($1 valinn)"
+  },
+  "info_images_count": {
+    "message": "$1 / $2 myndir"
+  },
+  "title_light_mode": {
+    "message": "Skiptu yfir í ljósastillingu"
+  },
+  "title_dark_mode": {
+    "message": "Skiptu yfir í dökka stillingu"
+  },
+  "title_rate": {
+    "message": "Gefðu þessari viðbót einkunn"
+  },
+  "title_downloads_setting": {
+    "message": "Chrome niðurhalsstilling"
+  },
+  "developer_website": {
+    "message": "Vefsvæði þróunaraðila"
+  },
+  "title_click_toggle": {
+    "message": "Smelltu til að haka við eða afmerkja"
+  },
+  "rate_prompt_title": {
+    "message": "Enjoying this extension?"
+  },
+  "rate_prompt_message": {
+    "message": "Your 5-star rating is the biggest support for me to keep improving this extension."
+  },
+  "rate_prompt_rate": {
+    "message": "Rate 5 Stars"
+  },
+  "rate_prompt_later": {
+    "message": "Maybe Later"
+  },
+  "rate_prompt_no_thanks": {
+    "message": "No, Thanks"
+  }
+}

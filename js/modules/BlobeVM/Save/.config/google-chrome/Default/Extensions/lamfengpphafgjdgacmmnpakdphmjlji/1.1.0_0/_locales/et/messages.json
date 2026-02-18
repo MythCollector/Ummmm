@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Laadi alla"
+   },
+   "action_invert_selection": {
+      "message": "Valiku ümberpööramine"
+   },
+   "action_selected_count": {
+      "message": "($1 valitud)"
+   },
+   "description": {
+      "message": "Laadige pildid hulgi alla mitmest vahekaardist ühe klõpsuga. Toetab AVIF-, WebP- ja AI loodud pilte. Filtreeri eraldusvõime ja failitüübi järgi."
+   },
+   "developer_website": {
+      "message": "Arendaja veebisait"
+   },
+   "dialog_cancel": {
+      "message": "Tühista"
+   },
+   "dialog_dont_show_again": {
+      "message": "Ära näita seda dialoogi järgmisel korral"
+   },
+   "dialog_download_image": {
+      "message": "Laadige pilt alla"
+   },
+   "dialog_open_settings": {
+      "message": "Chrome'i allalaadimiste seade"
+   },
+   "dialog_otherwise": {
+      "message": "valik Chrome'i allalaadimiste seades. Vastasel juhul kuvatakse pildi allalaadimisel palju kinnitusdialoogiboksi."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Palun ärge valige"
+   },
+   "dialog_title": {
+      "message": "Chrome'i allalaadimiste seade"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Enne allalaadimist küsige, kuhu iga fail salvestada"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 pilti"
+   },
+   "menu_all_tabs": {
+      "message": "Kõik vahelehed"
+   },
+   "menu_current_tab": {
+      "message": "Praegune vahekaart"
+   },
+   "menu_left_tab": {
+      "message": "Praegusest vahekaardist vasakul"
+   },
+   "menu_right_tab": {
+      "message": "Praegusest vahekaardist paremal"
+   },
+   "name": {
+      "message": "Hulgipiltide allalaadija"
+   },
+   "panel_height": {
+      "message": "Kõrgus"
+   },
+   "panel_image_types": {
+      "message": "Piltide tüübid"
+   },
+   "panel_sort": {
+      "message": "Sorteeri"
+   },
+   "panel_width": {
+      "message": "Laius"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Võib-olla hiljem"
+   },
+   "rate_prompt_message": {
+      "message": "Teie 5-tärni hinnang on suurim tugi selle laienduse parandamiseks."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Ei, aitäh"
+   },
+   "rate_prompt_rate": {
+      "message": "Anna 5 tärni"
+   },
+   "rate_prompt_title": {
+      "message": "Kas teile meeldib see laiendus?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Kõigepealt suur"
+   },
+   "sort_small_first": {
+      "message": "Kõigepealt väike"
+   },
+   "sort_tab_index": {
+      "message": "Vahekaardi indeks"
+   },
+   "title_click_toggle": {
+      "message": "Klõpsake märkimiseks või tühjendamiseks"
+   },
+   "title_dark_mode": {
+      "message": "Lülitage tumedale režiimile"
+   },
+   "title_downloads_setting": {
+      "message": "Chrome'i allalaadimiste seade"
+   },
+   "title_light_mode": {
+      "message": "Lülitage valgusrežiimile"
+   },
+   "title_rate": {
+      "message": "Hinda seda laiendust"
+   }
+}

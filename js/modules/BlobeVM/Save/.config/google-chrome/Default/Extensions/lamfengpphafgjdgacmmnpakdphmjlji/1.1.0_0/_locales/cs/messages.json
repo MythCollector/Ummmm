@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Stáhnout"
+   },
+   "action_invert_selection": {
+      "message": "Invertovat výběr"
+   },
+   "action_selected_count": {
+      "message": "($1 vybráno)"
+   },
+   "description": {
+      "message": "Hromadně stahujte obrázky z více karet jedním kliknutím. Podporuje AVIF, WebP a obrázky generované AI. Filtrujte podle rozlišení a typu souboru."
+   },
+   "developer_website": {
+      "message": "Web pro vývojáře"
+   },
+   "dialog_cancel": {
+      "message": "Zrušit"
+   },
+   "dialog_dont_show_again": {
+      "message": "Příště tento dialog nezobrazovat"
+   },
+   "dialog_download_image": {
+      "message": "Stáhnout obrázek"
+   },
+   "dialog_open_settings": {
+      "message": "Nastavení stahování Chrome"
+   },
+   "dialog_otherwise": {
+      "message": "možnost v nastavení stahování Chrome. V opačném případě se při stahování obrázku objeví mnoho potvrzovacích dialogů."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Prosím nevybírejte"
+   },
+   "dialog_title": {
+      "message": "Nastavení stahování Chrome"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Před stažením se zeptejte, kam chcete jednotlivé soubory uložit"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 obrázky"
+   },
+   "menu_all_tabs": {
+      "message": "Všechny karty"
+   },
+   "menu_current_tab": {
+      "message": "Aktuální karta"
+   },
+   "menu_left_tab": {
+      "message": "Vlevo od aktuální karty"
+   },
+   "menu_right_tab": {
+      "message": "Vpravo od aktuální karty"
+   },
+   "name": {
+      "message": "Hromadné stahování obrázků"
+   },
+   "panel_height": {
+      "message": "Výška"
+   },
+   "panel_image_types": {
+      "message": "Typy obrázků"
+   },
+   "panel_sort": {
+      "message": "Seřadit"
+   },
+   "panel_width": {
+      "message": "Šířka"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Možná později"
+   },
+   "rate_prompt_message": {
+      "message": "Vaše 5hvězdičkové hodnocení je největší podpora pro vylepšování tohoto rozšíření."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Ne, děkuji"
+   },
+   "rate_prompt_rate": {
+      "message": "Ohodnotit 5 hvězdičkami"
+   },
+   "rate_prompt_title": {
+      "message": "Líbí se vám toto rozšíření?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Nejprve velký"
+   },
+   "sort_small_first": {
+      "message": "Nejprve malý"
+   },
+   "sort_tab_index": {
+      "message": "Index karet"
+   },
+   "title_click_toggle": {
+      "message": "Klepnutím zaškrtněte nebo zrušte zaškrtnutí"
+   },
+   "title_dark_mode": {
+      "message": "Přepněte do tmavého režimu"
+   },
+   "title_downloads_setting": {
+      "message": "Nastavení stahování Chrome"
+   },
+   "title_light_mode": {
+      "message": "Přepněte do světelného režimu"
+   },
+   "title_rate": {
+      "message": "Ohodnoťte toto rozšíření"
+   }
+}

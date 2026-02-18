@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "تحميل"
+   },
+   "action_invert_selection": {
+      "message": "عكس التحديد"
+   },
+   "action_selected_count": {
+      "message": "( 1 تم التحديد )"
+   },
+   "description": {
+      "message": "تنزيل الصور بالجملة من علامات تبويب متعددة بنقرة واحدة. يدعم AVIF وWebP والصور المُنشأة بالذكاء الاصطناعي. تصفية حسب الدقة ونوع الملف."
+   },
+   "developer_website": {
+      "message": "موقع المطور"
+   },
+   "dialog_cancel": {
+      "message": "يلغي"
+   },
+   "dialog_dont_show_again": {
+      "message": "عدم إظهار مربع الحوار هذا في المرة القادمة"
+   },
+   "dialog_download_image": {
+      "message": "تحميل الصورة"
+   },
+   "dialog_open_settings": {
+      "message": "إعداد تنزيلات Chrome"
+   },
+   "dialog_otherwise": {
+      "message": "الخيار في إعداد تنزيلات Chrome. بخلاف ذلك، عند تنزيل الصورة، سيظهر مربع حوار كبير للتأكيد."
+   },
+   "dialog_please_do_not_select": {
+      "message": "من فضلك لا تختار"
+   },
+   "dialog_title": {
+      "message": "إعداد تنزيلات Chrome"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "اسأل عن مكان حفظ كل ملف قبل التنزيل"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 الصور"
+   },
+   "menu_all_tabs": {
+      "message": "جميع علامات التبويب"
+   },
+   "menu_current_tab": {
+      "message": "علامة التبويب الحالية"
+   },
+   "menu_left_tab": {
+      "message": "يسار علامة التبويب الحالية"
+   },
+   "menu_right_tab": {
+      "message": "حق علامة التبويب الحالية"
+   },
+   "name": {
+      "message": "تنزيل الصور بالجملة"
+   },
+   "panel_height": {
+      "message": "ارتفاع"
+   },
+   "panel_image_types": {
+      "message": "أنواع الصور"
+   },
+   "panel_sort": {
+      "message": "نوع"
+   },
+   "panel_width": {
+      "message": "عرض"
+   },
+   "range_inf": {
+      "message": "الوقود النووي المشع"
+   },
+   "rate_prompt_later": {
+      "message": "ربما لاحقاً"
+   },
+   "rate_prompt_message": {
+      "message": "تقييمك بـ 5 نجوم هو أكبر دعم لمواصلة تحسين هذه الإضافة."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "لا، شكراً"
+   },
+   "rate_prompt_rate": {
+      "message": "تقييم 5 نجوم"
+   },
+   "rate_prompt_title": {
+      "message": "هل تعجبك هذه الإضافة؟"
+   },
+   "shortcut_alt_a": {
+      "message": "البديل+أ"
+   },
+   "shortcut_alt_c": {
+      "message": "البديل+ج"
+   },
+   "shortcut_alt_l": {
+      "message": "البديل+ل"
+   },
+   "shortcut_alt_r": {
+      "message": "البديل+ر"
+   },
+   "sort_large_first": {
+      "message": "كبيرة أولا"
+   },
+   "sort_small_first": {
+      "message": "الصغيرة أولا"
+   },
+   "sort_tab_index": {
+      "message": "مؤشر علامة التبويب"
+   },
+   "title_click_toggle": {
+      "message": "انقر للتحقق أو إلغاء التحديد"
+   },
+   "title_dark_mode": {
+      "message": "التبديل إلى الوضع المظلم"
+   },
+   "title_downloads_setting": {
+      "message": "إعداد تنزيلات Chrome"
+   },
+   "title_light_mode": {
+      "message": "التبديل إلى وضع الضوء"
+   },
+   "title_rate": {
+      "message": "قيم هذا الامتداد"
+   }
+}

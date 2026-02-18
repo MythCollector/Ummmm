@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "ダウンロード"
+   },
+   "action_invert_selection": {
+      "message": "選択範囲を反転"
+   },
+   "action_selected_count": {
+      "message": "($1 選択済み)"
+   },
+   "description": {
+      "message": "ワンクリックで複数のタブから画像を一括ダウンロード。AVIF、WebP、AI生成画像に対応。解像度とファイルタイプでフィルター。"
+   },
+   "developer_website": {
+      "message": "開発者ウェブサイト"
+   },
+   "dialog_cancel": {
+      "message": "キャンセル"
+   },
+   "dialog_dont_show_again": {
+      "message": "次回からこのダイアログを表示しない"
+   },
+   "dialog_download_image": {
+      "message": "画像をダウンロード"
+   },
+   "dialog_open_settings": {
+      "message": "Chromeのダウンロード設定"
+   },
+   "dialog_otherwise": {
+      "message": "Chromeのダウンロード設定のオプション。 そうしないと、画像をダウンロードするときに、多くの確認ダイアログ ボックスが表示されます。"
+   },
+   "dialog_please_do_not_select": {
+      "message": "選択しないでください"
+   },
+   "dialog_title": {
+      "message": "Chromeのダウンロード設定"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "ダウンロードする前に各ファイルの保存場所を尋ねる"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 画像"
+   },
+   "menu_all_tabs": {
+      "message": "すべてのタブ"
+   },
+   "menu_current_tab": {
+      "message": "現在のタブ"
+   },
+   "menu_left_tab": {
+      "message": "現在のタブの左側"
+   },
+   "menu_right_tab": {
+      "message": "現在のタブの右側"
+   },
+   "name": {
+      "message": "一括画像ダウンローダー"
+   },
+   "panel_height": {
+      "message": "身長"
+   },
+   "panel_image_types": {
+      "message": "画像の種類"
+   },
+   "panel_sort": {
+      "message": "選別"
+   },
+   "panel_width": {
+      "message": "幅"
+   },
+   "range_inf": {
+      "message": "無限"
+   },
+   "rate_prompt_later": {
+      "message": "後で"
+   },
+   "rate_prompt_message": {
+      "message": "5つ星の評価は、この拡張機能を改善し続けるための最大のサポートです。"
+   },
+   "rate_prompt_no_thanks": {
+      "message": "いいえ、結構です"
+   },
+   "rate_prompt_rate": {
+      "message": "5つ星で評価"
+   },
+   "rate_prompt_title": {
+      "message": "この拡張機能を気に入っていますか？"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "まず大きい"
+   },
+   "sort_small_first": {
+      "message": "まずは小さいものから"
+   },
+   "sort_tab_index": {
+      "message": "タブインデックス"
+   },
+   "title_click_toggle": {
+      "message": "クリックしてチェックを入れるか外します"
+   },
+   "title_dark_mode": {
+      "message": "ダークモードに切り替える"
+   },
+   "title_downloads_setting": {
+      "message": "Chromeのダウンロード設定"
+   },
+   "title_light_mode": {
+      "message": "ライトモードに切り替える"
+   },
+   "title_rate": {
+      "message": "この拡張機能を評価します"
+   }
+}

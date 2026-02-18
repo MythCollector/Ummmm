@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Преузми"
+   },
+   "action_invert_selection": {
+      "message": "Инверт Селецтион"
+   },
+   "action_selected_count": {
+      "message": "(изабрано $1)"
+   },
+   "description": {
+      "message": "Преузмите слике у маси од неколико картица једним кликом. Подржава AVIF, WebP и слике генерисане вештачком интелигенцијом. Филтрирајте по резолуцији и типу датотеке."
+   },
+   "developer_website": {
+      "message": "Девелопер Вебсите"
+   },
+   "dialog_cancel": {
+      "message": "Откажи"
+   },
+   "dialog_dont_show_again": {
+      "message": "Не приказуј овај дијалог следећи пут"
+   },
+   "dialog_download_image": {
+      "message": "Преузмите слику"
+   },
+   "dialog_open_settings": {
+      "message": "Подешавање преузимања Цхроме-а"
+   },
+   "dialog_otherwise": {
+      "message": "опцију у подешавањима Цхроме преузимања. У супротном, када преузмете слику, појавиће се велики број дијалога за потврду."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Немојте бирати"
+   },
+   "dialog_title": {
+      "message": "Подешавање преузимања Цхроме-а"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Питајте где да сачувате сваку датотеку пре преузимања"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 слике"
+   },
+   "menu_all_tabs": {
+      "message": "Све картице"
+   },
+   "menu_current_tab": {
+      "message": "Тренутна картица"
+   },
+   "menu_left_tab": {
+      "message": "Лево од тренутне картице"
+   },
+   "menu_right_tab": {
+      "message": "Десно од тренутне картице"
+   },
+   "name": {
+      "message": "Булк Имаге Довнлоадер"
+   },
+   "panel_height": {
+      "message": "Висина"
+   },
+   "panel_image_types": {
+      "message": "Типови слика"
+   },
+   "panel_sort": {
+      "message": "Сортирај"
+   },
+   "panel_width": {
+      "message": "Ширина"
+   },
+   "range_inf": {
+      "message": "инф"
+   },
+   "rate_prompt_later": {
+      "message": "Можда касније"
+   },
+   "rate_prompt_message": {
+      "message": "Ваша оцена од 5 звездица је највећа подршка за побољшање овог проширења."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Не, хвала"
+   },
+   "rate_prompt_rate": {
+      "message": "Оцените са 5 звездица"
+   },
+   "rate_prompt_title": {
+      "message": "Да ли вам се свиђа ово проширење?"
+   },
+   "shortcut_alt_a": {
+      "message": "Алт+А"
+   },
+   "shortcut_alt_c": {
+      "message": "Алт+Ц"
+   },
+   "shortcut_alt_l": {
+      "message": "Алт+Л"
+   },
+   "shortcut_alt_r": {
+      "message": "Алт+Р"
+   },
+   "sort_large_first": {
+      "message": "Прво велико"
+   },
+   "sort_small_first": {
+      "message": "Прво мали"
+   },
+   "sort_tab_index": {
+      "message": "Таб индекс"
+   },
+   "title_click_toggle": {
+      "message": "Кликните да потврдите или опозовите избор"
+   },
+   "title_dark_mode": {
+      "message": "Пребаците на тамни режим"
+   },
+   "title_downloads_setting": {
+      "message": "Подешавање преузимања Цхроме-а"
+   },
+   "title_light_mode": {
+      "message": "Пребаците на светлосни режим"
+   },
+   "title_rate": {
+      "message": "Оцените ово проширење"
+   }
+}

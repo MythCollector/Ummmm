@@ -1,0 +1,125 @@
+{
+   "action_download": {
+      "message": "Last ned"
+   },
+   "action_invert_selection": {
+      "message": "Inverter utvalg"
+   },
+   "action_selected_count": {
+      "message": "($1 valgt)"
+   },
+   "description": {
+      "message": "Last ned bilder i bulk fra flere faner med ett klikk. Støtter AVIF, WebP og AI-genererte bilder. Filtrer etter oppløsning og filtype."
+   },
+   "developer_website": {
+      "message": "Utviklernettsted"
+   },
+   "dialog_cancel": {
+      "message": "Kansellere"
+   },
+   "dialog_dont_show_again": {
+      "message": "Ikke vis denne dialogboksen neste gang"
+   },
+   "dialog_download_image": {
+      "message": "Last ned bilde"
+   },
+   "dialog_open_settings": {
+      "message": "Chrome Nedlastingsinnstilling"
+   },
+   "dialog_otherwise": {
+      "message": "alternativet i Chrome Nedlastingsinnstilling. Ellers, når du laster ned bildet, vil mange bekreftelsesdialogbokser dukke opp."
+   },
+   "dialog_please_do_not_select": {
+      "message": "Vennligst ikke velg"
+   },
+   "dialog_title": {
+      "message": "Chrome Nedlastingsinnstilling"
+   },
+   "download_settings_save_confirm_key": {
+      "message": "Spør hvor du skal lagre hver fil før du laster ned"
+   },
+   "info_images_count": {
+      "message": "$1 / $2 bilder"
+   },
+   "menu_all_tabs": {
+      "message": "Alle faner"
+   },
+   "menu_current_tab": {
+      "message": "Gjeldende fane"
+   },
+   "menu_left_tab": {
+      "message": "Til venstre for gjeldende fane"
+   },
+   "menu_right_tab": {
+      "message": "Høyre for gjeldende fane"
+   },
+   "name": {
+      "message": "Last ned massebilde"
+   },
+   "panel_height": {
+      "message": "Høyde"
+   },
+   "panel_image_types": {
+      "message": "Bildetyper"
+   },
+   "panel_sort": {
+      "message": "Sortere"
+   },
+   "panel_width": {
+      "message": "Bredde"
+   },
+   "range_inf": {
+      "message": "inf"
+   },
+   "rate_prompt_later": {
+      "message": "Kanskje senere"
+   },
+   "rate_prompt_message": {
+      "message": "Din 5-stjerners vurdering er den største støtten for å fortsette å forbedre denne utvidelsen."
+   },
+   "rate_prompt_no_thanks": {
+      "message": "Nei takk"
+   },
+   "rate_prompt_rate": {
+      "message": "Gi 5 stjerner"
+   },
+   "rate_prompt_title": {
+      "message": "Liker du denne utvidelsen?"
+   },
+   "shortcut_alt_a": {
+      "message": "Alt+A"
+   },
+   "shortcut_alt_c": {
+      "message": "Alt+C"
+   },
+   "shortcut_alt_l": {
+      "message": "Alt+L"
+   },
+   "shortcut_alt_r": {
+      "message": "Alt+R"
+   },
+   "sort_large_first": {
+      "message": "Stor først"
+   },
+   "sort_small_first": {
+      "message": "Liten først"
+   },
+   "sort_tab_index": {
+      "message": "Faneindeks"
+   },
+   "title_click_toggle": {
+      "message": "Klikk for å merke av eller fjerne merket"
+   },
+   "title_dark_mode": {
+      "message": "Bytt til mørk modus"
+   },
+   "title_downloads_setting": {
+      "message": "Chrome Nedlastingsinnstilling"
+   },
+   "title_light_mode": {
+      "message": "Bytt til lysmodus"
+   },
+   "title_rate": {
+      "message": "Vurder denne utvidelsen"
+   }
+}
