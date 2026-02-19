@@ -7,6 +7,8 @@ document.addEventListener("DOMContentLoaded", async () => {
   "./modules/bookmarklets/bookmarklets.js",
   "./modules/BlobeVM/BlobeVM.js",
   "./modules/rythm game/module.js",
+  "./modules/mp4player/mp4player.js.js",
+
 ];
 
 

@@ -1,0 +1,97 @@
+{
+   "checksum": "6a4737ca361bac3c7cb3a49ea6e4eb14",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13407972888051352",
+               "date_last_used": "0",
+               "guid": "1c41f703-0bc5-43d3-b0f3-b3f840a24fb9",
+               "id": "6",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "CookieClicker",
+               "type": "url",
+               "url": "https://orteil.dashnet.org/cookieclicker/"
+            } ],
+            "date_added": "13407972914381736",
+            "date_last_used": "0",
+            "date_modified": "13407972914381736",
+            "guid": "b351b81a-ad23-4e34-843b-f115b16c879c",
+            "id": "5",
+            "name": "Games",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13408464721445123",
+               "date_last_used": "0",
+               "guid": "275e8b34-83ca-4e1d-842d-dc7b51a93a00",
+               "id": "8",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Hubert - CharacterHub",
+               "type": "url",
+               "url": "https://characterhub.com/my-creations?tab=characters"
+            } ],
+            "date_added": "13408464734916240",
+            "date_last_used": "0",
+            "date_modified": "13408464734916240",
+            "guid": "96944743-1697-42e7-8199-a886e3f95aee",
+            "id": "7",
+            "name": "Stuff",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13408056077268318",
+               "date_last_used": "13408056181678423",
+               "guid": "b46eabb1-21c0-45d8-a239-8c1ec0c6ef5c",
+               "id": "10",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "HowToSignIn",
+               "type": "url",
+               "url": "https://accounts.google.com/v3/signin/recoveryidentifier?flowName=GlifWebSignIn&dsh=S1111265169%3A1763582475819575"
+            } ],
+            "date_added": "13408464743150232",
+            "date_last_used": "0",
+            "date_modified": "13408464743150232",
+            "guid": "86bf7837-3fcd-40e7-a71a-8ed4def3b5cc",
+            "id": "9",
+            "name": "Important",
+            "type": "folder"
+         } ],
+         "date_added": "13415895237246443",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13415895237246443",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13415895237246443",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Ct8BCr4BCIiBAhK3ASAAkgGjAQqgAQoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJbJ+FRBlLBgARbJ+FRBlLBgAiNAksXWxEGUsGABADGfGKhi5ghaEyIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAksXWxEGUsGABADGfGKhi5ghaEyIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEpdJ2GRBlLBgDqAQsIvIDXzAYQmLKGPRIAKhhVbUlLNXl1MnBMYmZxVHRJVWplellRPT1IAxLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWng5TktVOGYxVjhTY2VLTHJhY2ZjVVZMVUpleVNmbC9jKzFmdGlSZ0FLZG9qa01OU1RvUmt2dzZleVFhN2xDbDlNUUMyM3FnYzZOTzhBdmZ5UEl3M1JNNU85R2xRPT0YACAAKAAw2qP34KOGkgM4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABLrAQgIEuYBChwrRmdseENBdDIwUkF1WGtqQjdPK2h3M3RyaVU9EmZaOkFEcXRBWnhxc1djNUF3UTZyQ203bFVvOHNnOGI5RTJ3a1ZjMFFUZ2xPd3BFRE1PdjVQd2pHQVFGdUFYNlpyREVidHk5enA4QlltbDRvOEdueXR1bFFUeUdYNGQyNVhQOEVRPT0YACAAKAAwzY6eivOKkQM4pdzBsKszQKXcwbCrM0ocZXdMNlJSR0RTWmFmUjQ4bFo3WXFNTHhDZ0ZRPVoeIhxlVGhsL1dyeGkzeVdHNTUwL2R0d0M1a09yUnM9ZUhGKSsS6wEIBRLmAQocUUd0WmZyOGNDN21nOHQ0VytMRDJSeFUyS09nPRJmWjpBRHF0QVp4cXNXYzVBd1E2ckNtN2xVbzhzZzhibnZSYWZvcjB2SjZ0UzlPYXk4QU82ZWI1TWJBYVBMYnUwdUFYOW11U3RPVnBtZWtFcHYwSytYVDRIdXQ0NGc4dS9nTUp2dz09GAAgACgAMOKksYOw/pADOJq0quOpM0CatKrjqTNKHDN0S2dOb010MXBJdk5UUzBOTkdQQlp4cVdQQT1aHiIcR3pxeW5yOFdFbXNtY0U5dG9vUzdXOHR2RkxzPWUAAAAAEusBCAYS5gEKHGJqWUE5cnljbE05MFpkOXVSNEF2MEs2NWJydz0SZlo6QURxdEFaeHFzV2M1QXdRNnJDbTdsVW84c2c4YmpFemxMb21ROWZjbWZrZ01xb0VSeUl4RERyVW9IcE1WaUtsbDQrV1l3cC92WjQ4aHJ0MUNmWXZhQlZzQVh2TmZuSm5SVVE9PRgAIAAoADDipLGDsP6QAziatKrjqTNAmrSq46kzShxIQzNPT0tmbENPb3ducHlYVlUzWHZHbFVMVFU9Wh4iHEhzZy93V251OTJ6U0RNR1dDSHpEekRrOUswZz1ldPgz1xLsAQgJEucBChwvYi9ZaUdWWlBMNnB6a0tMUmJFUlY3UTdkU3M9EmZaOkFEcXRBWnhxc1djNUF3UTZyQ203bFVvOHNnOGIvcW9pRWxhck5TOHpTU2tRbEFZMWdqdGdpZFFIZ29BQ0xHSlNXV3hlSUpkWGdCdWlORHIxUmlNaXNhQkp1czVxUGw3cVZBPT0YACAAKAAwkr3ijPOKkQM47oXDsKszQO6Fw7CrM0ocalFSRG9YSzRyNVBOSXMzM1dXMWxiMGlvZ1pVPVofIh3ZYzIxS3ZTdEVWNmk1ZWhBZWFRK2hPTE5nYTZvPWUAAAAAEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaeGpjb1VYNklxdXZGUlg4Q25sQjU3cExuVlBiSEZEU0cwSFZjNUVvRFhVZFN5WE1ZUDhRVzRxWml5bUZZTTJTY2ZkTzZFNBgAIAAoADDao/fgo4aSAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEuwBCAcS5wEKHHVNR0RmSEN0bGpDWjlDL1F0bmpxZE1kOHVRND0SZlo6QURxdEFaeHFzV2M1QXdRNnJDbTdsVW84c2c4YnhrZ0hmUytzRDlNTkVYNUN6eFVGU1dhUUNNNkpaSHIweVEzOHNldnNxWlA4SnJuZmRIVkY3dXc0Ylhib1RjQUp3YnBkV2c9PRgAIAAoADDV7+yI84qRAzjExcKwqzNAxMXCsKszShxoa1E1ajF2MDhZZGc5ZURkM21EL1JnU3BqaTg9Wh8iHbJWTG82Z2ZINTNrZTZ4MW45S2k0QXpwdkFkdE09ZQAAAAAS6wEIChLmAQocRmdLTHkvQnN1TVpiL0NhOUNZam91ZjBxTnNjPRJmWjpBRHF0QVp4cXNXYzVBd1E2ckNtN2xVbzhzZzhiSTkwY21HRjhsRGNCVmRlRFNyQWpxVXdXR2xzZWdZbXdRaGpRSnBZNlJ2TnBEZXNFR2ZxbW9wODdwSk90MWNwbXVVcXFaQT09GAAgACgAMMb3kKj5ipEDONSH1O2pM0DUh9TtqTNKHEhVQ3VoSVM1cXpEMlJwajVvKzR3MC9jRGQ4UT1aHiIcTzJwbm9ad2puMC96MW1qSkJ4c3hvK2FJMG5JPWXaad5dEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeEw0VTZIWHAzNVhJVW9remJVTTZHWUFENFl0aHphbWhuS3lOajkwZkNYeW92MXkxdnlvc0oyOVhSTVRHOFFSc0JqaC9MbHVjQUZBb3hpWE05SVFDL25EWXNyRGc9PRgAIAAoADDao/fgo4aSAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAMAE4AA==",
+   "version": 1
+}
